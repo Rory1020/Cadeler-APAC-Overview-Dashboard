@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>APAC Sector Overview | Cadeler</title>
+<style>
+:root{--navy:#0a1f3c;--navy2:#123863;--ac:#1f7ae0;--bg:#eef2f7;--card:#fff;--tx:#14213a;--mut:#64748b;--bd:#dde4ee;--ok:#15803d;--wa:#b45309;--er:#b91c1c}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:14px/1.5 "Inter","Segoe UI",-apple-system,Arial,sans-serif}
+.hero{color:#fff;padding:26px 24px 70px;background:
+ linear-gradient(135deg,rgba(10,31,60,.96),rgba(18,56,99,.92)),
+ repeating-linear-gradient(90deg,transparent 0 59px,rgba(255,255,255,.05) 59px 60px),
+ repeating-linear-gradient(0deg,transparent 0 59px,rgba(255,255,255,.05) 59px 60px);
+ background-color:var(--navy);border-bottom:4px solid var(--ac)}
+.hero .in,.grid{max-width:1320px;margin:auto}
+.hero h1{margin:0;font-size:26px;letter-spacing:.3px;font-weight:600}
+.hero p{margin:4px 0 0;color:#b7c6dc;font-size:13px}
+.kpis{display:flex;gap:12px;flex-wrap:wrap;margin-top:18px}
+.kpi{background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.16);border-radius:8px;padding:8px 16px;min-width:130px}
+.kpi b{display:block;font-size:22px}.kpi span{font-size:11px;color:#b7c6dc;text-transform:uppercase;letter-spacing:.6px}
+.grid{display:grid;gap:16px;padding:0 24px 40px;margin-top:-44px;grid-template-columns:repeat(auto-fit,minmax(min(100%,430px),1fr))}
+.card{background:var(--card);border:1px solid var(--bd);border-top:3px solid var(--navy2);border-radius:8px;padding:16px;min-width:0;box-shadow:0 2px 8px rgba(10,31,60,.07)}
+.wide{grid-column:1/-1}
+h2{font-size:12px;text-transform:uppercase;letter-spacing:.8px;color:var(--navy2);margin:0 0 12px;display:flex;justify-content:space-between;align-items:center}
+h2 i{font-style:normal;text-transform:none;letter-spacing:0;font-weight:400;color:var(--mut);font-size:11px}
+.scroll{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;color:var(--mut);font-size:11px;text-transform:uppercase;letter-spacing:.5px;padding:6px 8px;border-bottom:2px solid var(--bd)}
+td{padding:8px;border-bottom:1px solid var(--bd);vertical-align:top}
+.pill{display:inline-block;padding:2px 9px;border-radius:4px;font-size:11px;font-weight:600;color:#fff;white-space:nowrap}
+.closing,.risk{background:var(--er)}.open,.active{background:var(--ok)}.planned{background:var(--wa)}.awarded,.complete{background:#64748b}
+.news{list-style:none;margin:0;padding:0}
+.news li{padding:8px 0;border-bottom:1px solid var(--bd)}.news li:last-child{border:0}
+.news small{display:block;color:var(--mut)}
+.sub{font-size:11px;font-weight:700;color:var(--ac);text-transform:uppercase;margin:12px 0 2px}
+a{color:var(--ac);text-decoration:none}a:hover{text-decoration:underline}
+input,select{border:1px solid var(--bd);border-radius:5px;padding:6px 8px;font:inherit;color:var(--tx);background:#fff;min-width:0}
+button{background:var(--navy2);color:#fff;border:0;border-radius:5px;padding:6px 14px;font:inherit;cursor:pointer}
+button:hover{background:var(--ac)}button.g{background:none;color:var(--mut);border:1px solid var(--bd);padding:1px 8px}
+.row{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}.row input{flex:1 1 120px}
+.tl{margin-left:6px;padding-left:16px;border-left:2px solid var(--bd)}
+.tl div{position:relative;padding-bottom:12px}
+.tl div:before{content:"";position:absolute;left:-23px;top:5px;width:10px;height:10px;border-radius:50%;background:var(--ac);border:2px solid #fff}
+.tl .hot:before{background:var(--er)}.tl b{color:var(--navy2)}
+.note{color:var(--mut);font-size:12px;margin-top:8px}
+footer{text-align:center;color:var(--mut);font-size:11px;padding-bottom:24px}
+</style>
+</head>
+<body>
+<div class="hero"><div class="in">
+  <h1>APAC Sector Overview</h1>
+  <p>Cadeler · Asia-Pacific offshore wind daily briefing · News last refreshed: <span id="upd">–</span></p>
+  <div class="kpis" id="kpis"></div>
+</div></div>
+
+<div class="grid">
+<section class="card wide">
+  <h2>1 · Ongoing APAC Tenders &amp; Next Actions <i>edit data/tenders.js</i></h2>
+  <div class="scroll"><table id="tenders"></table></div>
+</section>
+
+<section class="card wide">
+  <h2>2 · Cadeler Vessels in APAC <i>manual entry</i></h2>
+  <a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" target="_blank" rel="noopener"><button>Open MarineTraffic – APAC map ↗</button></a>
+  <span class="note">&nbsp;MarineTraffic cannot be embedded; use each vessel's Track link, then log the position here.</span>
+  <div class="scroll" style="margin-top:10px"><table id="vessels"></table></div>
+  <div class="row">
+    <input id="vn" placeholder="Vessel (e.g. Wind Maker)"><input id="vl" placeholder="Location (e.g. Taichung, TW)">
+    <input id="vs" placeholder="Status / assignment"><input id="vd" type="date"><button onclick="addVessel()">Add vessel</button>
+  </div>
+</section>
+
+<section class="card">
+  <h2>3 · Project Status – Next 12 Months <i>manual entry</i></h2>
+  <div class="scroll"><table id="projects"></table></div>
+  <div class="row">
+    <input id="pd" type="month" style="flex:0 1 140px"><input id="pn" placeholder="Project name">
+    <select id="ps"><option>Planned</option><option>Active</option><option>Risk</option><option>Complete</option></select>
+    <input id="pc" placeholder="Notes"><button onclick="addProj()">Add</button>
+  </div>
+</section>
+
+<section class="card">
+  <h2>6 · Auction Timeline &amp; Status</h2>
+  <div class="tl" id="auctions"></div>
+</section>
+
+<section class="card"><h2>4 · APAC Industry News <i>auto-updated daily</i></h2><div id="news"></div></section>
+<section class="card"><h2>5 · APAC Competitor News <i>auto-updated daily</i></h2><div id="comp"></div></section>
+</div>
+<footer>News via Google News RSS · Tender and auction data curated manually – verify against original sources.</footer>
+
+<script src="data/tenders.js"></script>
+<script src="data/news.js"></script>
+<script>
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const SL={closing:"Closing",open:"Open",planned:"Planned",awarded:"Awarded"};
+const T=window.TENDERS||[],N=window.NEWS||{};
+$("upd").textContent=N.updated||"–";
+$("kpis").innerHTML=[[T.filter(t=>t.status!=="awarded").length,"Active tenders"],[T.filter(t=>t.status==="closing").length,"Closing now"],
+ [(N.industry||[]).length+(N.competitors||[]).length+(N.cadeler||[]).length,"News items"]].map(k=>`<div class="kpi"><b>${k[0]}</b><span>${k[1]}</span></div>`).join("");
+$("tenders").innerHTML="<tr><th>Tender</th><th>Region</th><th>Status</th><th>Key date</th><th>Next action</th></tr>"+
+ T.map(t=>`<tr><td><a href="${esc(t.url)}" target="_blank" rel="noopener"><b>${esc(t.name)}</b></a></td><td>${esc(t.region)}</td><td><span class="pill ${t.status}">${SL[t.status]||t.status}</span><br><small>${esc(t.detail)}</small></td><td>${esc(t.date)}</td><td>${esc(t.next)}</td></tr>`).join("");
+$("auctions").innerHTML=(window.AUCTIONS||[]).map(a=>`<div class="${/2026-09-30/.test(a.date)?"hot":""}"><b>${esc(a.date)}</b><br>${esc(a.text)}</div>`).join("");
+const li=l=>`<ul class="news">${(l||[]).map(x=>`<li><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a><small>${esc(x.source)} · ${esc(x.date)}</small></li>`).join("")||"<li>No items</li>"}</ul>`;
+$("news").innerHTML=li(N.industry);
+$("comp").innerHTML=li(N.competitors)+`<div class="sub">Cadeler / Nexra</div>`+li(N.cadeler);
+
+/* manual sections: browser storage with fallback */
+let mem={};
+const load=(k,d)=>{try{const v=localStorage.getItem(k);return v?JSON.parse(v):(mem[k]||d)}catch(e){return mem[k]||d}};
+const save=(k,v)=>{mem[k]=v;try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}};
+let V=load("apac_v",["Wind Maker","Wind Zaratan","Wind Scylla","Wind Keeper"].map(n=>({n,l:"",s:"",d:""})));
+let P=load("apac_p",[]);
+const mt=n=>"https://www.marinetraffic.com/en/ais/index/search/all?keyword="+encodeURIComponent(n);
+function rV(){$("vessels").innerHTML="<tr><th>Vessel</th><th>Current location</th><th>Status / assignment</th><th>Updated</th><th></th></tr>"+
+ V.map((v,i)=>`<tr><td><b>${esc(v.n)}</b></td><td><input value="${esc(v.l)}" placeholder="Update…" onchange="V[${i}].l=this.value;save('apac_v',V)"></td><td><input value="${esc(v.s)}" onchange="V[${i}].s=this.value;save('apac_v',V)"></td><td><input type="date" value="${v.d}" onchange="V[${i}].d=this.value;save('apac_v',V)"></td><td><a href="${mt(v.n)}" target="_blank" rel="noopener">Track ↗</a> <button class="g" onclick="V.splice(${i},1);save('apac_v',V);rV()">×</button></td></tr>`).join("")}
+function addVessel(){const n=$("vn").value.trim();if(!n)return;V.push({n,l:$("vl").value,s:$("vs").value,d:$("vd").value});save("apac_v",V);["vn","vl","vs","vd"].forEach(i=>$(i).value="");rV()}
+const PC={Planned:"planned",Active:"active",Risk:"risk",Complete:"complete"};
+function rP(){P.sort((a,b)=>a.d.localeCompare(b.d));$("projects").innerHTML="<tr><th>When</th><th>Project</th><th>Status</th><th>Notes</th><th></th></tr>"+
+ (P.length?P.map((p,i)=>`<tr><td>${esc(p.d)}</td><td>${esc(p.n)}</td><td><span class="pill ${PC[p.s]}">${p.s}</span></td><td>${esc(p.c)}</td><td><button class="g" onclick="P.splice(${i},1);save('apac_p',P);rP()">×</button></td></tr>`).join(""):`<tr><td colspan="5" class="note">No projects yet – add below.</td></tr>`)}
+function addProj(){const n=$("pn").value.trim();if(!n)return;P.push({d:$("pd").value||"—",n,s:$("ps").value,c:$("pc").value});save("apac_p",P);$("pn").value=$("pc").value="";rP()}
+rV();rP();
+</script>
+</body>
+</html>
