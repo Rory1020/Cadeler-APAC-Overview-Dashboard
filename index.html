@@ -27,15 +27,16 @@ td{padding:8px;border-bottom:1px solid var(--bd);vertical-align:top}
 .new{background:var(--ac);margin-left:6px}
 .chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
 .chip{border:1px solid var(--bd);background:#fff;color:var(--tx);border-radius:14px;padding:3px 12px;cursor:pointer;font-size:12px}
-.chip.on{background:var(--navy2);color:#fff;border-color:var(--navy2)}
-.tc{border:1px solid var(--bd);border-left:4px solid var(--navy2);border-radius:6px;margin-bottom:8px}
-.tc.closing{border-left-color:var(--er)}.tc.open{border-left-color:var(--ok)}.tc.planned{border-left-color:var(--wa)}
+.chip.on{background:#dbeafe;color:#123863;border-color:#9ec5f4;font-weight:600}
+.tc{border:1px solid #e6ecf5;border-left:4px solid #b9c9de;border-radius:6px;margin-bottom:8px;background:#fff}
+.tc.closing{border-left-color:#f3b4b4}.tc.open{border-left-color:#a9dcba}.tc.planned{border-left-color:#f2d3a0}.tc.x .th{background:#f6faff}
+.tc .pill{font-weight:600}.tc .pill.closing{background:#fdeaea;color:#b91c1c}.tc .pill.open{background:#e4f5ea;color:#15803d}.tc .pill.planned{background:#fdf1de;color:#b45309}.tc .pill.awarded{background:#eceff4;color:#64748b}
 .th{display:flex;gap:10px;align-items:center;padding:10px 12px;cursor:pointer;flex-wrap:wrap}
 .th .t{flex:1 1 260px;font-weight:600}.th small{color:var(--mut);font-weight:400;display:block}
-.bar{width:90px;height:6px;background:var(--bd);border-radius:3px;overflow:hidden}.bar div{height:100%;background:var(--ok)}
+.bar{width:90px;height:6px;background:var(--bd);border-radius:3px;overflow:hidden}.bar div{height:100%;background:#7ccb9a}
 .cd{font-size:12px;font-weight:600;white-space:nowrap}.cd.hot{color:var(--er)}
-.tb{display:none;padding:2px 14px 12px 14px;border-top:1px solid var(--bd)}.tc.x .tb{display:block}
-.why{background:var(--bg);border-radius:6px;padding:8px 10px;margin:10px 0;font-size:13px}
+.tb{display:none;padding:2px 14px 12px 14px;border-top:1px solid #e6ecf5;background:#fbfdff}.tc.x .tb{display:block}
+.why{background:#eef5ff;border-radius:6px;padding:8px 10px;margin:10px 0;font-size:13px}
 .act{display:flex;gap:8px;align-items:flex-start;padding:5px 0}.act.done span{text-decoration:line-through;color:var(--mut)}
 .act em{margin-left:auto;font-style:normal;font-size:12px;color:var(--mut);white-space:nowrap}.act em.late{color:var(--er);font-weight:600}
 .news{list-style:none;margin:0;padding:0}.news li{padding:8px 0;border-bottom:1px solid var(--bd)}.news li:last-child{border:0}
@@ -49,31 +50,33 @@ button.g{background:none;color:var(--mut);border:1px solid var(--bd);padding:1px
 .tl div:before{content:"";position:absolute;left:-23px;top:5px;width:10px;height:10px;border-radius:50%;background:var(--ac);border:2px solid #fff}
 .tl .hot:before{background:var(--er)}.note{color:var(--mut);font-size:12px;margin-top:8px}.sec{font-size:11px;font-weight:700;color:var(--mut);text-transform:uppercase;margin:14px 0 4px}
 footer{text-align:center;color:var(--mut);font-size:11px;padding-bottom:24px}
+.logo{position:absolute;top:0;right:0;background:#fff;border-radius:8px;padding:8px 14px;display:flex;align-items:center;box-shadow:0 2px 8px rgba(0,0,0,.2)}.logo img{max-height:44px;max-width:180px;display:block}.hero .in{position:relative}
 </style></head><body>
 <div class="hero"><div class="in">
+ <div class="logo"><img src="logo.png" alt="Logo" onerror="this.parentNode.style.display='none'"></div>
  <h1>APAC Sector Overview</h1>
  <p><span id="today"></span> · News refreshed: <span id="upd">–</span></p>
  <div class="clocks" id="clocks"></div>
 </div></div>
 <div class="grid">
-<section class="card wide"><h2>1 · Ongoing APAC Tenders &amp; Next Actions <i>click a tender · tick steps off · saved in your browser</i></h2>
+<section class="card wide"><h2>Ongoing APAC Tenders &amp; Next Actions <i>click a tender · tick steps off · saved in your browser</i></h2>
  <div class="chips" id="tf"></div><div id="tenders"></div></section>
 
-<section class="card wide"><h2>2 · Cadeler Vessels in APAC <i id="vupd"></i></h2>
+<section class="card wide"><h2>Cadeler Vessels in APAC <i id="vupd"></i></h2>
  <a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" target="_blank" rel="noopener"><button>Open MarineTraffic APAC map ↗</button></a>
  <div class="scroll" style="margin-top:10px"><table id="vessels"></table></div>
  <div class="row"><input id="vn" placeholder="Add vessel (manual)"><input id="vl" placeholder="Location"><input id="vs" placeholder="Assignment"><button onclick="addVessel()">Add</button></div>
- <div class="note">Live positions come from AIS (aisstream.io) via the daily job – requires MMSI in data/fleet.js. Assignment is typed by you.</div></section>
+ <div class="note">Live positions come from AIS (aisstream.io) via the daily job – needs MMSI in data/fleet.js; the Track link opens the MarineTraffic page. Assignment is typed by you.</div></section>
 
-<section class="card wide"><h2>3 · Projects – Next 12 Months <i>auto-updated + your own entries</i></h2>
+<section class="card wide"><h2>Projects – Next 12 Months <i>auto-updated + your own entries</i></h2>
  <div class="scroll"><table id="projects"></table></div>
  <div class="sec">My own projects (manual)</div>
  <div class="scroll"><table id="myp"></table></div>
  <div class="row"><input id="pd" type="month" style="flex:0 1 140px"><input id="pn" placeholder="Project name"><select id="ps"><option>Planned</option><option>Active</option><option>Risk</option><option>Complete</option></select><input id="pc" placeholder="Notes"><button onclick="addProj()">Add</button></div></section>
 
-<section class="card"><h2>6 · Auction Timeline</h2><div class="tl" id="auctions"></div></section>
-<section class="card"><h2>4 · APAC Industry News <i>auto daily</i></h2><div id="news"></div></section>
-<section class="card"><h2>5 · APAC Competitor News <i>auto daily</i></h2><div id="comp"></div></section>
+<section class="card"><h2>Auction Timeline</h2><div class="tl" id="auctions"></div></section>
+<section class="card"><h2>APAC Industry News <i>auto daily</i></h2><div id="news"></div></section>
+<section class="card"><h2>APAC Competitor News <i>auto daily</i></h2><div id="comp"></div></section>
 </div>
 <footer>News: Google News RSS · Tenders/projects: AI-compiled from web search – verify against original sources.</footer>
 <script src="data/tenders.js"></script><script src="data/projects.js"></script><script src="data/news.js"></script>
@@ -128,7 +131,7 @@ let V=load("apac_v",[]);
 function rV(){
  const fl=(window.FLEET||[]).map(f=>({...f,live:LV.positions[f.name]}));
  const rows=fl.map(f=>{const L=f.live,man=V.find(v=>v.n===f.name)||{};
-  return `<tr><td><b>${esc(f.name)}</b></td><td>${L?`${near(L.lat,L.lon)}<br><small>${L.lat.toFixed(3)}, ${L.lon.toFixed(3)}</small>`:'<small>No AIS data</small>'}</td><td>${L?`${esc(L.status)} · ${L.sog} kn<br><small>${esc(L.time)}</small>`:""}</td><td><input value="${esc(man.s||"")}" placeholder="Assignment…" onchange="setS('${esc(f.name)}',this.value)"></td><td><a href="${f.mmsi?"https://www.marinetraffic.com/en/ais/details/ships/mmsi:"+f.mmsi:"https://www.marinetraffic.com/en/ais/index/search/all?keyword="+encodeURIComponent(f.name)}" target="_blank" rel="noopener">Track ↗</a></td></tr>`});
+  return `<tr><td><b>${esc(f.name)}</b></td><td>${L?`${near(L.lat,L.lon)}<br><small>${L.lat.toFixed(3)}, ${L.lon.toFixed(3)}</small>`:'<small>No AIS data</small>'}</td><td>${L?`${esc(L.status)} · ${L.sog} kn<br><small>${esc(L.time)}</small>`:""}</td><td><input value="${esc(man.s||"")}" placeholder="Assignment…" onchange="setS('${esc(f.name)}',this.value)"></td><td><a href="${f.shipid?"https://www.marinetraffic.com/en/ais/details/ships/shipid:"+f.shipid:f.mmsi?"https://www.marinetraffic.com/en/ais/details/ships/mmsi:"+f.mmsi:"https://www.marinetraffic.com/en/ais/index/search/all?keyword="+encodeURIComponent(f.name)}" target="_blank" rel="noopener">Track ↗</a></td></tr>`});
  const extra=V.filter(v=>!fl.some(f=>f.name===v.n)).map((v,i)=>`<tr><td><b>${esc(v.n)}</b></td><td>${esc(v.l)}</td><td></td><td>${esc(v.s)}</td><td><a href="https://www.marinetraffic.com/en/ais/index/search/all?keyword=${encodeURIComponent(v.n)}" target="_blank" rel="noopener">Track ↗</a> <button class="g" onclick="V=V.filter(x=>x.n!=='${esc(v.n)}');save('apac_v',V);rV()">×</button></td></tr>`);
  $("vessels").innerHTML="<tr><th>Vessel</th><th>Position (AIS)</th><th>Speed / nav status</th><th>Assignment</th><th></th></tr>"+rows.concat(extra).join("")}
 function setS(n,s){const v=V.find(x=>x.n===n);v?v.s=s:V.push({n,l:"",s});save("apac_v",V)}
