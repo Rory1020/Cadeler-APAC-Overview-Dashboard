@@ -2,123 +2,153 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>APAC Sector Overview | Cadeler</title>
 <style>
-:root{--navy:#0a1f3c;--navy2:#123863;--ac:#1f7ae0;--bg:#eef2f7;--card:#fff;--tx:#14213a;--mut:#64748b;--bd:#dde4ee;--ok:#15803d;--wa:#b45309;--er:#b91c1c}
+:root{--bg:#0a1424;--card:#111e33;--card2:#182742;--bd:#25375a;--tx:#f1f5fb;--mut:#9fb0cc;--ac:#4aa3ff;--ok:#4ade80;--wa:#fbbf24;--er:#f87171;--tl:#2dd4bf}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:14px/1.5 Inter,"Segoe UI",Arial,sans-serif}
-/* BACKGROUND IMAGE: upload a file named bg.jpg to the repo root; it appears under the navy overlay. */
-.hero{color:#fff;padding:22px 24px 70px;border-bottom:4px solid var(--ac);background:
- linear-gradient(135deg,rgba(10,31,60,.88),rgba(18,56,99,.8)),
- repeating-linear-gradient(90deg,transparent 0 59px,rgba(255,255,255,.04) 59px 60px),url("bg.jpg") center/cover,var(--navy)}
-.in,.grid{max-width:1320px;margin:auto}
-h1{margin:0;font-size:26px;font-weight:600}.hero p{margin:2px 0 0;color:#c3d1e6;font-size:13px}
-.clocks{display:flex;gap:12px;flex-wrap:wrap;margin-top:16px}
-.clk{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:8px;padding:8px 16px;min-width:170px}
-.clk b{display:block;font-size:22px;font-variant-numeric:tabular-nums}.clk span{font-size:11px;color:#c3d1e6;text-transform:uppercase;letter-spacing:.5px}
-.fl{height:13px;width:19px;vertical-align:-1px;margin-right:4px;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.15)}
-.grid{display:grid;gap:16px;padding:0 24px 40px;margin-top:-44px;grid-template-columns:repeat(auto-fit,minmax(min(100%,430px),1fr))}
-.card{background:var(--card);border:1px solid var(--bd);border-top:3px solid var(--navy2);border-radius:8px;padding:16px;min-width:0;box-shadow:0 2px 8px rgba(10,31,60,.07)}
-.wide{grid-column:1/-1}
-h2{font-size:12px;text-transform:uppercase;letter-spacing:.8px;color:var(--navy2);margin:0 0 12px;display:flex;justify-content:space-between;gap:8px}
-h2 i{font-style:normal;text-transform:none;letter-spacing:0;font-weight:400;color:var(--mut);font-size:11px}
-.scroll{overflow-x:auto}table{width:100%;border-collapse:collapse;font-size:13px}
-th{text-align:left;color:var(--mut);font-size:11px;text-transform:uppercase;padding:6px 8px;border-bottom:2px solid var(--bd)}
-td{padding:8px;border-bottom:1px solid var(--bd);vertical-align:top}
-.pill{display:inline-block;padding:2px 9px;border-radius:4px;font-size:11px;font-weight:600;color:#fff;white-space:nowrap}
-.closing,.risk{background:var(--er)}.open,.active{background:var(--ok)}.planned{background:var(--wa)}.awarded,.complete{background:#64748b}
-.new{background:var(--ac);margin-left:6px}
-.chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
-.chip{border:1px solid var(--bd);background:#fff;color:var(--tx);border-radius:14px;padding:3px 12px;cursor:pointer;font-size:12px}
-.chip.on{background:#dbeafe;color:#123863;border-color:#9ec5f4;font-weight:600}
-.tc{border:1px solid #e6ecf5;border-left:4px solid #b9c9de;border-radius:6px;margin-bottom:8px;background:#fff}
-.tc.closing{border-left-color:#f3b4b4}.tc.open{border-left-color:#a9dcba}.tc.planned{border-left-color:#f2d3a0}.tc.x .th{background:#f6faff}
-.tc .pill{font-weight:600}.tc .pill.closing{background:#fdeaea;color:#b91c1c}.tc .pill.open{background:#e4f5ea;color:#15803d}.tc .pill.planned{background:#fdf1de;color:#b45309}.tc .pill.awarded{background:#eceff4;color:#64748b}
-.th{display:flex;gap:10px;align-items:center;padding:10px 12px;cursor:pointer;flex-wrap:wrap}
-.th .t{flex:1 1 260px;font-weight:600}.th small{color:var(--mut);font-weight:400;display:block}
-.bar{width:90px;height:6px;background:var(--bd);border-radius:3px;overflow:hidden}.bar div{height:100%;background:#7ccb9a}
-.cd{font-size:12px;font-weight:600;white-space:nowrap}.cd.hot{color:var(--er)}
-.tb{display:none;padding:2px 14px 12px 14px;border-top:1px solid #e6ecf5;background:#fbfdff}.tc.x .tb{display:block}
-.why{background:#eef5ff;border-radius:6px;padding:8px 10px;margin:10px 0;font-size:13px}
-.act{display:flex;gap:8px;align-items:flex-start;padding:5px 0}.act.done span{text-decoration:line-through;color:var(--mut)}
-.act em{margin-left:auto;font-style:normal;font-size:12px;color:var(--mut);white-space:nowrap}.act em.late{color:var(--er);font-weight:600}
-.news{list-style:none;margin:0;padding:0}.news li{padding:8px 0;border-bottom:1px solid var(--bd)}.news li:last-child{border:0}
-.news small{display:block;color:var(--mut)}.sub{font-size:11px;font-weight:700;color:var(--ac);text-transform:uppercase;margin:12px 0 2px}
+/* BACKGROUND IMAGE: upload bg.jpg to the repo root. LOGO: upload logo.png to the repo root. */
+.hero{padding:22px 24px 80px;border-bottom:1px solid var(--bd);background:linear-gradient(180deg,rgba(10,20,36,.55),var(--bg)),linear-gradient(135deg,rgba(18,56,99,.75),rgba(10,20,36,.9)),url("bg.jpg") center/cover,#0f2a4d}
+.in,.grid{max-width:1340px;margin:auto}.in{position:relative}
+h1{margin:0;font-size:28px;font-weight:700;letter-spacing:.3px}.hero p{margin:2px 0 0;color:var(--mut)}
+.logo{position:absolute;top:0;right:0;background:#fff;border-radius:10px;padding:8px 14px;box-shadow:0 4px 14px rgba(0,0,0,.4)}.logo img{max-height:44px;max-width:180px;display:block}
+.clocks{display:flex;gap:12px;flex-wrap:wrap;margin-top:18px}
+.clk{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);border-radius:10px;padding:8px 16px;min-width:170px;backdrop-filter:blur(4px)}
+.clk b{display:block;font-size:24px;font-variant-numeric:tabular-nums}.clk span{font-size:11px;color:var(--mut);text-transform:uppercase;letter-spacing:.6px}
+.fl{height:14px;width:20px;vertical-align:-2px;margin-right:6px;border-radius:2px;box-shadow:0 0 0 1px rgba(255,255,255,.25)}
+.grid{display:grid;gap:18px;padding:0 24px 40px;margin-top:-56px;grid-template-columns:repeat(auto-fit,minmax(min(100%,430px),1fr))}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:14px;padding:18px;min-width:0;box-shadow:0 6px 22px rgba(0,0,0,.28)}.wide{grid-column:1/-1}
+h2{font-size:13px;text-transform:uppercase;letter-spacing:1px;color:var(--ac);margin:0 0 14px;display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
+h2 i{font-style:normal;text-transform:none;letter-spacing:0;font-weight:400;color:var(--mut);font-size:12px}
 a{color:var(--ac);text-decoration:none}a:hover{text-decoration:underline}
-input,select{border:1px solid var(--bd);border-radius:5px;padding:6px 8px;font:inherit;color:var(--tx);background:#fff;min-width:0}
-button{background:var(--navy2);color:#fff;border:0;border-radius:5px;padding:6px 14px;font:inherit;cursor:pointer}button:hover{background:var(--ac)}
-button.g{background:none;color:var(--mut);border:1px solid var(--bd);padding:1px 8px}
-.row{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}.row input{flex:1 1 120px}
-.tl{margin-left:6px;padding-left:16px;border-left:2px solid var(--bd)}.tl div{position:relative;padding-bottom:12px}
-.tl div:before{content:"";position:absolute;left:-23px;top:5px;width:10px;height:10px;border-radius:50%;background:var(--ac);border:2px solid #fff}
-.tl .hot:before{background:var(--er)}.note{color:var(--mut);font-size:12px;margin-top:8px}.sec{font-size:11px;font-weight:700;color:var(--mut);text-transform:uppercase;margin:14px 0 4px}
+.scroll{overflow-x:auto}table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;color:var(--mut);font-size:11px;text-transform:uppercase;padding:6px 8px;border-bottom:1px solid var(--bd)}td{padding:9px 8px;border-bottom:1px solid var(--bd);vertical-align:top}
+.pill{display:inline-block;padding:2px 10px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap;border:1px solid}
+.open,.active{color:var(--ok);background:rgba(74,222,128,.12);border-color:rgba(74,222,128,.4)}.evaluating,.planned{color:var(--wa);background:rgba(251,191,36,.12);border-color:rgba(251,191,36,.4)}
+.risk{color:var(--er);background:rgba(248,113,113,.12);border-color:rgba(248,113,113,.4)}.awarded,.complete{color:var(--mut);background:rgba(159,176,204,.12);border-color:rgba(159,176,204,.3)}
+.new{color:#fff;background:var(--ac);border-color:var(--ac);margin-left:6px}.man{color:#c4b5fd;background:rgba(196,181,253,.12);border-color:rgba(196,181,253,.4);margin-left:6px}
+input,select{background:#0c182b;color:var(--tx);border:1px solid var(--bd);border-radius:8px;padding:7px 10px;font:inherit;min-width:0}input::placeholder{color:#6d7f9f}
+input[type=date],input[type=month]{color-scheme:dark}
+button{background:var(--ac);color:#06182e;border:0;border-radius:8px;padding:7px 16px;font:inherit;font-weight:600;cursor:pointer}button:hover{filter:brightness(1.12)}
+button.g{background:none;color:var(--mut);border:1px solid var(--bd);padding:1px 8px;font-weight:400}
+.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}.row input,.row select{flex:1 1 130px}.note{color:var(--mut);font-size:12px;margin-top:8px}.sec{font-size:11px;font-weight:700;color:var(--mut);text-transform:uppercase;margin:16px 0 4px;letter-spacing:.8px}
+/* news slider */
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}.chip{border:1px solid var(--bd);background:transparent;color:var(--mut);border-radius:20px;padding:3px 14px;cursor:pointer;font-size:12px}.chip.on{background:rgba(74,222,128,0);background:rgba(74,163,255,.18);color:#fff;border-color:var(--ac)}
+.sl{position:relative;height:400px;border-radius:12px;overflow:hidden;background:#0c182b;touch-action:pan-y}
+.sd{position:absolute;inset:0;opacity:0;transition:opacity .7s;background-size:cover;background-position:center;pointer-events:none}.sd.on{opacity:1;pointer-events:auto}
+.sd .fb{position:absolute;inset:0;display:flex;align-items:center;justify-content:center}.sd .fb img{width:170px;opacity:.22;border-radius:6px}
+.sd:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,14,28,.05) 25%,rgba(6,14,28,.93))}
+.sc{position:absolute;left:0;right:0;bottom:0;padding:24px 28px 38px;z-index:2}
+.sc h3{margin:8px 0;font-size:26px;line-height:1.25;font-weight:700;max-width:900px;text-shadow:0 2px 8px rgba(0,0,0,.6)}.sc small{color:#d3deef}
+.cat{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.8px;padding:3px 10px;border-radius:4px;color:#06182e;background:var(--ac)}.cat.competitors{background:var(--wa)}.cat.cadeler{background:var(--tl)}
+.ar{position:absolute;top:50%;transform:translateY(-50%);z-index:3;background:rgba(6,14,28,.55);color:#fff;width:38px;height:38px;border-radius:50%;padding:0;font-size:20px;border:1px solid rgba(255,255,255,.25)}.ar.l{left:12px}.ar.r{right:12px}
+.dots{position:absolute;bottom:12px;left:0;right:0;display:flex;justify-content:center;gap:7px;z-index:3}.dots i{width:22px;height:4px;border-radius:2px;background:rgba(255,255,255,.3);cursor:pointer;overflow:hidden;position:relative}.dots i.on:after{content:"";position:absolute;inset:0;background:#fff;animation:p 6s linear forwards}
+@keyframes p{from{transform:translateX(-100%)}to{transform:none}}
+/* tenders */
+.tc{border:1px solid var(--bd);border-radius:12px;margin-bottom:10px;background:var(--card2);overflow:hidden}.tc.x{border-color:#3b5584}
+.th{display:flex;gap:14px;align-items:center;padding:12px 14px;cursor:pointer;flex-wrap:wrap}.th .t{flex:1 1 280px;font-weight:600;font-size:15px}.th .t small{display:block;color:var(--mut);font-weight:400;font-size:12px}
+.kf{display:flex;gap:18px;flex-wrap:wrap}.kf div{font-size:11px;color:var(--mut);text-transform:uppercase}.kf b{display:block;font-size:13px;color:var(--tx);text-transform:none}
+.bar{width:90px;height:5px;background:#0c182b;border-radius:3px;overflow:hidden}.bar div{height:100%;background:var(--ok)}
+.cd{font-size:12px;font-weight:600;white-space:nowrap;color:var(--wa)}.cd.hot{color:var(--er)}
+.tb{display:none;padding:4px 16px 16px;border-top:1px solid var(--bd);background:#14233b}.tc.x .tb{display:block}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:12px 0}.facts div{background:#0f1c32;border:1px solid var(--bd);border-radius:8px;padding:8px 10px;font-size:11px;color:var(--mut);text-transform:uppercase}.facts b{display:block;color:var(--tx);font-size:13px;text-transform:none;font-weight:600}
+.why{background:rgba(74,163,255,.1);border-left:3px solid var(--ac);border-radius:6px;padding:8px 12px;margin:10px 0;font-size:13px}
+.act{display:flex;gap:10px;align-items:flex-start;padding:6px 0;cursor:pointer}.act.done span{text-decoration:line-through;color:var(--mut)}.act em{margin-left:auto;font-style:normal;font-size:12px;color:var(--mut);white-space:nowrap}.act em.late{color:var(--er);font-weight:600}
+.src a{display:inline-block;margin:4px 8px 0 0;font-size:12px;padding:2px 10px;border:1px solid var(--bd);border-radius:6px}.src .of{border-color:var(--ok);color:var(--ok)}
+/* timeline */
+.tw{overflow-x:auto;padding:8px 0 14px}.tlh{position:relative;display:flex;min-width:max-content;padding-top:34px}
+.tlh:before{content:"";position:absolute;left:0;right:0;top:44px;height:3px;background:var(--bd)}
+.ti{position:relative;width:190px;padding:0 12px 0 0;flex:none}.ti:before{content:"";position:absolute;top:5px;left:0;width:13px;height:13px;border-radius:50%;background:var(--ac);border:3px solid var(--card)}.ti.past:before{background:#64748b}
+.ti b{display:block;font-size:12px;color:var(--ac);margin:0 0 20px 20px;position:absolute;top:-6px;white-space:nowrap}.ti.past b{color:var(--mut)}
+.ti div{margin-top:30px;font-size:13px;background:var(--card2);border:1px solid var(--bd);border-radius:8px;padding:8px 10px}.ti.past div{opacity:.6}
+.td{position:relative;width:96px;flex:none}.td:before{content:"";position:absolute;top:-8px;left:20px;bottom:-10px;width:2px;background:var(--er)}
+.td span{position:absolute;top:-34px;left:8px;background:var(--er);color:#fff;font-size:11px;font-weight:700;border-radius:4px;padding:2px 8px;white-space:nowrap}
 footer{text-align:center;color:var(--mut);font-size:11px;padding-bottom:24px}
-.logo{position:absolute;top:0;right:0;background:#fff;border-radius:8px;padding:8px 14px;display:flex;align-items:center;box-shadow:0 2px 8px rgba(0,0,0,.2)}.logo img{max-height:44px;max-width:180px;display:block}.hero .in{position:relative}
 </style></head><body>
 <div class="hero"><div class="in">
  <div class="logo"><img src="logo.png" alt="Logo" onerror="this.parentNode.style.display='none'"></div>
- <h1>APAC Sector Overview</h1>
- <p><span id="today"></span> · News refreshed: <span id="upd">–</span></p>
- <div class="clocks" id="clocks"></div>
-</div></div>
+ <h1>APAC Sector Overview</h1><p><span id="today"></span> · News refreshed: <span id="upd">–</span></p>
+ <div class="clocks" id="clocks"></div></div></div>
 <div class="grid">
-<section class="card wide"><h2>Ongoing APAC Tenders &amp; Next Actions <i>click a tender · tick steps off · saved in your browser</i></h2>
- <div class="chips" id="tf"></div><div id="tenders"></div></section>
+<section class="card wide"><h2>Latest APAC News <i>auto-rotating · updated daily</i></h2><div class="chips" id="nf"></div><div class="sl" id="sl"></div></section>
+
+<section class="card wide"><h2>Ongoing APAC Tenders &amp; Next Actions <i>click a tender to expand · tick steps · saved in your browser</i></h2><div id="tenders"></div>
+ <div class="sec">Add a tender manually</div>
+ <div class="row"><input id="mn" placeholder="Tender name" style="flex:2 1 220px"><select id="mc"><option value="tw">Taiwan</option><option value="jp">Japan</option><option value="kr">Korea</option><option value="au">Australia</option><option value="ph">Philippines</option><option value="vn">Vietnam</option><option value="cn">China</option><option value="in">India</option><option value="sg">Singapore</option></select>
+ <input id="md" type="date" title="Key / closing date"><input id="mcod" placeholder="Target completion (e.g. 2030)"><input id="mx" placeholder="Notes / next action" style="flex:2 1 220px"><button onclick="addTender()">Add</button></div></section>
+
+<section class="card wide"><h2>Auction &amp; Tender Timeline <i id="tdt"></i></h2><div class="tw" id="tlw"><div class="tlh" id="tl"></div></div></section>
 
 <section class="card wide"><h2>Cadeler Vessels in APAC <i id="vupd"></i></h2>
  <a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" target="_blank" rel="noopener"><button>Open MarineTraffic APAC map ↗</button></a>
- <div class="scroll" style="margin-top:10px"><table id="vessels"></table></div>
+ <div class="scroll" style="margin-top:12px"><table id="vessels"></table></div>
  <div class="row"><input id="vn" placeholder="Add vessel (manual)"><input id="vl" placeholder="Location"><input id="vs" placeholder="Assignment"><button onclick="addVessel()">Add</button></div>
- <div class="note">Live positions come from AIS (aisstream.io) via the daily job – needs MMSI in data/fleet.js; the Track link opens the MarineTraffic page. Assignment is typed by you.</div></section>
+ <div class="note">Live AIS positions need MMSI in data/fleet.js + an aisstream.io key. The Track link opens the MarineTraffic page (position &amp; navigational status).</div></section>
 
-<section class="card wide"><h2>Projects – Next 12 Months <i>auto-updated + your own entries</i></h2>
- <div class="scroll"><table id="projects"></table></div>
- <div class="sec">My own projects (manual)</div>
- <div class="scroll"><table id="myp"></table></div>
- <div class="row"><input id="pd" type="month" style="flex:0 1 140px"><input id="pn" placeholder="Project name"><select id="ps"><option>Planned</option><option>Active</option><option>Risk</option><option>Complete</option></select><input id="pc" placeholder="Notes"><button onclick="addProj()">Add</button></div></section>
-
-<section class="card"><h2>Auction Timeline</h2><div class="tl" id="auctions"></div></section>
-<section class="card"><h2>APAC Industry News <i>auto daily</i></h2><div id="news"></div></section>
-<section class="card"><h2>APAC Competitor News <i>auto daily</i></h2><div id="comp"></div></section>
+<section class="card wide"><h2>Projects – Next 12 Months <i>auto-updated + your own entries</i></h2><div class="scroll"><table id="projects"></table></div>
+ <div class="sec">My own projects (manual)</div><div class="scroll"><table id="myp"></table></div>
+ <div class="row"><input id="pd" type="month" style="flex:0 1 150px"><input id="pn" placeholder="Project name"><select id="ps"><option>Planned</option><option>Active</option><option>Risk</option><option>Complete</option></select><input id="pc" placeholder="Notes"><button onclick="addProj()">Add</button></div></section>
 </div>
-<footer>News: Google News RSS · Tenders/projects: AI-compiled from web search – verify against original sources.</footer>
-<script src="data/tenders.js"></script><script src="data/projects.js"></script><script src="data/news.js"></script>
-<script src="data/fleet.js"></script><script src="data/vessels_live.js"></script>
+<footer>News: publisher RSS + Google News · Tenders/projects: AI-compiled from web search, official sources preferred – always verify against the original.</footer>
+<script src="data/tenders.js"></script><script src="data/projects.js"></script><script src="data/news.js"></script><script src="data/fleet.js"></script><script src="data/vessels_live.js"></script>
 <script>
 const $=id=>document.getElementById(id),esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 let mem={};const load=(k,d)=>{try{const v=localStorage.getItem(k);return v?JSON.parse(v):(mem[k]||d)}catch(e){return mem[k]||d}};
 const save=(k,v)=>{mem[k]=v;try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}};
 const flag=cc=>cc?`<img class="fl" src="https://flagcdn.com/w40/${cc}.png" alt="${cc.toUpperCase()}">`:"";
-const KW={tw:/taiwan|taipei|formosa|hai long|fengmiao/i,jp:/japan|tokyo|tepco|mitsubishi|choshi/i,kr:/korea|seoul/i,au:/australia|victoria/i,ph:/philippine/i,vn:/vietnam|ho chi minh/i,cn:/china|chinese/i,in:/india\b/i,sg:/singapore/i};
+const KW={tw:/taiwan|taipei|formosa|hai long|fengmiao|dadu/i,jp:/japan|tokyo|tepco|mitsubishi|choshi|akita/i,kr:/korea|seoul/i,au:/australia|victoria|gippsland/i,ph:/philippine/i,vn:/vietnam|ho chi minh/i,cn:/china|chinese/i,in:/india\b/i,sg:/singapore/i};
 const guess=t=>Object.keys(KW).find(k=>KW[k].test(t))||"";
 /* clocks */
 const Z=[["TAIWAN",["tw"],"Asia/Taipei"],["JAPAN · KOREA",["jp","kr"],"Asia/Tokyo"],["UNITED KINGDOM",["gb"],"Europe/London"],["DENMARK",["dk"],"Europe/Copenhagen"]];
 $("clocks").innerHTML=Z.map((z,i)=>`<div class="clk"><span>${z[1].map(flag).join("")}${z[0]}</span><b id="c${i}"></b></div>`).join("");
-function tick(){const n=new Date();Z.forEach((z,i)=>$("c"+i).textContent=n.toLocaleTimeString("en-GB",{timeZone:z[2],hour12:false}));
- $("today").textContent=n.toLocaleDateString("en-GB",{timeZone:"Asia/Taipei",weekday:"long",day:"numeric",month:"long",year:"numeric"})}
-tick();setInterval(tick,1000);$("upd").textContent=(window.NEWS||{}).updated||"–";
+const dfmt=d=>d.toLocaleDateString("en-GB",{timeZone:"Asia/Taipei",weekday:"long",day:"numeric",month:"long",year:"numeric"});
+function tick(){const n=new Date();Z.forEach((z,i)=>$("c"+i).textContent=n.toLocaleTimeString("en-GB",{timeZone:z[2],hour12:false}));$("today").textContent=dfmt(n)}
+tick();setInterval(tick,1000);const N=window.NEWS||{};$("upd").textContent=N.updated||"–";
+/* news slider (with de-duplication) */
+const STOP=new Set("the and for with from its new over after into says said will that this are was has have".split());
+const W=t=>new Set((t.toLowerCase().match(/[a-z0-9]+/g)||[]).filter(w=>w.length>2&&!STOP.has(w)));
+const sim=(a,b)=>{const x=W(a),y=W(b),i=[...x].filter(w=>y.has(w)).length;return i&&i/Math.min(x.size,y.size)>=.6&&i/(x.size+y.size-i)>=.4};
+let items=[];["cadeler","competitors","industry"].forEach(c=>(N[c]||[]).forEach(n=>{
+ const d=items.find(o=>o.url===n.url||sim(o.title,n.title));
+ if(d){if(n.title.length>d.title.length)d.title=n.title;if(!d.img&&n.img)d.img=n.img}else items.push({...n,cat:c})}));
+items.sort((a,b)=>b.date.localeCompare(a.date));
+let nf="all",si=0,timer;const CL={all:"All",industry:"Industry",competitors:"Competitors",cadeler:"Cadeler"};
+function slides(){return items.filter(i=>nf==="all"||i.cat===nf).slice(0,10)}
+function rN(){const L=slides();si=0;
+ $("nf").innerHTML=Object.keys(CL).map(k=>`<span class="chip ${nf===k?"on":""}" onclick="nf='${k}';rN()">${CL[k]}</span>`).join("");
+ $("sl").innerHTML=L.map((n,i)=>{const cc=guess(n.title);return `<div class="sd" style="${n.img?`background-image:url('${esc(n.img)}')`:"background:linear-gradient(135deg,#17335c,#0c182b)"}">${n.img?"":`<div class="fb">${cc?`<img src="https://flagcdn.com/w160/${cc}.png" alt="">`:""}</div>`}<div class="sc"><span class="cat ${n.cat}">${CL[n.cat]}</span><h3>${flag(cc)}<a href="${esc(n.url)}" target="_blank" rel="noopener" style="color:#fff">${esc(n.title)}</a></h3><small>${esc(n.source)} · ${esc(n.date)}</small></div></div>`}).join("")+
+ `<button class="ar l" onclick="go(-1)">‹</button><button class="ar r" onclick="go(1)">›</button><div class="dots">${L.map((_,i)=>`<i onclick="show(${i})"></i>`).join("")}</div>`;
+ show(0)}
+function show(i){const L=slides();if(!L.length)return;si=(i+L.length)%L.length;document.querySelectorAll(".sd").forEach((e,k)=>e.classList.toggle("on",k===si));
+ document.querySelectorAll(".dots i").forEach((e,k)=>{e.classList.remove("on");if(k===si){void e.offsetWidth;e.classList.add("on")}});clearInterval(timer);timer=setInterval(()=>show(si+1),6000)}
+const go=d=>show(si+d);let tx=0;
+$("sl").addEventListener("touchstart",e=>tx=e.touches[0].clientX,{passive:true});$("sl").addEventListener("touchend",e=>{const d=e.changedTouches[0].clientX-tx;if(Math.abs(d)>40)go(d<0?1:-1)});
+$("sl").addEventListener("mouseenter",()=>clearInterval(timer));$("sl").addEventListener("mouseleave",()=>show(si));rN();
 /* tenders */
-const T=window.TENDERS||[],SL={closing:"Closing",open:"Open",planned:"Planned",awarded:"Awarded"};
-let done=load("apac_done",{}),filt="all",openId=load("apac_open",null);
-const days=d=>d?Math.ceil((new Date(d+"T23:59:59")-Date.now())/864e5):null;
-const isNew=a=>a&&(Date.now()-new Date(a))/864e5<=7;
-function rT(){
- $("tf").innerHTML=["all","closing","open","planned","awarded"].map(s=>`<span class="chip ${filt===s?"on":""}" onclick="filt='${s}';rT()">${s==="all"?"All":SL[s]}</span>`).join("");
- $("tenders").innerHTML=T.filter(t=>filt==="all"||t.status===filt).map(t=>{
-  const A=t.actions||[],n=A.filter((a,i)=>done[t.id+i]).length,d=days(t.deadline);
-  return `<div class="tc ${t.status} ${openId===t.id?"x":""}"><div class="th" onclick="openId=openId==='${t.id}'?null:'${t.id}';save('apac_open',openId);rT()">
-   <div class="t">${flag(t.cc)}${esc(t.name)}${isNew(t.added)&&t.added!=="2026-09-30"?'<span class="pill new">NEW</span>':""}<small>${esc(t.detail)}</small></div>
-   <span class="pill ${t.status}">${SL[t.status]}</span>${d!==null?`<span class="cd ${d<=7?"hot":""}">${d<0?"Closed":d===0?"Closes today":d+" days left"}</span>`:""}
-   <div><div class="bar"><div style="width:${A.length?n/A.length*100:0}%"></div></div><small>${n}/${A.length} steps</small></div></div>
-  <div class="tb"><div class="why"><b>Why it matters:</b> ${esc(t.why)}</div><b>Next actions</b>
-  ${A.map((a,i)=>{const dd=days(a.due),k=t.id+i;return `<label class="act ${done[k]?"done":""}"><input type="checkbox" ${done[k]?"checked":""} onchange="done['${k}']=this.checked;save('apac_done',done);rT()"><span>${esc(a.t)}</span><em class="${!done[k]&&dd<0?"late":""}">${a.due||""}${!done[k]&&dd<0?" · overdue":""}</em></label>`}).join("")}
-  <a href="${esc(t.url)}" target="_blank" rel="noopener">Source ↗</a></div></div>`}).join("")||"<div class='note'>No tenders.</div>"}
-rT();
-$("auctions").innerHTML=(window.AUCTIONS||[]).map(a=>`<div class="${/09-30/.test(a.date)?"hot":""}"><b>${esc(a.date)}</b><br>${esc(a.text)}</div>`).join("");
-/* news */
-const N=window.NEWS||{},li=l=>`<ul class="news">${(l||[]).map(x=>`<li>${flag(guess(x.title))}<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a><small>${esc(x.source)} · ${esc(x.date)}</small></li>`).join("")||"<li>No items</li>"}</ul>`;
-$("news").innerHTML=li(N.industry);$("comp").innerHTML=li(N.competitors)+`<div class="sub">Cadeler / Nexra</div>`+li(N.cadeler);
+const SL={open:"Open",evaluating:"Under review",planned:"Planned",awarded:"Awarded"};
+let done=load("apac_done",{}),openId=load("apac_open",null),MT=load("apac_mt",[]);
+const days=d=>d?Math.ceil((new Date(d+"T23:59:59")-Date.now())/864e5):null,isNew=a=>a&&a!=="2026-09-30"&&(Date.now()-new Date(a))/864e5<=7;
+const fm=d=>/^\d{4}-\d\d-\d\d$/.test(d||"")?new Date(d+"T12:00:00").toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"}):(d||"–");
+function rT(){const all=(window.TENDERS||[]).concat(MT.map((m,i)=>({id:"m"+m.id,manual:1,mi:i,name:m.n,cc:m.c,status:"planned",authority:"Manual entry",deadline:m.d||null,cod:m.cod||"–",capacity:"–",opens:"–",decision:"–",detail:"",why:"",actions:m.x?[{t:m.x}]:[],sources:[]})));
+ $("tenders").innerHTML=all.map(t=>{const A=t.actions||[],n=A.filter((a,i)=>done[t.id+i]).length,d=days(t.deadline),S=t.sources||(t.url?[{label:"Source",url:t.url}]:[]);
+ const fc=[["Capacity",t.capacity],["Closes",d!==null||t.deadline?fm(t.deadline):"–"],["Target completion",t.cod]];
+ return `<div class="tc ${openId===t.id?"x":""}"><div class="th" onclick="openId=openId==='${t.id}'?null:'${t.id}';save('apac_open',openId);rT()">
+ <div class="t">${flag(t.cc)}${esc(t.name)}${isNew(t.added)?'<span class="pill new">NEW</span>':""}${t.manual?'<span class="pill man">Manual</span>':""}<small>${esc(t.authority)}</small></div>
+ <div class="kf">${fc.map(f=>`<div>${f[0]}<b>${esc(f[1]||"–")}</b></div>`).join("")}</div>
+ <span class="pill ${t.status}">${SL[t.status]}</span>${d!==null&&t.status==="open"||d!==null&&d>=0?`<span class="cd ${d<=7?"hot":""}">${d===0?"Closes today":d+" days left"}</span>`:""}
+ <div><div class="bar"><div style="width:${A.length?n/A.length*100:0}%"></div></div><small style="color:var(--mut)">${n}/${A.length} steps</small></div></div>
+ <div class="tb"><div class="facts">${[["Authority",t.authority],["Opened",fm(t.opens)],["Closes",fm(t.deadline)],["Result / decision",t.decision],["Target completion",t.cod],["Capacity",t.capacity]].map(f=>`<div>${f[0]}<b>${esc(f[1]||"–")}</b></div>`).join("")}</div>
+ ${t.detail?`<div>${esc(t.detail)}</div>`:""}${t.why?`<div class="why"><b>Why it matters:</b> ${esc(t.why)}</div>`:""}
+ ${A.length?"<b>Next actions</b>":""}${A.map((a,i)=>{const dd=days(a.due),k=t.id+i;return `<label class="act ${done[k]?"done":""}"><input type="checkbox" ${done[k]?"checked":""} onchange="done['${k}']=this.checked;save('apac_done',done);rT()"><span>${esc(a.t)}</span><em class="${!done[k]&&dd<0?"late":""}">${a.due?fm(a.due):""}${!done[k]&&dd<0?" · overdue":""}</em></label>`}).join("")}
+ <div class="src">${S.map(s=>`<a class="${s.official?"of":""}" href="${esc(s.url)}" target="_blank" rel="noopener">${s.official?"✔ Official · ":""}${esc(s.label)} ↗</a>`).join("")}${t.manual?`<button class="g" onclick="MT.splice(${t.mi},1);save('apac_mt',MT);rT()">Delete</button>`:""}</div></div></div>`}).join("")}
+function addTender(){const n=$("mn").value.trim();if(!n)return;MT.push({id:Date.now(),n,c:$("mc").value,d:$("md").value,cod:$("mcod").value,x:$("mx").value});save("apac_mt",MT);["mn","md","mcod","mx"].forEach(i=>$(i).value="");rT()}rT();
+/* timeline (horizontal, with today marker) */
+$("tdt").textContent="Today: "+dfmt(new Date());
+const iso=new Date().toISOString().slice(0,10),TL=(window.AUCTIONS||[]).slice().sort((a,b)=>a.sort.localeCompare(b.sort));let html="",ins=false;
+TL.forEach(a=>{if(!ins&&a.sort>iso){html+=`<div class="td" id="tod"><span>TODAY · ${new Date().toLocaleDateString("en-GB",{timeZone:"Asia/Taipei",day:"numeric",month:"short"})}</span></div>`;ins=true}
+ html+=`<div class="ti ${a.sort<=iso?"past":""}"><b>${flag(a.cc)}${esc(a.date)}</b><div>${esc(a.text)}</div></div>`});
+$("tl").innerHTML=html+(ins?"":`<div class="td" id="tod"><span>TODAY</span></div>`);
+const t0=$("tod");if(t0)$("tlw").scrollLeft=Math.max(0,t0.offsetLeft-300);
 /* projects */
-const PC={Planned:"planned",Active:"active",Risk:"risk",Complete:"complete",planned:"planned",active:"active",risk:"risk",complete:"complete"};
-const cap=s=>s[0].toUpperCase()+s.slice(1);
-$("projects").innerHTML="<tr><th>Project</th><th>Stage</th><th>Timing</th><th>Status</th></tr>"+(window.PROJECTS||[]).map(p=>`<tr><td>${flag(p.cc)}<a href="${esc(p.url)}" target="_blank" rel="noopener"><b>${esc(p.name)}</b></a>${isNew(p.added)&&p.added!=="2026-09-30"?'<span class="pill new">NEW</span>':""}</td><td><span class="pill ${PC[p.stage]}">${cap(p.stage)}</span></td><td>${esc(p.window)}</td><td>${esc(p.note)}</td></tr>`).join("");
+const PC={Planned:"planned",Active:"active",Risk:"risk",Complete:"complete",planned:"planned",active:"active",risk:"risk",complete:"complete"},cap=s=>s[0].toUpperCase()+s.slice(1);
+$("projects").innerHTML="<tr><th>Project</th><th>Stage</th><th>Timing</th><th>Status</th></tr>"+(window.PROJECTS||[]).map(p=>`<tr><td>${flag(p.cc)}<a href="${esc(p.url)}" target="_blank" rel="noopener"><b>${esc(p.name)}</b></a>${isNew(p.added)?'<span class="pill new">NEW</span>':""}</td><td><span class="pill ${PC[p.stage]}">${cap(p.stage)}</span></td><td>${esc(p.window)}</td><td>${esc(p.note)}</td></tr>`).join("");
 let P=load("apac_p",[]);
 function rP(){P.sort((a,b)=>a.d.localeCompare(b.d));$("myp").innerHTML=P.length?"<tr><th>When</th><th>Project</th><th>Status</th><th>Notes</th><th></th></tr>"+P.map((p,i)=>`<tr><td>${esc(p.d)}</td><td>${esc(p.n)}</td><td><span class="pill ${PC[p.s]}">${p.s}</span></td><td>${esc(p.c)}</td><td><button class="g" onclick="P.splice(${i},1);save('apac_p',P);rP()">×</button></td></tr>`).join(""):"<tr><td class='note'>None yet.</td></tr>"}
 function addProj(){const n=$("pn").value.trim();if(!n)return;P.push({d:$("pd").value||"—",n,s:$("ps").value,c:$("pc").value});save("apac_p",P);$("pn").value=$("pc").value="";rP()}rP();
@@ -126,14 +156,11 @@ function addProj(){const n=$("pn").value.trim();if(!n)return;P.push({d:$("pd").v
 const PORTS=[["Taichung",24.28,120.5],["Keelung",25.15,121.75],["Kaohsiung",22.6,120.27],["Tokyo Bay",35.4,139.8],["Kitakyushu",33.95,130.9],["Busan",35.08,129.05],["Singapore",1.25,103.8],["Esbjerg",55.47,8.43],["Rotterdam",51.95,4.1]];
 const km=(a,b,c,d)=>{const r=x=>x*Math.PI/180,h=Math.sin(r(c-a)/2)**2+Math.cos(r(a))*Math.cos(r(c))*Math.sin(r(d-b)/2)**2;return 12742*Math.asin(Math.sqrt(h))};
 const near=(la,lo)=>{const b=PORTS.map(p=>[p[0],km(la,lo,p[1],p[2])]).sort((a,b)=>a[1]-b[1])[0];return b[1]<40?"Near "+b[0]:b[1]<800?Math.round(b[1])+" km from "+b[0]:"Open sea / other region"};
-const LV=window.VESSELS_LIVE||{positions:{}};$("vupd").textContent=LV.updated?"AIS updated "+LV.updated:"AIS not configured yet";
-let V=load("apac_v",[]);
-function rV(){
- const fl=(window.FLEET||[]).map(f=>({...f,live:LV.positions[f.name]}));
- const rows=fl.map(f=>{const L=f.live,man=V.find(v=>v.n===f.name)||{};
-  return `<tr><td><b>${esc(f.name)}</b></td><td>${L?`${near(L.lat,L.lon)}<br><small>${L.lat.toFixed(3)}, ${L.lon.toFixed(3)}</small>`:'<small>No AIS data</small>'}</td><td>${L?`${esc(L.status)} · ${L.sog} kn<br><small>${esc(L.time)}</small>`:""}</td><td><input value="${esc(man.s||"")}" placeholder="Assignment…" onchange="setS('${esc(f.name)}',this.value)"></td><td><a href="${f.shipid?"https://www.marinetraffic.com/en/ais/details/ships/shipid:"+f.shipid:f.mmsi?"https://www.marinetraffic.com/en/ais/details/ships/mmsi:"+f.mmsi:"https://www.marinetraffic.com/en/ais/index/search/all?keyword="+encodeURIComponent(f.name)}" target="_blank" rel="noopener">Track ↗</a></td></tr>`});
- const extra=V.filter(v=>!fl.some(f=>f.name===v.n)).map((v,i)=>`<tr><td><b>${esc(v.n)}</b></td><td>${esc(v.l)}</td><td></td><td>${esc(v.s)}</td><td><a href="https://www.marinetraffic.com/en/ais/index/search/all?keyword=${encodeURIComponent(v.n)}" target="_blank" rel="noopener">Track ↗</a> <button class="g" onclick="V=V.filter(x=>x.n!=='${esc(v.n)}');save('apac_v',V);rV()">×</button></td></tr>`);
- $("vessels").innerHTML="<tr><th>Vessel</th><th>Position (AIS)</th><th>Speed / nav status</th><th>Assignment</th><th></th></tr>"+rows.concat(extra).join("")}
+const LV=window.VESSELS_LIVE||{positions:{}};$("vupd").textContent=LV.updated?"AIS updated "+LV.updated:"AIS not configured yet";let V=load("apac_v",[]);
+function rV(){const fl=(window.FLEET||[]).map(f=>({...f,live:LV.positions[f.name]}));
+ const rows=fl.map(f=>{const L=f.live,m=V.find(v=>v.n===f.name)||{};return `<tr><td><b>${esc(f.name)}</b></td><td>${L?`${near(L.lat,L.lon)}<br><small>${L.lat.toFixed(3)}, ${L.lon.toFixed(3)}</small>`:'<small>No AIS data</small>'}</td><td>${L?`${esc(L.status)} · ${L.sog} kn<br><small>${esc(L.time)}</small>`:""}</td><td><input value="${esc(m.s||"")}" placeholder="Assignment…" onchange="setS('${esc(f.name)}',this.value)"></td><td><a href="${f.shipid?"https://www.marinetraffic.com/en/ais/details/ships/shipid:"+f.shipid:f.mmsi?"https://www.marinetraffic.com/en/ais/details/ships/mmsi:"+f.mmsi:"https://www.marinetraffic.com/en/ais/index/search/all?keyword="+encodeURIComponent(f.name)}" target="_blank" rel="noopener">Track ↗</a></td></tr>`});
+ const ex=V.filter(v=>!fl.some(f=>f.name===v.n)).map(v=>`<tr><td><b>${esc(v.n)}</b></td><td>${esc(v.l)}</td><td></td><td>${esc(v.s)}</td><td><a href="https://www.marinetraffic.com/en/ais/index/search/all?keyword=${encodeURIComponent(v.n)}" target="_blank" rel="noopener">Track ↗</a> <button class="g" onclick="V=V.filter(x=>x.n!=='${esc(v.n)}');save('apac_v',V);rV()">×</button></td></tr>`);
+ $("vessels").innerHTML="<tr><th>Vessel</th><th>Position (AIS)</th><th>Speed / nav status</th><th>Assignment</th><th></th></tr>"+rows.concat(ex).join("")}
 function setS(n,s){const v=V.find(x=>x.n===n);v?v.s=s:V.push({n,l:"",s});save("apac_v",V)}
 function addVessel(){const n=$("vn").value.trim();if(!n)return;V.push({n,l:$("vl").value,s:$("vs").value});save("apac_v",V);["vn","vl","vs"].forEach(i=>$(i).value="");rV()}rV();
 </script></body></html>

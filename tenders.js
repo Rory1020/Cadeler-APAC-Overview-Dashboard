@@ -1,0 +1,48 @@
+// Tenders: auto-maintained by scripts/update_data.py (needs ANTHROPIC_API_KEY); edit by hand if you wish.
+// status: open | evaluating | planned | awarded.  Timeline (AUCTIONS) is edited by hand.
+window.TENDERS=[
+{id:"tw-r33",name:"Taiwan Round 3.3 – Offshore Wind Zonal Development",cc:"tw",status:"evaluating",authority:"MOEA – Energy Administration",capacity:"3,600 MW (max 1 GW per developer)",opens:"2026-04-01",deadline:"2026-09-30",decision:"By end-2026",cod:"2030–2031",
+ detail:"Applications closed 30 Sep with only two bids: Ørsted Dadu 1 (924 MW) and CIP Fengmiao 3 (1,150 MW) – below the 3.6 GW on offer. Score-based selection (track record 35%, finance 30%, execution 35%; floor price NT$2.29/kWh).",
+ why:"Winners define 2030–31 installation demand in Taiwan; the shortfall may trigger a further round.",
+ actions:[{t:"Review Ørsted / CIP installation vessel strategy and contact procurement",due:"2026-10-31"},{t:"Track MOEA result announcement",due:"2026-12-31"},{t:"Assess whether unallocated capacity will be re-offered",due:"2026-12-31"}],
+ sources:[{label:"MOEA Energy Administration (official site)",url:"https://www.moeaea.gov.tw/",official:1},{label:"Windtech – Round 3 launch & scoring",url:"https://www.windtech-international.com/industry-news/taiwan-launches-round-3-offshore-wind-allocation-with-3-6-gw-capacity"},{label:"Ocean Energy Resources – bids",url:"https://ocean-energyresources.com/2026/10/01/orsted-and-cip-submit-bids-round-3-3-in-taiwan/"}],added:"2026-09-30"},
+{id:"au-vic",name:"Victoria – First Offshore Wind Auction (Gippsland)",cc:"au",status:"open",authority:"Offshore Wind Energy Victoria (DEECA)",capacity:"2,000 MW",opens:"2026-08-25",deadline:"2027-08-31",decision:"Contracts awarded 2028",cod:"Target ≥2 GW by 2032",
+ detail:"12-month RFP phase (Aug 2026 – Aug 2027). Bids assessed on value for money, deliverability, local content, workforce and Traditional Owner partnerships. Contracts to integrate with the national ESEM.",
+ why:"Australia's first offshore wind procurement – early view of vessel and port requirements.",
+ actions:[{t:"Download RFP documents from OWEV",due:"2026-10-15"},{t:"Assess vessel mobilisation & Australian cabotage position",due:"2026-11-30"},{t:"Identify bidders needing installation partners",due:"2027-03-31"}],
+ sources:[{label:"Offshore Wind Energy Victoria (official)",url:"https://www.energy.vic.gov.au/renewable-energy/offshore-wind-energy/offshore-wind-energy-victoria",official:1},{label:"Victorian Premier – announcement (official)",url:"https://www.premier.vic.gov.au/victorias-first-offshore-wind-auction-go-live-august",official:1},{label:"offshoreWIND.biz",url:"https://www.offshorewind.biz/2026/08/25/victoria-govt-launches-australias-first-offshore-wind-auction/"}],added:"2026-09-30"},
+{id:"jp-reauction",name:"Japan – Re-auction of 3 Round 1 sites (Akita ×2, Chiba)",cc:"jp",status:"planned",authority:"METI & MLIT",capacity:"≈1,700 MW",opens:"TBC (expected before Round 4)",deadline:null,decision:"TBC",cod:"TBC",
+ detail:"Sites abandoned by Mitsubishi in Aug 2025. Guidelines revised 5 Jun 2026 (price floor, schedule flexibility, tighter withdrawal rules). Round 4 (Hokkaido: Matsumae, Hiyama) postponed, likely well into 2027.",
+ why:"Large fixed-bottom capacity; Japan's cabotage rules shape which vessels can be used.",
+ actions:[{t:"Monitor METI/MLIT re-auction announcement",due:"2026-12-31"},{t:"Explore partnership options with Japanese developers",due:"2026-12-15"}],
+ sources:[{label:"METI (official site)",url:"https://www.meti.go.jp/english/",official:1},{label:"DeepWind – June 2026 guideline revision",url:"https://deepwind.jp/en/policy-regulations/"},{label:"Aegir Insights – 2026 outlook",url:"https://www.aegirinsights.com/outlook-for-offshore-wind-in-japan-in-2026"}],added:"2026-09-30"},
+{id:"kr-h2",name:"Korea – H2 2026 offshore wind bidding round",cc:"kr",status:"planned",authority:"Ministry of Climate, Energy & Environment (MCEE)",capacity:"TBC (roadmap >4 GW per year to 2035)",opens:"TBC (H2 2026)",deadline:null,decision:"TBC",cod:"TBC",
+ detail:"Second round of the year follows the H1 auction. Military-compatibility consultations opened from April. Ceiling price in H1: KRW 171,229/MWh fixed-bottom; KRW 175,100/MWh floating.",
+ why:"Korea's pipeline is now the most active in APAC outside Taiwan.",
+ actions:[{t:"Confirm H2 round notice and volumes",due:"2026-11-15"},{t:"Engage developers with H1 awards (CIP, Hanbit, Gulupdo)",due:"2026-11-30"}],
+ sources:[{label:"Asia Business Daily – H1 results (30 Jun)",url:"https://www.asiae.co.kr/en/article/enterprise-CEO/2026063018321094666"},{label:"offshoreWIND.biz – H1 results & roadmap",url:"https://www.offshorewind.biz/2026/07/02/cip-secures-1-gw-across-two-projects-in-south-koreas-offshore-wind-auction"}],added:"2026-09-30"},
+{id:"kr-h1",name:"Korea – H1 2026 auction (awarded)",cc:"kr",status:"awarded",authority:"MCEE & Korea Energy Agency",capacity:"1,786 MW (5 of 9 projects)",opens:"2026-03-30",deadline:null,decision:"Announced 2026-06-30",cod:"TBC",
+ detail:"1,254 MW fixed-bottom + 532 MW floating: Haesong 3 (504), Hanbit (340), Gulupdo (250), Geumodo (160, public-led), Haewoori 2 floating (532). CIP won >1 GW. First 2:1 oversubscription since 2022.",
+ why:"Awarded projects will procure installation services in coming years.",
+ actions:[{t:"Contact the five winning developers",due:"2026-11-15"},{t:"Review domestic supply-chain conditions",due:"2026-10-31"}],
+ sources:[{label:"Asia Business Daily",url:"https://www.asiae.co.kr/en/article/enterprise-CEO/2026063018321094666"},{label:"offshoreWIND.biz",url:"https://www.offshorewind.biz/2026/07/02/cip-secures-1-gw-across-two-projects-in-south-koreas-offshore-wind-auction"}],added:"2026-09-30"},
+{id:"ph-gea",name:"Philippines – offshore wind green energy auction",cc:"ph",status:"planned",authority:"Department of Energy",capacity:"≈3,300 MW",opens:"TBC",deadline:null,decision:"TBC",cod:"TBC",detail:"Reported paused – verify current status.",why:"Long-dated opportunity; low near-term priority.",
+ actions:[{t:"Verify pause / restart status",due:"2026-10-31"}],sources:[{label:"Philippines DOE (official site)",url:"https://doe.gov.ph/",official:1},{label:"Infralogic",url:"https://ionanalytics.com/insights/infralogic/iran-war-may-blow-asian-offshore-wind-back-on-course/"}],added:"2026-09-30"}
+];
+window.AUCTIONS=[
+{date:"8 Jan 2026",sort:"2026-01-08",cc:"tw",text:"Draft Round 3.3 selection mechanism released"},
+{date:"27 Mar 2026",sort:"2026-03-27",cc:"tw",text:"MOEA announces Round 3.3 directions (3.6 GW)"},
+{date:"30 Mar 2026",sort:"2026-03-30",cc:"kr",text:"MCEE announces H1 round (1,400 MW fixed + 400 MW floating)"},
+{date:"1 Apr 2026",sort:"2026-04-01",cc:"tw",text:"Taiwan R3.3 applications open"},
+{date:"5 Jun 2026",sort:"2026-06-05",cc:"jp",text:"METI/MLIT revise tender guidelines (price floor)"},
+{date:"30 Jun 2026",sort:"2026-06-30",cc:"kr",text:"Korea H1 results: 1,786 MW awarded"},
+{date:"25 Aug 2026",sort:"2026-08-25",cc:"au",text:"Victoria RFP opens (2 GW)"},
+{date:"30 Sep 2026",sort:"2026-09-30",cc:"tw",text:"Taiwan R3.3 closes – 2 bids (Dadu 1, Fengmiao 3)"},
+{date:"H2 2026",sort:"2026-11-15",cc:"kr",text:"Korea second bidding round (TBC)"},
+{date:"By end-2026",sort:"2026-12-31",cc:"tw",text:"Taiwan R3.3 results announced"},
+{date:"2026–27",sort:"2027-03-01",cc:"jp",text:"Re-auction of Mitsubishi sites (TBC)"},
+{date:"Aug 2027",sort:"2027-08-31",cc:"au",text:"Victoria bids close"},
+{date:"2027+",sort:"2027-10-01",cc:"jp",text:"Japan Round 4 – Hokkaido (not before well into 2027)"},
+{date:"2028",sort:"2028-06-30",cc:"au",text:"Victoria contracts awarded"},
+{date:"2030–31",sort:"2030-12-31",cc:"tw",text:"Taiwan R3.3 target grid connection"}
+];
