@@ -1,0 +1,8 @@
+// Auto-maintained by scripts/update_data.py. stage: planned | active | complete | risk
+window.PROJECTS=[
+{id:"hailong-3",name:"Hai Long 3",cc:"tw",stage:"active",window:"2026",note:"CDWE/DEME: Sea Challenger installed first turbine Mar 2026",url:"https://dredgewire.com/deme-jv-cdwe-installs-first-turbine-at-hai-long-3-offshore-wind-farm/",added:"2026-09-30"},
+{id:"fengmiao-1",name:"Fengmiao 1",cc:"tw",stage:"active",window:"2026-2027",note:"Foundations & substation done; inter-array cables from 2027 (Van Oord)",url:"https://www.offshorewind.biz/2026/08/05/offshore-substation-export-cable-works-completed-at-taiwans-fengmiao-1",added:"2026-09-30"},
+{id:"formosa-4",name:"Formosa 4",cc:"tw",stage:"planned",window:"2026-2027",note:"Marine lighting for 35 transition pieces contracted (Glamox)",url:"https://w3.windfair.net/wind-energy/pr/49460-asia-offshore-wind-offshore-wind-auction-tepco-eia-pnoc-land-access-south-korea-wind-growth-china-offshore-supply-offshore-wind-logistics-taiwan-formosa-4-wind-energy-news",added:"2026-09-30"},
+{id:"choshi-new",name:"TEPCO Choshi (new site)",cc:"jp",stage:"planned",window:"EIA stage",note:"Environmental impact assessment started Sep 2026",url:"https://w3.windfair.net/wind-energy/pr/49460-asia-offshore-wind-offshore-wind-auction-tepco-eia-pnoc-land-access-south-korea-wind-growth-china-offshore-supply-offshore-wind-logistics-taiwan-formosa-4-wind-energy-news",added:"2026-09-30"},
+{id:"kr-h1-awarded",name:"Korea H1 2026 awarded projects",cc:"kr",stage:"planned",window:"2027+",note:"1,786 MW across 5 projects",url:"https://w3.windfair.net/wind-energy/news/49201-onshore-wind-tender-bundesnetzagentur-south-korea-auction-us-tax-credits-floating-wind-north-sea-2050-statkraft-peru-auction-design",added:"2026-09-30"}
+];

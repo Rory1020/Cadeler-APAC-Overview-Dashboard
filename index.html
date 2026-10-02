@@ -1,128 +1,136 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>APAC Sector Overview | Cadeler</title>
 <style>
 :root{--navy:#0a1f3c;--navy2:#123863;--ac:#1f7ae0;--bg:#eef2f7;--card:#fff;--tx:#14213a;--mut:#64748b;--bd:#dde4ee;--ok:#15803d;--wa:#b45309;--er:#b91c1c}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--tx);font:14px/1.5 "Inter","Segoe UI",-apple-system,Arial,sans-serif}
-.hero{color:#fff;padding:26px 24px 70px;background:
- linear-gradient(135deg,rgba(10,31,60,.96),rgba(18,56,99,.92)),
- repeating-linear-gradient(90deg,transparent 0 59px,rgba(255,255,255,.05) 59px 60px),
- repeating-linear-gradient(0deg,transparent 0 59px,rgba(255,255,255,.05) 59px 60px);
- background-color:var(--navy);border-bottom:4px solid var(--ac)}
-.hero .in,.grid{max-width:1320px;margin:auto}
-.hero h1{margin:0;font-size:26px;letter-spacing:.3px;font-weight:600}
-.hero p{margin:4px 0 0;color:#b7c6dc;font-size:13px}
-.kpis{display:flex;gap:12px;flex-wrap:wrap;margin-top:18px}
-.kpi{background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.16);border-radius:8px;padding:8px 16px;min-width:130px}
-.kpi b{display:block;font-size:22px}.kpi span{font-size:11px;color:#b7c6dc;text-transform:uppercase;letter-spacing:.6px}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:14px/1.5 Inter,"Segoe UI",Arial,sans-serif}
+/* BACKGROUND IMAGE: upload a file named bg.jpg to the repo root; it appears under the navy overlay. */
+.hero{color:#fff;padding:22px 24px 70px;border-bottom:4px solid var(--ac);background:
+ linear-gradient(135deg,rgba(10,31,60,.88),rgba(18,56,99,.8)),
+ repeating-linear-gradient(90deg,transparent 0 59px,rgba(255,255,255,.04) 59px 60px),url("bg.jpg") center/cover,var(--navy)}
+.in,.grid{max-width:1320px;margin:auto}
+h1{margin:0;font-size:26px;font-weight:600}.hero p{margin:2px 0 0;color:#c3d1e6;font-size:13px}
+.clocks{display:flex;gap:12px;flex-wrap:wrap;margin-top:16px}
+.clk{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.2);border-radius:8px;padding:8px 16px;min-width:170px}
+.clk b{display:block;font-size:22px;font-variant-numeric:tabular-nums}.clk span{font-size:11px;color:#c3d1e6;text-transform:uppercase;letter-spacing:.5px}
+.fl{height:13px;width:19px;vertical-align:-1px;margin-right:4px;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.15)}
 .grid{display:grid;gap:16px;padding:0 24px 40px;margin-top:-44px;grid-template-columns:repeat(auto-fit,minmax(min(100%,430px),1fr))}
 .card{background:var(--card);border:1px solid var(--bd);border-top:3px solid var(--navy2);border-radius:8px;padding:16px;min-width:0;box-shadow:0 2px 8px rgba(10,31,60,.07)}
 .wide{grid-column:1/-1}
-h2{font-size:12px;text-transform:uppercase;letter-spacing:.8px;color:var(--navy2);margin:0 0 12px;display:flex;justify-content:space-between;align-items:center}
+h2{font-size:12px;text-transform:uppercase;letter-spacing:.8px;color:var(--navy2);margin:0 0 12px;display:flex;justify-content:space-between;gap:8px}
 h2 i{font-style:normal;text-transform:none;letter-spacing:0;font-weight:400;color:var(--mut);font-size:11px}
-.scroll{overflow-x:auto}
-table{width:100%;border-collapse:collapse;font-size:13px}
-th{text-align:left;color:var(--mut);font-size:11px;text-transform:uppercase;letter-spacing:.5px;padding:6px 8px;border-bottom:2px solid var(--bd)}
+.scroll{overflow-x:auto}table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;color:var(--mut);font-size:11px;text-transform:uppercase;padding:6px 8px;border-bottom:2px solid var(--bd)}
 td{padding:8px;border-bottom:1px solid var(--bd);vertical-align:top}
 .pill{display:inline-block;padding:2px 9px;border-radius:4px;font-size:11px;font-weight:600;color:#fff;white-space:nowrap}
 .closing,.risk{background:var(--er)}.open,.active{background:var(--ok)}.planned{background:var(--wa)}.awarded,.complete{background:#64748b}
-.news{list-style:none;margin:0;padding:0}
-.news li{padding:8px 0;border-bottom:1px solid var(--bd)}.news li:last-child{border:0}
-.news small{display:block;color:var(--mut)}
-.sub{font-size:11px;font-weight:700;color:var(--ac);text-transform:uppercase;margin:12px 0 2px}
+.new{background:var(--ac);margin-left:6px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.chip{border:1px solid var(--bd);background:#fff;color:var(--tx);border-radius:14px;padding:3px 12px;cursor:pointer;font-size:12px}
+.chip.on{background:var(--navy2);color:#fff;border-color:var(--navy2)}
+.tc{border:1px solid var(--bd);border-left:4px solid var(--navy2);border-radius:6px;margin-bottom:8px}
+.tc.closing{border-left-color:var(--er)}.tc.open{border-left-color:var(--ok)}.tc.planned{border-left-color:var(--wa)}
+.th{display:flex;gap:10px;align-items:center;padding:10px 12px;cursor:pointer;flex-wrap:wrap}
+.th .t{flex:1 1 260px;font-weight:600}.th small{color:var(--mut);font-weight:400;display:block}
+.bar{width:90px;height:6px;background:var(--bd);border-radius:3px;overflow:hidden}.bar div{height:100%;background:var(--ok)}
+.cd{font-size:12px;font-weight:600;white-space:nowrap}.cd.hot{color:var(--er)}
+.tb{display:none;padding:2px 14px 12px 14px;border-top:1px solid var(--bd)}.tc.x .tb{display:block}
+.why{background:var(--bg);border-radius:6px;padding:8px 10px;margin:10px 0;font-size:13px}
+.act{display:flex;gap:8px;align-items:flex-start;padding:5px 0}.act.done span{text-decoration:line-through;color:var(--mut)}
+.act em{margin-left:auto;font-style:normal;font-size:12px;color:var(--mut);white-space:nowrap}.act em.late{color:var(--er);font-weight:600}
+.news{list-style:none;margin:0;padding:0}.news li{padding:8px 0;border-bottom:1px solid var(--bd)}.news li:last-child{border:0}
+.news small{display:block;color:var(--mut)}.sub{font-size:11px;font-weight:700;color:var(--ac);text-transform:uppercase;margin:12px 0 2px}
 a{color:var(--ac);text-decoration:none}a:hover{text-decoration:underline}
 input,select{border:1px solid var(--bd);border-radius:5px;padding:6px 8px;font:inherit;color:var(--tx);background:#fff;min-width:0}
-button{background:var(--navy2);color:#fff;border:0;border-radius:5px;padding:6px 14px;font:inherit;cursor:pointer}
-button:hover{background:var(--ac)}button.g{background:none;color:var(--mut);border:1px solid var(--bd);padding:1px 8px}
+button{background:var(--navy2);color:#fff;border:0;border-radius:5px;padding:6px 14px;font:inherit;cursor:pointer}button:hover{background:var(--ac)}
+button.g{background:none;color:var(--mut);border:1px solid var(--bd);padding:1px 8px}
 .row{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}.row input{flex:1 1 120px}
-.tl{margin-left:6px;padding-left:16px;border-left:2px solid var(--bd)}
-.tl div{position:relative;padding-bottom:12px}
+.tl{margin-left:6px;padding-left:16px;border-left:2px solid var(--bd)}.tl div{position:relative;padding-bottom:12px}
 .tl div:before{content:"";position:absolute;left:-23px;top:5px;width:10px;height:10px;border-radius:50%;background:var(--ac);border:2px solid #fff}
-.tl .hot:before{background:var(--er)}.tl b{color:var(--navy2)}
-.note{color:var(--mut);font-size:12px;margin-top:8px}
+.tl .hot:before{background:var(--er)}.note{color:var(--mut);font-size:12px;margin-top:8px}.sec{font-size:11px;font-weight:700;color:var(--mut);text-transform:uppercase;margin:14px 0 4px}
 footer{text-align:center;color:var(--mut);font-size:11px;padding-bottom:24px}
-</style>
-</head>
-<body>
+</style></head><body>
 <div class="hero"><div class="in">
-  <h1>APAC Sector Overview</h1>
-  <p>Cadeler · Asia-Pacific offshore wind daily briefing · News last refreshed: <span id="upd">–</span></p>
-  <div class="kpis" id="kpis"></div>
+ <h1>APAC Sector Overview</h1>
+ <p><span id="today"></span> · News refreshed: <span id="upd">–</span></p>
+ <div class="clocks" id="clocks"></div>
 </div></div>
-
 <div class="grid">
-<section class="card wide">
-  <h2>1 · Ongoing APAC Tenders &amp; Next Actions <i>edit data/tenders.js</i></h2>
-  <div class="scroll"><table id="tenders"></table></div>
-</section>
+<section class="card wide"><h2>1 · Ongoing APAC Tenders &amp; Next Actions <i>click a tender · tick steps off · saved in your browser</i></h2>
+ <div class="chips" id="tf"></div><div id="tenders"></div></section>
 
-<section class="card wide">
-  <h2>2 · Cadeler Vessels in APAC <i>manual entry</i></h2>
-  <a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" target="_blank" rel="noopener"><button>Open MarineTraffic – APAC map ↗</button></a>
-  <span class="note">&nbsp;MarineTraffic cannot be embedded; use each vessel's Track link, then log the position here.</span>
-  <div class="scroll" style="margin-top:10px"><table id="vessels"></table></div>
-  <div class="row">
-    <input id="vn" placeholder="Vessel (e.g. Wind Maker)"><input id="vl" placeholder="Location (e.g. Taichung, TW)">
-    <input id="vs" placeholder="Status / assignment"><input id="vd" type="date"><button onclick="addVessel()">Add vessel</button>
-  </div>
-</section>
+<section class="card wide"><h2>2 · Cadeler Vessels in APAC <i id="vupd"></i></h2>
+ <a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" target="_blank" rel="noopener"><button>Open MarineTraffic APAC map ↗</button></a>
+ <div class="scroll" style="margin-top:10px"><table id="vessels"></table></div>
+ <div class="row"><input id="vn" placeholder="Add vessel (manual)"><input id="vl" placeholder="Location"><input id="vs" placeholder="Assignment"><button onclick="addVessel()">Add</button></div>
+ <div class="note">Live positions come from AIS (aisstream.io) via the daily job – requires MMSI in data/fleet.js. Assignment is typed by you.</div></section>
 
-<section class="card">
-  <h2>3 · Project Status – Next 12 Months <i>manual entry</i></h2>
-  <div class="scroll"><table id="projects"></table></div>
-  <div class="row">
-    <input id="pd" type="month" style="flex:0 1 140px"><input id="pn" placeholder="Project name">
-    <select id="ps"><option>Planned</option><option>Active</option><option>Risk</option><option>Complete</option></select>
-    <input id="pc" placeholder="Notes"><button onclick="addProj()">Add</button>
-  </div>
-</section>
+<section class="card wide"><h2>3 · Projects – Next 12 Months <i>auto-updated + your own entries</i></h2>
+ <div class="scroll"><table id="projects"></table></div>
+ <div class="sec">My own projects (manual)</div>
+ <div class="scroll"><table id="myp"></table></div>
+ <div class="row"><input id="pd" type="month" style="flex:0 1 140px"><input id="pn" placeholder="Project name"><select id="ps"><option>Planned</option><option>Active</option><option>Risk</option><option>Complete</option></select><input id="pc" placeholder="Notes"><button onclick="addProj()">Add</button></div></section>
 
-<section class="card">
-  <h2>6 · Auction Timeline &amp; Status</h2>
-  <div class="tl" id="auctions"></div>
-</section>
-
-<section class="card"><h2>4 · APAC Industry News <i>auto-updated daily</i></h2><div id="news"></div></section>
-<section class="card"><h2>5 · APAC Competitor News <i>auto-updated daily</i></h2><div id="comp"></div></section>
+<section class="card"><h2>6 · Auction Timeline</h2><div class="tl" id="auctions"></div></section>
+<section class="card"><h2>4 · APAC Industry News <i>auto daily</i></h2><div id="news"></div></section>
+<section class="card"><h2>5 · APAC Competitor News <i>auto daily</i></h2><div id="comp"></div></section>
 </div>
-<footer>News via Google News RSS · Tender and auction data curated manually – verify against original sources.</footer>
-
-<script src="data/tenders.js"></script>
-<script src="data/news.js"></script>
+<footer>News: Google News RSS · Tenders/projects: AI-compiled from web search – verify against original sources.</footer>
+<script src="data/tenders.js"></script><script src="data/projects.js"></script><script src="data/news.js"></script>
+<script src="data/fleet.js"></script><script src="data/vessels_live.js"></script>
 <script>
-const $=id=>document.getElementById(id);
-const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const SL={closing:"Closing",open:"Open",planned:"Planned",awarded:"Awarded"};
-const T=window.TENDERS||[],N=window.NEWS||{};
-$("upd").textContent=N.updated||"–";
-$("kpis").innerHTML=[[T.filter(t=>t.status!=="awarded").length,"Active tenders"],[T.filter(t=>t.status==="closing").length,"Closing now"],
- [(N.industry||[]).length+(N.competitors||[]).length+(N.cadeler||[]).length,"News items"]].map(k=>`<div class="kpi"><b>${k[0]}</b><span>${k[1]}</span></div>`).join("");
-$("tenders").innerHTML="<tr><th>Tender</th><th>Region</th><th>Status</th><th>Key date</th><th>Next action</th></tr>"+
- T.map(t=>`<tr><td><a href="${esc(t.url)}" target="_blank" rel="noopener"><b>${esc(t.name)}</b></a></td><td>${esc(t.region)}</td><td><span class="pill ${t.status}">${SL[t.status]||t.status}</span><br><small>${esc(t.detail)}</small></td><td>${esc(t.date)}</td><td>${esc(t.next)}</td></tr>`).join("");
-$("auctions").innerHTML=(window.AUCTIONS||[]).map(a=>`<div class="${/2026-09-30/.test(a.date)?"hot":""}"><b>${esc(a.date)}</b><br>${esc(a.text)}</div>`).join("");
-const li=l=>`<ul class="news">${(l||[]).map(x=>`<li><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a><small>${esc(x.source)} · ${esc(x.date)}</small></li>`).join("")||"<li>No items</li>"}</ul>`;
-$("news").innerHTML=li(N.industry);
-$("comp").innerHTML=li(N.competitors)+`<div class="sub">Cadeler / Nexra</div>`+li(N.cadeler);
-
-/* manual sections: browser storage with fallback */
-let mem={};
-const load=(k,d)=>{try{const v=localStorage.getItem(k);return v?JSON.parse(v):(mem[k]||d)}catch(e){return mem[k]||d}};
+const $=id=>document.getElementById(id),esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let mem={};const load=(k,d)=>{try{const v=localStorage.getItem(k);return v?JSON.parse(v):(mem[k]||d)}catch(e){return mem[k]||d}};
 const save=(k,v)=>{mem[k]=v;try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}};
-let V=load("apac_v",["Wind Maker","Wind Zaratan","Wind Scylla","Wind Keeper"].map(n=>({n,l:"",s:"",d:""})));
+const flag=cc=>cc?`<img class="fl" src="https://flagcdn.com/w40/${cc}.png" alt="${cc.toUpperCase()}">`:"";
+const KW={tw:/taiwan|taipei|formosa|hai long|fengmiao/i,jp:/japan|tokyo|tepco|mitsubishi|choshi/i,kr:/korea|seoul/i,au:/australia|victoria/i,ph:/philippine/i,vn:/vietnam|ho chi minh/i,cn:/china|chinese/i,in:/india\b/i,sg:/singapore/i};
+const guess=t=>Object.keys(KW).find(k=>KW[k].test(t))||"";
+/* clocks */
+const Z=[["TAIWAN",["tw"],"Asia/Taipei"],["JAPAN · KOREA",["jp","kr"],"Asia/Tokyo"],["UNITED KINGDOM",["gb"],"Europe/London"],["DENMARK",["dk"],"Europe/Copenhagen"]];
+$("clocks").innerHTML=Z.map((z,i)=>`<div class="clk"><span>${z[1].map(flag).join("")}${z[0]}</span><b id="c${i}"></b></div>`).join("");
+function tick(){const n=new Date();Z.forEach((z,i)=>$("c"+i).textContent=n.toLocaleTimeString("en-GB",{timeZone:z[2],hour12:false}));
+ $("today").textContent=n.toLocaleDateString("en-GB",{timeZone:"Asia/Taipei",weekday:"long",day:"numeric",month:"long",year:"numeric"})}
+tick();setInterval(tick,1000);$("upd").textContent=(window.NEWS||{}).updated||"–";
+/* tenders */
+const T=window.TENDERS||[],SL={closing:"Closing",open:"Open",planned:"Planned",awarded:"Awarded"};
+let done=load("apac_done",{}),filt="all",openId=load("apac_open",null);
+const days=d=>d?Math.ceil((new Date(d+"T23:59:59")-Date.now())/864e5):null;
+const isNew=a=>a&&(Date.now()-new Date(a))/864e5<=7;
+function rT(){
+ $("tf").innerHTML=["all","closing","open","planned","awarded"].map(s=>`<span class="chip ${filt===s?"on":""}" onclick="filt='${s}';rT()">${s==="all"?"All":SL[s]}</span>`).join("");
+ $("tenders").innerHTML=T.filter(t=>filt==="all"||t.status===filt).map(t=>{
+  const A=t.actions||[],n=A.filter((a,i)=>done[t.id+i]).length,d=days(t.deadline);
+  return `<div class="tc ${t.status} ${openId===t.id?"x":""}"><div class="th" onclick="openId=openId==='${t.id}'?null:'${t.id}';save('apac_open',openId);rT()">
+   <div class="t">${flag(t.cc)}${esc(t.name)}${isNew(t.added)&&t.added!=="2026-09-30"?'<span class="pill new">NEW</span>':""}<small>${esc(t.detail)}</small></div>
+   <span class="pill ${t.status}">${SL[t.status]}</span>${d!==null?`<span class="cd ${d<=7?"hot":""}">${d<0?"Closed":d===0?"Closes today":d+" days left"}</span>`:""}
+   <div><div class="bar"><div style="width:${A.length?n/A.length*100:0}%"></div></div><small>${n}/${A.length} steps</small></div></div>
+  <div class="tb"><div class="why"><b>Why it matters:</b> ${esc(t.why)}</div><b>Next actions</b>
+  ${A.map((a,i)=>{const dd=days(a.due),k=t.id+i;return `<label class="act ${done[k]?"done":""}"><input type="checkbox" ${done[k]?"checked":""} onchange="done['${k}']=this.checked;save('apac_done',done);rT()"><span>${esc(a.t)}</span><em class="${!done[k]&&dd<0?"late":""}">${a.due||""}${!done[k]&&dd<0?" · overdue":""}</em></label>`}).join("")}
+  <a href="${esc(t.url)}" target="_blank" rel="noopener">Source ↗</a></div></div>`}).join("")||"<div class='note'>No tenders.</div>"}
+rT();
+$("auctions").innerHTML=(window.AUCTIONS||[]).map(a=>`<div class="${/09-30/.test(a.date)?"hot":""}"><b>${esc(a.date)}</b><br>${esc(a.text)}</div>`).join("");
+/* news */
+const N=window.NEWS||{},li=l=>`<ul class="news">${(l||[]).map(x=>`<li>${flag(guess(x.title))}<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a><small>${esc(x.source)} · ${esc(x.date)}</small></li>`).join("")||"<li>No items</li>"}</ul>`;
+$("news").innerHTML=li(N.industry);$("comp").innerHTML=li(N.competitors)+`<div class="sub">Cadeler / Nexra</div>`+li(N.cadeler);
+/* projects */
+const PC={Planned:"planned",Active:"active",Risk:"risk",Complete:"complete",planned:"planned",active:"active",risk:"risk",complete:"complete"};
+const cap=s=>s[0].toUpperCase()+s.slice(1);
+$("projects").innerHTML="<tr><th>Project</th><th>Stage</th><th>Timing</th><th>Status</th></tr>"+(window.PROJECTS||[]).map(p=>`<tr><td>${flag(p.cc)}<a href="${esc(p.url)}" target="_blank" rel="noopener"><b>${esc(p.name)}</b></a>${isNew(p.added)&&p.added!=="2026-09-30"?'<span class="pill new">NEW</span>':""}</td><td><span class="pill ${PC[p.stage]}">${cap(p.stage)}</span></td><td>${esc(p.window)}</td><td>${esc(p.note)}</td></tr>`).join("");
 let P=load("apac_p",[]);
-const mt=n=>"https://www.marinetraffic.com/en/ais/index/search/all?keyword="+encodeURIComponent(n);
-function rV(){$("vessels").innerHTML="<tr><th>Vessel</th><th>Current location</th><th>Status / assignment</th><th>Updated</th><th></th></tr>"+
- V.map((v,i)=>`<tr><td><b>${esc(v.n)}</b></td><td><input value="${esc(v.l)}" placeholder="Update…" onchange="V[${i}].l=this.value;save('apac_v',V)"></td><td><input value="${esc(v.s)}" onchange="V[${i}].s=this.value;save('apac_v',V)"></td><td><input type="date" value="${v.d}" onchange="V[${i}].d=this.value;save('apac_v',V)"></td><td><a href="${mt(v.n)}" target="_blank" rel="noopener">Track ↗</a> <button class="g" onclick="V.splice(${i},1);save('apac_v',V);rV()">×</button></td></tr>`).join("")}
-function addVessel(){const n=$("vn").value.trim();if(!n)return;V.push({n,l:$("vl").value,s:$("vs").value,d:$("vd").value});save("apac_v",V);["vn","vl","vs","vd"].forEach(i=>$(i).value="");rV()}
-const PC={Planned:"planned",Active:"active",Risk:"risk",Complete:"complete"};
-function rP(){P.sort((a,b)=>a.d.localeCompare(b.d));$("projects").innerHTML="<tr><th>When</th><th>Project</th><th>Status</th><th>Notes</th><th></th></tr>"+
- (P.length?P.map((p,i)=>`<tr><td>${esc(p.d)}</td><td>${esc(p.n)}</td><td><span class="pill ${PC[p.s]}">${p.s}</span></td><td>${esc(p.c)}</td><td><button class="g" onclick="P.splice(${i},1);save('apac_p',P);rP()">×</button></td></tr>`).join(""):`<tr><td colspan="5" class="note">No projects yet – add below.</td></tr>`)}
-function addProj(){const n=$("pn").value.trim();if(!n)return;P.push({d:$("pd").value||"—",n,s:$("ps").value,c:$("pc").value});save("apac_p",P);$("pn").value=$("pc").value="";rP()}
-rV();rP();
-</script>
-</body>
-</html>
+function rP(){P.sort((a,b)=>a.d.localeCompare(b.d));$("myp").innerHTML=P.length?"<tr><th>When</th><th>Project</th><th>Status</th><th>Notes</th><th></th></tr>"+P.map((p,i)=>`<tr><td>${esc(p.d)}</td><td>${esc(p.n)}</td><td><span class="pill ${PC[p.s]}">${p.s}</span></td><td>${esc(p.c)}</td><td><button class="g" onclick="P.splice(${i},1);save('apac_p',P);rP()">×</button></td></tr>`).join(""):"<tr><td class='note'>None yet.</td></tr>"}
+function addProj(){const n=$("pn").value.trim();if(!n)return;P.push({d:$("pd").value||"—",n,s:$("ps").value,c:$("pc").value});save("apac_p",P);$("pn").value=$("pc").value="";rP()}rP();
+/* vessels */
+const PORTS=[["Taichung",24.28,120.5],["Keelung",25.15,121.75],["Kaohsiung",22.6,120.27],["Tokyo Bay",35.4,139.8],["Kitakyushu",33.95,130.9],["Busan",35.08,129.05],["Singapore",1.25,103.8],["Esbjerg",55.47,8.43],["Rotterdam",51.95,4.1]];
+const km=(a,b,c,d)=>{const r=x=>x*Math.PI/180,h=Math.sin(r(c-a)/2)**2+Math.cos(r(a))*Math.cos(r(c))*Math.sin(r(d-b)/2)**2;return 12742*Math.asin(Math.sqrt(h))};
+const near=(la,lo)=>{const b=PORTS.map(p=>[p[0],km(la,lo,p[1],p[2])]).sort((a,b)=>a[1]-b[1])[0];return b[1]<40?"Near "+b[0]:b[1]<800?Math.round(b[1])+" km from "+b[0]:"Open sea / other region"};
+const LV=window.VESSELS_LIVE||{positions:{}};$("vupd").textContent=LV.updated?"AIS updated "+LV.updated:"AIS not configured yet";
+let V=load("apac_v",[]);
+function rV(){
+ const fl=(window.FLEET||[]).map(f=>({...f,live:LV.positions[f.name]}));
+ const rows=fl.map(f=>{const L=f.live,man=V.find(v=>v.n===f.name)||{};
+  return `<tr><td><b>${esc(f.name)}</b></td><td>${L?`${near(L.lat,L.lon)}<br><small>${L.lat.toFixed(3)}, ${L.lon.toFixed(3)}</small>`:'<small>No AIS data</small>'}</td><td>${L?`${esc(L.status)} · ${L.sog} kn<br><small>${esc(L.time)}</small>`:""}</td><td><input value="${esc(man.s||"")}" placeholder="Assignment…" onchange="setS('${esc(f.name)}',this.value)"></td><td><a href="${f.mmsi?"https://www.marinetraffic.com/en/ais/details/ships/mmsi:"+f.mmsi:"https://www.marinetraffic.com/en/ais/index/search/all?keyword="+encodeURIComponent(f.name)}" target="_blank" rel="noopener">Track ↗</a></td></tr>`});
+ const extra=V.filter(v=>!fl.some(f=>f.name===v.n)).map((v,i)=>`<tr><td><b>${esc(v.n)}</b></td><td>${esc(v.l)}</td><td></td><td>${esc(v.s)}</td><td><a href="https://www.marinetraffic.com/en/ais/index/search/all?keyword=${encodeURIComponent(v.n)}" target="_blank" rel="noopener">Track ↗</a> <button class="g" onclick="V=V.filter(x=>x.n!=='${esc(v.n)}');save('apac_v',V);rV()">×</button></td></tr>`);
+ $("vessels").innerHTML="<tr><th>Vessel</th><th>Position (AIS)</th><th>Speed / nav status</th><th>Assignment</th><th></th></tr>"+rows.concat(extra).join("")}
+function setS(n,s){const v=V.find(x=>x.n===n);v?v.s=s:V.push({n,l:"",s});save("apac_v",V)}
+function addVessel(){const n=$("vn").value.trim();if(!n)return;V.push({n,l:$("vl").value,s:$("vs").value});save("apac_v",V);["vn","vl","vs"].forEach(i=>$(i).value="");rV()}rV();
+</script></body></html>
