@@ -33,9 +33,9 @@ window.NEWS={
    "date": "2026-08-20"
   },
   {
-   "title": "Offshore substation, export cable works completed at Taiwan’s Fengmiao 1 OWF",
+   "title": "Offshore substation, export cable works completed at Taiwan’s Fengmiao 1 OWF - offshore-energy.biz",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMlpMdDZ0d0UzaGhWZk9Ta2lHVW85azEtOW42NWhmMVV4SDJOVkwzQk9mWjRBekVZYjJXVXotZWVCWHNiWnN4Q0pwbUtxaWpmUW9mRW51Mk1PY2Q5MVFJQndka21Fa1ZQUUtBUm4yUkFJZmp4SHQ3WnVoRXdIc2lrcjlvTkEyRWhlT3EwUDNxUC1ZdEVWN1hxMXhRWkhWMkVWcTFSRERSTk81dw?oc=5",
-   "source": "Offshore Energy",
+   "source": "offshore-energy.biz",
    "date": "2026-08-06"
   },
   {
@@ -143,5 +143,5 @@ window.NEWS={
    "date": "2026-10-01"
   }
  ],
- "updated": "2026-10-02 07:26 UTC"
+ "updated": "2026-10-02 07:31 UTC"
 };
