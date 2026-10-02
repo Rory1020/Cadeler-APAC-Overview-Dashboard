@@ -103,7 +103,7 @@ window.NEWS={
   {
    "title": "Iljin Electric wins record UK grid order, boosts Korea’s offshore wind push - CHOSUNBIZ",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGdaMzhzS19nNEVZSFJadUlwR3NEZEVMSGhJNUt4dnhaSF9HZWZvT0kyRExXMl94amh4cWxvZG9vWXV5UFBTZ1F3UDB0SWg0bGNKNDFHdld2MWhpWEZXLWtBM2hvcHdlVGxRakpVYjZyMmtVbXh1ZmdzMXNqUTlla3Jn0gGWAUFVX3lxTE5XWGFXVVRicVRPdVpZU25DQ1p2OVFITmUyWG94X2N6SXNMUmM1emFwbTR0WGt3Z042OWMtNlRvWmpLZ1hKUS1oTzJPeUxRbS1NS0R2MDE1NS1IVWctcGN6RlkwX05JMFVMXzFwVXBvQTQ2dUJXMXJibm14SWRQZEpVbW80dUNqMjFKMDhiSmhwcWROekRkdw?oc=5",
-   "source": "Chosunbiz",
+   "source": "biz.chosun.com",
    "date": "2026-10-02"
   },
   {
@@ -143,5 +143,5 @@ window.NEWS={
    "date": "2026-10-01"
   }
  ],
- "updated": "2026-10-02 07:31 UTC"
+ "updated": "2026-10-02 07:45 UTC"
 };
