@@ -1,9 +1,37 @@
 window.NEWS={
  "industry": [
   {
-   "title": "HD Hyundai Heavy wins contract for Taean wind farm substation — Korea Herald",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVlhEQVI5UFJUUVgySlRCZTZCT0ZqVmw3ZVlUejliRV85bWc0Z013Si1lUFpncUxQVTB4d1paSjBYRWNpQlpUMWVRRnVDTzRROWJsNnpENEo1bTJPUWgtdTcxQVpnYjlQU0QwWTRJQ2JjNzQ4ZlJuVEJZQWxfaHNLVmQzNTlNSEllZFIzUUdEWGwzS2dfbFlBclI3VW4zLUhnWG5rTXZYb0NseWlSQmc?oc=5",
-   "source": "UA.NEWS",
+   "title": "Port of Bilbao deepens Korea offshore wind ties as delegation visits energy hub",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGFSWWp5YWlZRXpRTHdxU1g5LWtKWlFVR21WSGJjTGlDbF9OM1FVZTBZTjd5Qks2THlkOVJoQ2t2Z29MVHBxRllRQXJuTG1JajVzQV9Pc3ZNVFNCZ2szVE1IVEhPelNibHotT1RDeW42WkhHZUpaaEo5X0ozTFVtRUxNWHZBcHlWbURTNmIwMWZvbzJNSHI0endvZTlJMGl4LU4xdk1B?oc=5",
+   "source": "Breakbulk.News",
+   "date": "2026-10-02",
+   "img": ""
+  },
+  {
+   "title": "News Content Hub - Ørsted and CIP confirmed to have bid in Taiwan’s latest offshore wind auction",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR0RYcGs4anN2djBzNHFiREl2OFJUVlRlc0hqUFlzRVY3NVhCYVVCV0RMMEY0bWppQ2d4YWhNNlRhaV95U1pEMjZBWDZqRElmeExkaHlXdFVIWVV5V01feUZ4LWxKU3JEd3F3VjgwVF9PV1AzRmtNT0k1Sk54UThlbVc1eGRUQmRnVnhpZ1I1RE13MVg0cE5ETFZ3QjBjM0lrSllEMUx6U0pCZU9BZkxOOEw5UU1yX0lzQUp2LV9XTFhFT3M?oc=5",
+   "source": "rivieramm.com",
+   "date": "2026-10-02",
+   "img": ""
+  },
+  {
+   "title": "Offshore Equipment Corrosion Inhibitors Market To 2035: Offshore Wind Boom Drives Demand - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMng5NzlPZzFEMmpITVgxSFNkaW0yR3dzYmhQd2lNLWlfZUtlRHRJM0VGUkhIekFZQkpBYXFlTGxVMXpheEM2ME1QVXFBQjNRV2kzbkJxUDRvSVZXLW9RRDVya05pYmZwVVBMd3EtZVJkSG5YR1phdVpoc2RUMDZEaVRoRW1yTVY3UHpmS0p5VVYwRmNYYTREaVpHQkVmeFFaU3BOYVRuZm42OHROZDhKR2dGNVprSUFkNnJYLUk4VjZTcVNxLWc?oc=5",
+   "source": "IndexBox",
+   "date": "2026-10-02",
+   "img": ""
+  },
+  {
+   "title": "HD Hyundai Heavy Industries Signs Final Contract for 500MW Offshore Substation in Taean, South Korea",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcjZrNnY2TG9pa0h6NXRoUmFDY3ZyRXE0TWVyUTl4dUw2QVU1VWw2ZzM5N05yanhyVndJNWNER3JuV3MzUDdMQ3J4LWVzM3ZycDVpa0lPTFNEMHZCRC12VlFiWGstU1g1ejJmbERCUzhXX1VvUWcwcXpfNzc1ZkpsQWJvT0ZPRDZxLXFnbzE1MHZGVGZkNzRoNVZrU254ZHhBaGNwcjFNLW12VlQ1S2JNTGNtY0g1RUI4T3RRV0t2cFo2V1lEaFV4Y29GbWRzdw?oc=5",
+   "source": "TGS | 4C Offshore",
+   "date": "2026-10-02",
+   "img": ""
+  },
+  {
+   "title": "The Special Act on Offshore Wind Power came into force in March. The government's goal is to complet..",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tZFFaLU5OMmI4X3F4R2FoSnh2WFNRQWU5akhxZ0FmVlhtR29PM254TDBOcFBDdGhKMTlxWkdUcV9uVi1yZDEzQ3liQjJlRF9rS3c?oc=5",
+   "source": "매일경제",
    "date": "2026-10-02",
    "img": ""
   },
@@ -15,68 +43,26 @@ window.NEWS={
    "img": ""
   },
   {
+   "title": "HD Hyundai Heavy wins contract for Taean wind farm substation — Korea Herald",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVlhEQVI5UFJUUVgySlRCZTZCT0ZqVmw3ZVlUejliRV85bWc0Z013Si1lUFpncUxQVTB4d1paSjBYRWNpQlpUMWVRRnVDTzRROWJsNnpENEo1bTJPUWgtdTcxQVpnYjlQU0QwWTRJQ2JjNzQ4ZlJuVEJZQWxfaHNLVmQzNTlNSEllZFIzUUdEWGwzS2dfbFlBclI3VW4zLUhnWG5rTXZYb0NseWlSQmc?oc=5",
+   "source": "UA.NEWS",
+   "date": "2026-10-02",
+   "img": ""
+  },
+  {
    "title": "Iljin Electric wins record UK grid order, boosts Korea’s offshore wind push - CHOSUNBIZ",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGdaMzhzS19nNEVZSFJadUlwR3NEZEVMSGhJNUt4dnhaSF9HZWZvT0kyRExXMl94amh4cWxvZG9vWXV5UFBTZ1F3UDB0SWg0bGNKNDFHdld2MWhpWEZXLWtBM2hvcHdlVGxRakpVYjZyMmtVbXh1ZmdzMXNqUTlla3Jn0gGWAUFVX3lxTE5XWGFXVVRicVRPdVpZU25DQ1p2OVFITmUyWG94X2N6SXNMUmM1emFwbTR0WGt3Z042OWMtNlRvWmpLZ1hKUS1oTzJPeUxRbS1NS0R2MDE1NS1IVWctcGN6RlkwX05JMFVMXzFwVXBvQTQ2dUJXMXJibm14SWRQZEpVbW80dUNqMjFKMDhiSmhwcWROekRkdw?oc=5",
    "source": "Chosunbiz",
    "date": "2026-10-02",
    "img": ""
-  },
-  {
-   "title": "Taiwan's Offshore Wind Round 3-3 Draws Only Two Bidders; 3.6GW Allocation Likely to Fall Short",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fOEt1OFBwVDhHdlhrdXZBU21HV0Vvenl4TVRoSzNQcHhhcWVfTmNtYUtDQlQ1ZlJJaDB0dlJVMHlNRHlZc1IyaHdaUXhNMHF0amhreHV3ejE2MG4tdGc5bW5OM183eVVuNHc4ZHRvU2R4d0s2aUE?oc=5",
-   "source": "finance.biggo.com",
-   "date": "2026-10-01",
-   "img": ""
-  },
-  {
-   "title": "Australia tops Vestas orders for Q3, with offshore absent",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDBEOXJQT25McUwxLWs3N1RJOVJkU2lpU3dNS3FoSndDY0FjSXd2OWgtU2xJV1NpRElsSlJ3a0U1RDBjVllFWll0OGFsRU84LWdpTzNrQm45Sk9IUUx0NU1aUWpkcXgyRFJ6QU1GRFoxeFlEXy1VUmJVQXZaZG8tLVlLN25DR011UDZBdFNXYXhvWThrSUJLcURCdUM?oc=5",
-   "source": "Wind Power Monthly",
-   "date": "2026-10-01",
-   "img": ""
-  },
-  {
-   "title": "South Korea announces Power Grid Innovation Plan",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaDg5eXJPOTVJNUNoMExpaS1vOXZZcG01YkpiUnF2M2JEOUVjRG81alJqWGxCbUdMRXhpM0JYTTNrYXVuTzh0eUZvRW9MVE1fdUoyTzhRa2pNMTVXWFI0bHZ5blpwX0lQcy1RYnhscWp6NWJCSTFDZW01Rk41Rk55ZW5uN2V0YkljWGtFWHFHblBBWUE?oc=5",
-   "source": "TGS | 4C Offshore",
-   "date": "2026-10-01",
-   "img": ""
-  },
-  {
-   "title": "SeaTwirl plans 20-MW floating vertical-axis wind project in Australia",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDBBYVBDd3VqQjNtSnNSRXdIVzk1NVg1eTFvdXlydnJBcGw5N2VhQXdMaENzbzVjbzQ0b0RPWUtTLVJialJlRTZKMXpNUjlWQU5BbDE0UEVHSHlKV01yQVVUbG1YSDhlUTZmNEM5TkdFN2kwOHFiM1NpcUdfVVlQeFFZa0s4c0ZVQUdOaklBWTdBWlc2RDNlLUc4b0NScVJNQndzcTBUQzFpekh2X2c?oc=5",
-   "source": "Renewables Now",
-   "date": "2026-10-01",
-   "img": ""
-  },
-  {
-   "title": "Even Trump's US beating Europe on electrification, warns industry CEO",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQy12MFN1QkhBZGdQMXVXNnVBRTdTQy16WWUtdDEzUm4tS3JIaU92NXMyTUpRZ0t5ODlfVXJkVGdJWmRvUFVzVWJCeFdjWm1sVm1WWUp4Njl0Uy1BLXJjZlE1MVdhSUx2bjQ5Vkp2VFhoV0dKXzUxeGNzS0xtWF82YjQ3ZzRXT0laUVV1OVdUSnFaT1BVc3RfOHpwc0RZOWtmMGRHam04OVYydm5POEdyd2E0UE5aV29WRDlNYk11WHB1dw?oc=5",
-   "source": "Recharge News",
-   "date": "2026-10-01",
-   "img": ""
   }
  ],
  "competitors": [
-  {
-   "title": "HD Hyundai Heavy Industries Signs Final Contract for 500MW Offshore Substation in Taean, South Korea",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ29SYy04cFk2VGVCRXVLdDNEZzNZMmxkZHFPY2JSVkoxTXZGNDFPQVo0MGlTM1dmNnBHQVRwb1BlcE9jTnhqNUJndDd4bGRNcXlWa2Y4LWlobHJBblZjUlRIRjJ3amwydHlWMURvQjhXRW4zRzFEMFBTcnptMFJBYnIzempBNVU?oc=5",
-   "source": "reNEWS",
-   "date": "2026-10-02",
-   "img": ""
-  },
   {
    "title": "Renewables news: Boskalis, Blueleaf Energy, Juniper Green",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORl9tSmFPUzNPMWtUZkVXZmt4dDVLSVp3WVp4TnJHNGhvcndvbDNiMnhpdF9pNVY5UkZaaUlUY2Zza0JyWThZS1lsbzFWZW03T3BjS3l1RWg0dmRHampMejVUVlBrNTBPWmlYN0ZqdG55cDFPZV9jZzB4dnU2S0sxWEJGWlp5MEtCY081d3F4WDNOODhUN3FJUkRnT2ZwYlk?oc=5",
    "source": "GreentechLead",
    "date": "2026-10-02",
-   "img": ""
-  },
-  {
-   "title": "Boskalis awarded contract for inter-array cable installation at Zeevonk Offshore Wind Farm Phase 1",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaTRDQmxRS2VleXRPc3pSbWRxcTFxaVE4SDBSR0tuZ01Yd1psZUtzWXBNZE5FWjVwRDNWaU1jcl8wcW5VS0U1NUZaV0tIbEQycnVBdUctZmgxRHJvazdfWTVXOHhzNjlId0dMMUJxdkJpNWVuWGQ0UFkwZ1A3WkNiVjN4TGlUWHdPRnRpRkwyd1VQYzV5MWwteUN3?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-01",
    "img": ""
   },
   {
@@ -87,7 +73,14 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Taiwan offshore wind round attracts two project bids",
+   "title": "Boskalis awarded contract for inter-array cable installation at Zeevonk offshore wind farm",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd3ZaX09ab256cUxKb2s1T1JnOGxBa2RnXy0tS0pwRTZTSVU3eldERzJPZVlRN3ljcFBpWXVzZ0lCRzJTVzBEbDVpeEEtenVfWmx0QjBTVnFTWnBhd183Tm1xZjNmcnU3b3ZlY2ZZdDA5NDZuODR0ZGdjN09ualR1ekRacTVsZFh0a3ZBSUVvT3NEdHp5NEc3X0dHdmNQNmRidFBpMFhQQzRWaE1DNW83bEVVejI3djlNZUVhY19pTktBc1ktamxHMGp6QWl2VkU?oc=5",
+   "source": "Energy Global",
+   "date": "2026-10-01",
+   "img": ""
+  },
+  {
+   "title": "Taiwan gets two bids in 3.6-GW offshore wind round",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmhCUlB3cVdCYWZXbFhOemtzOGhmU3BiSjBFcVFzd2FERDRrR3BlYXVaOUg4NWVWYWU2TTk3QWdPRS0xRUZDNUxMQ244clZSMnlSYkg3M0kzUHNubXdCOXIxSDdyMjU2MDhYZWZqZDZjS0QyaVNZYWdua0RLQjFnbl9jdXdIZDRTUFB1TmVDNW5IaXlX?oc=5",
    "source": "Renewables Now",
    "date": "2026-10-01",
@@ -104,6 +97,13 @@ window.NEWS={
    "title": "IWS Places $300M Order for Four New Skywalker-Class CSOVs",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajVpRjBmWTVUMzltNjJKbzBRcHlaSVgxNmltUFNPVVdOT3NOWkZRRzJQT3pfekxHVUZicC1oTzliNXM4U09mdkM3SU1DVFFxZ19CeUl5OXZ4UXJKODJxWU55cU9VTEloN0d3T0h5dUFGQVBWRzd2NkFXYVNCTlFkODFzRFp0V0NZMFI2LXNCaVRrMHlxbEw2VVBZNEcyNEU?oc=5",
    "source": "Offshore Engineer Magazine",
+   "date": "2026-10-01",
+   "img": ""
+  },
+  {
+   "title": "Boskalis wins contract to install Zeevonk wind farm cables",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdXZxS0dEbzJHTnpMUWlCOUdSX0lZR2hQMG9YS3I0OFBwYnU4Znp3SndQaFd3aTBzVUdBYVZKLWhySDRPR0l6R2RPZUJJUHJLTnZwbWJQdjYtZURZZ1FzMkxQWklmUUNqVVJwMnVJaTJZQWJXcDVQR2xWUTM0cVBRcE1fQm0wT05vN1FscjY2RjBxcDhNRUMtM3VKZDBoWlVWWDFKcjY2d3k2TFlaZzZOcDRwa2ppQno2WGcydThXdzBKWENGN2ZGaUNTZy1jcTNhaDRmU0lR0gHWAUFVX3lxTE11dnFLR0RvMkdOekxRaUI5R1JfSVlHaFAwb1hLcjQ4UHBidThmendKd1BoV3dpMHNVR0FhVkotaHJINE9HSXpHZE9lQklQcktOdnBtYlB2Ni1lRFlnUXMyTFBaSWZRQ2pVUnAydUlpMllBYldwNVBHbFZRMzRxUFFwTV9CbTBPTm83UWxyNjZGMHFwOE1FQy0zdUpkMGhaVVZYMUpyNjZ3eTZMWVpnNk5wNHBramlCejZYZzJ1OFd3MEpYQ0Y3ZkZpQ1NnLWNxM2FoNGZTSVE?oc=5",
+   "source": "bairdmaritime.com",
    "date": "2026-10-01",
    "img": ""
   },
@@ -140,10 +140,10 @@ window.NEWS={
   {
    "title": "Cadeler's Nexra, Vattenfall Sign MOU for Offshore Wind Maintenance - News and Statistics",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNE5fX0dFb2sxaC1ydXl6RjZuS2VoMFg0Ri0tVm1OSFNhc1lTdFdIODVOYWJ4bTRfdnV6RnJQMEdBYTItdFNEbnEzWDhQOElKZGZxRnoyLVRjaExRejMwaTlrTHJBM0h1aTRaSEdJSng5LS01bWxPaWN0LTQ1WDRaSjJBUUZjTDN3ZUVtMEdPTG5yRDR5d2xWMDVtc2xQTnNSVDREdWllNVRhMm83cHpZX3JIX1dUc2J6OWtRLU13?oc=5",
-   "source": "indexbox.io",
+   "source": "IndexBox",
    "date": "2026-09-21",
    "img": ""
   }
  ],
- "updated": "2026-10-02 08:41 UTC"
+ "updated": "2026-10-03 00:49 UTC"
 };
