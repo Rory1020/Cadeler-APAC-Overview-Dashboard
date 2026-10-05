@@ -1,6 +1,27 @@
 window.NEWS={
  "industry": [
   {
+   "title": "As wind power momentum slows in Japan, can tech help the industry get back on track?",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ1ZFbl9Na3ZQWWNmeVB2QmNMWEsyaS1qY1YtYWtkQ0ZHcWp3VzBWN3pJTTUyLTJZYVhKb1pXTjhSaFM4UnowNndqc3QyQ00zeHdEcUFxOWVTWUFIMEJYQTU0ZVVoaFFjWnZ6TWlrTWhWYTE3dW02MTdNV3pOQzFCU1lsb0NvSzRFbWEzdHpsczZxQQ?oc=5",
+   "source": "The Japan Times",
+   "date": "2026-10-04",
+   "img": ""
+  },
+  {
+   "title": "Lightning, snow and bears: How one Japanese region is hurdling offshore wind obstacles",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRVFNQXJQYWV0cy1zZ3V2OFN5ZUFOR1loSUx2ZWlzaThIVVQ0R1RNYlQ2U1VINW5EUzZoRDV2TV9fZFZtd2VpX296cFo3azkzUzZGZDNfNDlfY2M3TEFPX2dQaUhKT3puQThHZ3lFS1FqV3RKa1lndjVCVW9HT3hKcVU4UGZwVGN2dU1PYzJGU0tZOHFLUW5xZUhwUzhaVXdkTlN4enRzUVhLY1FmRHFNRFpyaUIwOUNlaWt2Mjl5ZHpKNFB3MWJCZHZaRlVYeXF4bldYMmJEdHhZMGJpTWc?oc=5",
+   "source": "Upstream Online",
+   "date": "2026-10-04",
+   "img": ""
+  },
+  {
+   "title": "Japan Offshore Wind Stalls at 253 Megawatts as Developers Turn to AI",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN0ZzeEJIbTJpZ0ZaUHZRVGQzUHFxakRuWHJvdEhIQnlvdGhRLWwwTVJibmpXQ2FoYVJXQWdiSDdKc3ZNZS13N2dyNXVDdnh2ZTg0Zmt6OHRQV2xjQXpCY0cxMGhQNU5aaTBkVExCN0VUdmxrLWpIcFYzeko5bUlHLUctWWJQZnBSLWNkMTBjX3VlUW83QU04?oc=5",
+   "source": "Retail News Asia",
+   "date": "2026-10-04",
+   "img": ""
+  },
+  {
    "title": "Port of Bilbao deepens Korea offshore wind ties as delegation visits energy hub",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGFSWWp5YWlZRXpRTHdxU1g5LWtKWlFVR21WSGJjTGlDbF9OM1FVZTBZTjd5Qks2THlkOVJoQ2t2Z29MVHBxRllRQXJuTG1JajVzQV9Pc3ZNVFNCZ2szVE1IVEhPelNibHotT1RDeW42WkhHZUpaaEo5X0ozTFVtRUxNWHZBcHlWbURTNmIwMWZvbzJNSHI0endvZTlJMGl4LU4xdk1B?oc=5",
    "source": "Breakbulk.News",
@@ -15,16 +36,16 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Offshore Equipment Corrosion Inhibitors Market To 2035: Offshore Wind Boom Drives Demand - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMng5NzlPZzFEMmpITVgxSFNkaW0yR3dzYmhQd2lNLWlfZUtlRHRJM0VGUkhIekFZQkpBYXFlTGxVMXpheEM2ME1QVXFBQjNRV2kzbkJxUDRvSVZXLW9RRDVya05pYmZwVVBMd3EtZVJkSG5YR1phdVpoc2RUMDZEaVRoRW1yTVY3UHpmS0p5VVYwRmNYYTREaVpHQkVmeFFaU3BOYVRuZm42OHROZDhKR2dGNVprSUFkNnJYLUk4VjZTcVNxLWc?oc=5",
-   "source": "IndexBox",
+   "title": "HD Hyundai Heavy Industries Signs Final Contract for 500MW Offshore Substation in Taean, South Korea",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcjZrNnY2TG9pa0h6NXRoUmFDY3ZyRXE0TWVyUTl4dUw2QVU1VWw2ZzM5N05yanhyVndJNWNER3JuV3MzUDdMQ3J4LWVzM3ZycDVpa0lPTFNEMHZCRC12VlFiWGstU1g1ejJmbERCUzhXX1VvUWcwcXpfNzc1ZkpsQWJvT0ZPRDZxLXFnbzE1MHZGVGZkNzRoNVZrU254ZHhBaGNwcjFNLW12VlQ1S2JNTGNtY0g1RUI4T3RRV0t2cFo2V1lEaFV4Y29GbWRzdw?oc=5",
+   "source": "TGS | 4C Offshore",
    "date": "2026-10-02",
    "img": ""
   },
   {
-   "title": "HD Hyundai Heavy Industries Signs Final Contract for 500MW Offshore Substation in Taean, South Korea",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81aUtUX3JXTXdXN1k3ZzJFTjh0cnlBM3VkcjVUU1RPdXRrdGRtSldEZjRxbWF3RjBQT00tUHB6Rk8xVlRTNk5TQVFPYXI5UVh1czR0dnN1aw?oc=5",
-   "source": "The Korea Herald",
+   "title": "Offshore Equipment Corrosion Inhibitors Market To 2035: Offshore Wind Boom Drives Demand - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMng5NzlPZzFEMmpITVgxSFNkaW0yR3dzYmhQd2lNLWlfZUtlRHRJM0VGUkhIekFZQkpBYXFlTGxVMXpheEM2ME1QVXFBQjNRV2kzbkJxUDRvSVZXLW9RRDVya05pYmZwVVBMd3EtZVJkSG5YR1phdVpoc2RUMDZEaVRoRW1yTVY3UHpmS0p5VVYwRmNYYTREaVpHQkVmeFFaU3BOYVRuZm42OHROZDhKR2dGNVprSUFkNnJYLUk4VjZTcVNxLWc?oc=5",
+   "source": "IndexBox",
    "date": "2026-10-02",
    "img": ""
   },
@@ -34,41 +55,13 @@ window.NEWS={
    "source": "매일경제",
    "date": "2026-10-02",
    "img": ""
-  },
-  {
-   "title": "HD Hyundai Heavy wins contract for Taean wind farm substation — Korea Herald",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVlhEQVI5UFJUUVgySlRCZTZCT0ZqVmw3ZVlUejliRV85bWc0Z013Si1lUFpncUxQVTB4d1paSjBYRWNpQlpUMWVRRnVDTzRROWJsNnpENEo1bTJPUWgtdTcxQVpnYjlQU0QwWTRJQ2JjNzQ4ZlJuVEJZQWxfaHNLVmQzNTlNSEllZFIzUUdEWGwzS2dfbFlBclI3VW4zLUhnWG5rTXZYb0NseWlSQmc?oc=5",
-   "source": "UA.NEWS",
-   "date": "2026-10-02",
-   "img": ""
-  },
-  {
-   "title": "Korea Western Power teams with local development outfit on wind projects",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwUXAzelhJR2w0b3liaG5JU3FyWXVtNUZOemkwRXl6NkxHTjRpeDhRWmpIQ2hoZmw2eFl6NElUX25aT1MwSGItZFNkVHVnTW1LaUozMW1xajEzYUtMT2g3TlAtNUp4SXczZk83T1VDSFJUVjc2VTQw?oc=5",
-   "source": "The Korea News Plus",
-   "date": "2026-10-02",
-   "img": ""
-  },
-  {
-   "title": "Iljin Electric wins record UK grid order, boosts Korea’s offshore wind push - CHOSUNBIZ",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGdaMzhzS19nNEVZSFJadUlwR3NEZEVMSGhJNUt4dnhaSF9HZWZvT0kyRExXMl94amh4cWxvZG9vWXV5UFBTZ1F3UDB0SWg0bGNKNDFHdld2MWhpWEZXLWtBM2hvcHdlVGxRakpVYjZyMmtVbXh1ZmdzMXNqUTlla3Jn0gGWAUFVX3lxTE5XWGFXVVRicVRPdVpZU25DQ1p2OVFITmUyWG94X2N6SXNMUmM1emFwbTR0WGt3Z042OWMtNlRvWmpLZ1hKUS1oTzJPeUxRbS1NS0R2MDE1NS1IVWctcGN6RlkwX05JMFVMXzFwVXBvQTQ2dUJXMXJibm14SWRQZEpVbW80dUNqMjFKMDhiSmhwcWROekRkdw?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-10-02",
-   "img": ""
   }
  ],
  "competitors": [
   {
    "title": "Acta Marine Christens Vestas-Chartered CSOV Newbuild",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREs5cjZDcXNnZWdYdHhSQzNLd0RBcHhRWFNFOHpBZ21Lc3RMVk10MVRvdlZSU2toSmZqaFh2dEg5QXFiTHVGRmxhSWxfZW1yZm0zZS14aHp2Z0hlRXF4Ty0wanZWcnllaVdZQ2R1d1pSaVNNay1HeGR0VXgxOThVZjlKM0ViSlJLTlFvekRROWROTmRvWWtYREZB?oc=5",
-   "source": "Offshore Engineer Magazine",
-   "date": "2026-10-02",
-   "img": ""
-  },
-  {
-   "title": "Renewables news: Boskalis, Blueleaf Energy, Juniper Green",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORl9tSmFPUzNPMWtUZkVXZmt4dDVLSVp3WVp4TnJHNGhvcndvbDNiMnhpdF9pNVY5UkZaaUlUY2Zza0JyWThZS1lsbzFWZW03T3BjS3l1RWg0dmRHampMejVUVlBrNTBPWmlYN0ZqdG55cDFPZV9jZzB4dnU2S0sxWEJGWlp5MEtCY081d3F4WDNOODhUN3FJUkRnT2ZwYlk?oc=5",
-   "source": "GreentechLead",
+   "source": "oedigital.com",
    "date": "2026-10-02",
    "img": ""
   },
@@ -83,6 +76,13 @@ window.NEWS={
    "title": "DEME Installs Final Monopile at Nordlicht I Offshore Wind Farm",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3BLLVpTOTIzQld3dlU4cTNpZG9HNzZWSjdfZnUtRjllSnlEU0tLc1FhdkRWN0dva2NfRk9KNkxwMVpvMjl2RlFKc1daVGtWYmJDRzdteVB0blZrUGZHRXJwdmVlQzU2OHdQR1RpZlRfMkFuVV9ZVkFuN3EwMFg2VWNLSWVXZw?oc=5",
    "source": "Marine Link",
+   "date": "2026-10-01",
+   "img": ""
+  },
+  {
+   "title": "Taiwan gets two bids in 3.6-GW offshore wind round",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQmhCUlB3cVdCYWZXbFhOemtzOGhmU3BiSjBFcVFzd2FERDRrR3BlYXVaOUg4NWVWYWU2TTk3QWdPRS0xRUZDNUxMQ244clZSMnlSYkg3M0kzUHNubXdCOXIxSDdyMjU2MDhYZWZqZDZjS0QyaVNZYWdua0RLQjFnbl9jdXdIZDRTUFB1TmVDNW5IaXlX?oc=5",
+   "source": "Renewables Now",
    "date": "2026-10-01",
    "img": ""
   },
@@ -102,27 +102,55 @@ window.NEWS={
   },
   {
    "title": "IWS Places $300M Order for Four New Skywalker-Class CSOVs",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajVpRjBmWTVUMzltNjJKbzBRcHlaSVgxNmltUFNPVVdOT3NOWkZRRzJQT3pfekxHVUZicC1oTzliNXM4U09mdkM3SU1DVFFxZ19CeUl5OXZ4UXJKODJxWU55cU9VTEloN0d3T0h5dUFGQVBWRzd2NkFXYVNCTlFkODFzRFp0V0NZMFI2LXNCaVRrMHlxbEw2VVBZNEcyNEU?oc=5",
-   "source": "Offshore Engineer Magazine",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVJNS3dZSkVsNWFZNXp6aEdfVkNoZEVNb0hXaU9sbmRMeEd2Y2U3MUg2MkxzbjRfeExic1RrT1lzWFRTRHRMOGhlcDRmdmMyMkZGLWxBd3BrY2dyOHY4MlVVbHEzUEJFYnRUSjhoQ3VUVHRJSjVHOVJ2cjlIQmNnYnBpeHRIU29fTjBnZUpmX3REOTEtbloxck53?oc=5",
+   "source": "oedigital.com",
    "date": "2026-10-01",
    "img": ""
   },
   {
-   "title": "Boskalis gets cable job on 1st phase of Zeevonk wind farm",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMGduRXFFQmp0bm1aVlYtLVA1WkFrS2JIS193RmtmNlV3Qm01a0NIcy1ZbWxjQUFKbXVwNUNLQzJ5bTlBdDVETk85a2d0Y1h1WkV3R21VTGEtTmQ1ZUMxbEc2Q2NnSFY1b2FkVlMxQmFUQWtwVkYxa1NOa1FqamNmWGxDNEVrVGZKTDhfVkptWWFucnpnc0VwMnkwUU9IUQ?oc=5",
-   "source": "Renewables Now",
+   "title": "Siemens Energy taps EST-Floattech for 1 MWh battery system on Marco Polo CSOV",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObWkwMGx0bzk4RkdDLWhzN0JvYVhmLW40c0plNVRkVWtuMUx6RGxsdFRUTUdGcHFiNzE5UlFtUG9SbEV0eTZWQTl0aUVqWm8zQ1ZILWhmb2R4ckR3czljM012SkxXajItT0tmT0ZLRENCU040UDFDV000TnRWR21qMm5MVms?oc=5",
+   "source": "Marine Link",
    "date": "2026-10-01",
    "img": ""
   }
  ],
  "cadeler": [
   {
+   "title": "Cadeler (OB:CADLR) Expands Offshore Wind Services With Vattenfall, Is The Stock Undervalued?",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNXRuM3NtNkZfMXF6YW1UY1BLdHk0R2ZmOWt4cElPel9zdnNTMnZvNVkza05TUS15cm9SWld5NUdhS3g5ZDFBMTZVWjRzMkg2YWdrRElybkRjbUppUThKQ1VPZzM1MU5tRllEZ19HdEVSZ0VyR1F6Qk9SY3Z0WWVMRkJXRENYYlZYX3FqbXl3OFl5UzFmN0p3TURyVHNjLTdFdF9ZTlFzR0RZWWNCWlg2bmZrNDJCLTJ2WkF4UmhFWWQ4S2hld3d4RHRfazVTR0kxODJfaFVn0gHWAUFVX3lxTFA1dG4zc202Rl8xcXphbVRjUEt0eTRHZmY5a3hwSU96X3N2c1Mydm81WTNrTlNRLXlyb1JaV3k1R2FLeDlkMUExNlVaNHMySDZhZ2tESXJuRGNtSmlROEpDVU9nMzUxTm1GWURnX0d0RVJnRXJHUXpCT1JjdnRZZUxGQldEQ1hiVlhfcWpteXc4WXlTMWY3SndNRHJUc2MtN0V0X1lOUXNHRFlZY0JaWDZuZms0MkItMnZaQXhSaEVZZDhLaGV3d3hEdF9rNVNHSTE4Ml9oVWc?oc=5",
+   "source": "Simply Wall Street",
+   "date": "2026-10-03",
+   "img": ""
+  },
+  {
+   "title": "IMCA tracking impact of offshore wind expansion on marine operations",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVmRQSDBiWDl4Z2Y0MnYtTGYydXFzYnNqallTUHFwSV85QVNkeTFXU0MzNlhLVE1UUUZEQ1FOY1RaVnQ5ZW0yVlNrTVZBN01BN3B3Q1NpWmdMYXRlYTNzRXpiTTFxMW5GQzFmMmltcGVsNXpXcHk1MHJOZXM1VFhkeXAzcGkwaE9ySzNqdHdrRjZlVkZMYzlfVFJnRkdWMmFEREZNZ0RBMjRxcmVFRzJENzdDLWxuWms2aUhlT3JSbXVGcDhYYW5xMkQzVQ?oc=5",
+   "source": "Offshore Magazine",
+   "date": "2026-09-23",
+   "img": ""
+  },
+  {
    "title": "Cadeler and Vattenfall to Explore Next-Gen Offshore Wind Major Component Exchange Solutions",
    "url": "https://offshorewind.biz/2026/09/22/cadeler-and-vattenfall-to-explore-next-gen-offshore-wind-major-component-exchange-solutions",
    "source": "offshoreWIND.biz",
    "date": "2026-09-22",
    "img": "https://offshorewind.biz/api/media/file/Hollandse%20Kust%20Zuid%20_%20photo%20Cadeler-1600x900.jpg?prefix=media"
+  },
+  {
+   "title": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary CDLR",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CWDlsN19ycFNsdnpJYnI5ZnJwUU1sY2RTRUVsVmN0R3VrSnBoMktBWDhtdTg4MEhUVU11bEYyLXRZc3p3anZVWDhFWkJydlVoRVROWjdsRFNxZw?oc=5",
+   "source": "FinancialContent",
+   "date": "2026-09-22",
+   "img": ""
+  },
+  {
+   "title": "Cadeler's Nexra, Vattenfall Sign MOU for Offshore Wind Maintenance - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNE5fX0dFb2sxaC1ydXl6RjZuS2VoMFg0Ri0tVm1OSFNhc1lTdFdIODVOYWJ4bTRfdnV6RnJQMEdBYTItdFNEbnEzWDhQOElKZGZxRnoyLVRjaExRejMwaTlrTHJBM0h1aTRaSEdJSng5LS01bWxPaWN0LTQ1WDRaSjJBUUZjTDN3ZUVtMEdPTG5yRDR5d2xWMDVtc2xQTnNSVDREdWllNVRhMm83cHpZX3JIX1dUc2J6OWtRLU13?oc=5",
+   "source": "IndexBox",
+   "date": "2026-09-21",
+   "img": ""
   }
  ],
- "updated": "2026-10-04 00:13 UTC"
+ "updated": "2026-10-05 00:18 UTC"
 };
