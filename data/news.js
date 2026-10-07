@@ -8,6 +8,13 @@ window.NEWS={
    "img": ""
   },
   {
+   "title": "New report shows 38% increase in operational floating offshore wind capacity worldwide over past 12 months - energy-pedia",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XRzM3X05qVUNIUXp6ZEhQdVQ3SGk3elRhM2FOVnN1QXN3TzR6UHp1bGdOclRxQUFGSzJjMXBTT0VLc0doQU93VEE2Wm8tdkUteWVjWTJxLUVOZVplaEE?oc=5",
+   "source": "energy-pedia",
+   "date": "2026-10-07",
+   "img": ""
+  },
+  {
    "title": "Offshore Wind in Victoria to receive a CfD and an Availability payment … but where was that structure in the ESEM process?",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX2VVQ2VVNjB5SlVmNzBlX052M0twdFVOWG9hYWVJSXBUdVBZb3FOZmZTTTVSdUxlUmpaRjA3Ym5sWlBMVzBKeTlOTVY5MFVSbExQWm85cDlIYXlZUHplc1I3UktmV0pQQjJnWTByNjVlYmppeU5hbWRGaDExdEFTbEo1YmRTcTZnS1E?oc=5",
    "source": "WattClarity",
@@ -46,13 +53,6 @@ window.NEWS={
    "title": "Australia’s first offshore wind auction takes shape with longer contracts and special payments",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVBtRE5MRVVMQ1N1UmFiNGZJd1NVNnVJQV9oVTVxSGQ5bW9nZ1JtRE84Ykk0WkYtcmV2ZGZhVlFLRzQzYmJFek9lNGszQndPUGlBMUQ4dXYtY05RQVpGMU1CVHNpUF9OTWlVbTluS01OclNBQk9XbW1mMXpzeGVPVTFCdGtZZGRET25ualcyU2RBNnUzS2I3Q2w1TzNOOGtjRmxFaDNwdGV6c2VlTGctd25TM2x4MHlxQVBKem1XTdIBxAFBVV95cUxQS0g4cjUzUlI0UE5iUHVnZHYydkFGSExJd3RNczNQcjZmWUxvY1FYT3ozWXI3OXVJUTk3dndLM0VzeWRkOG00TXhYLWxGS2RoaXRveXlFSXRvM2sta2VlQlpUNVgyTXVmdEEtWEJlU0RsUjExNGtUOWpFSkd1T19JYWxwNW9xUnRmRVhhSnlJN3hwTWZJamVmcEVGdC1lY0J6UU8tMVJLWGtFRDJyQW94N3ZwRjRuQnpTNUxsakVJbXFQS1ZK?oc=5",
    "source": "Renew Economy",
-   "date": "2026-10-06",
-   "img": ""
-  },
-  {
-   "title": "GWEC alliance unveils floating wind action plan",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NQ3M1TkVIM1YtaXpxbWcyNkJ6R3paWVFTU0hKSFNmMDdHdTEzQTV2azJSRVFiZVo4eEo5Szl0bUllNGJSV0o1UGpyenVPcHh1dkZyZndoY2VfOWdFQV82cjNacDBwcVBIektyLVI0Yk5xMWo0ay02eXZiM0xEZw?oc=5",
-   "source": "reNEWS",
    "date": "2026-10-06",
    "img": ""
   }
@@ -159,5 +159,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-10-07 07:10 UTC"
+ "updated": "2026-10-07 08:06 UTC"
 };
