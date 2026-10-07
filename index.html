@@ -78,9 +78,10 @@ footer{text-align:center;color:var(--mut);font-size:11px;padding-bottom:24px}
 
 <section class="card wide"><h2>Cadeler Vessels in APAC <i id="vupd"></i></h2>
  <a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" target="_blank" rel="noopener"><button>Open MarineTraffic APAC map ↗</button></a>
+ <div id="mapbox" style="margin-top:12px"><iframe id="mapf" title="MarineTraffic Cadeler fleet map" loading="lazy" style="width:100%;height:540px;border:1px solid var(--bd);border-radius:10px;background:#0c182b"></iframe></div>
  <div class="scroll" style="margin-top:12px"><table id="vessels"></table></div>
  <div class="row"><input id="vn" placeholder="Add vessel (manual)"><input id="vl" placeholder="Location"><input id="vs" placeholder="Assignment"><button onclick="addVessel()">Add</button></div>
- <div class="note">Live AIS positions need MMSI in data/fleet.js + an aisstream.io key. The Track link opens the MarineTraffic page (position &amp; navigational status).</div></section>
+ <div class="note">The map above shows the Cadeler fleet from the company MarineTraffic account. Table: automatic AIS positions need MMSI in data/fleet.js + an aisstream.io key. The Track link opens the MarineTraffic page (position &amp; navigational status).</div></section>
 
 <section class="card wide"><h2>Projects – Next 12 Months <i>auto-updated + your own entries</i></h2><div class="scroll"><table id="projects"></table></div>
  <div class="sec">My own projects (manual)</div><div class="scroll"><table id="myp"></table></div>
@@ -156,6 +157,9 @@ function addProj(){const n=$("pn").value.trim();if(!n)return;P.push({d:$("pd").v
 const PORTS=[["Taichung",24.28,120.5],["Keelung",25.15,121.75],["Kaohsiung",22.6,120.27],["Tokyo Bay",35.4,139.8],["Kitakyushu",33.95,130.9],["Busan",35.08,129.05],["Singapore",1.25,103.8],["Esbjerg",55.47,8.43],["Rotterdam",51.95,4.1]];
 const km=(a,b,c,d)=>{const r=x=>x*Math.PI/180,h=Math.sin(r(c-a)/2)**2+Math.cos(r(a))*Math.cos(r(c))*Math.sin(r(d-b)/2)**2;return 12742*Math.asin(Math.sqrt(h))};
 const near=(la,lo)=>{const b=PORTS.map(p=>[p[0],km(la,lo,p[1],p[2])]).sort((a,b)=>a[1]-b[1])[0];return b[1]<40?"Near "+b[0]:b[1]<800?Math.round(b[1])+" km from "+b[0]:"Open sea / other region"};
+/* MarineTraffic embed (same widget as the company SharePoint). Set MAP_URL="" to hide. centerx/centery/zoom = initial APAC view; delete those 3 parts if the map ignores them. */
+const MAP_URL="https://www.marinetraffic.com/en/ais/embed/centerx:120/centery:25/zoom:4/maptype:1/shownames:true/mmsi:0/shipid:0/fleet:marinetraffic@cadeler.com/fleet_id:/vtypes:/showmenu:true/remember:false";
+if(MAP_URL){$("mapf").src=MAP_URL}else{$("mapbox").style.display="none"}
 const LV=window.VESSELS_LIVE||{positions:{}};$("vupd").textContent=LV.updated?"AIS updated "+LV.updated:"AIS not configured yet";let V=load("apac_v",[]);
 function rV(){const fl=(window.FLEET||[]).map(f=>({...f,live:LV.positions[f.name]}));
  const rows=fl.map(f=>{const L=f.live,m=V.find(v=>v.n===f.name)||{};return `<tr><td><b>${esc(f.name)}</b></td><td>${L?`${near(L.lat,L.lon)}<br><small>${L.lat.toFixed(3)}, ${L.lon.toFixed(3)}</small>`:'<small>No AIS data</small>'}</td><td>${L?`${esc(L.status)} · ${L.sog} kn<br><small>${esc(L.time)}</small>`:""}</td><td><input value="${esc(m.s||"")}" placeholder="Assignment…" onchange="setS('${esc(f.name)}',this.value)"></td><td><a href="${f.shipid?"https://www.marinetraffic.com/en/ais/details/ships/shipid:"+f.shipid:f.mmsi?"https://www.marinetraffic.com/en/ais/details/ships/mmsi:"+f.mmsi:"https://www.marinetraffic.com/en/ais/index/search/all?keyword="+encodeURIComponent(f.name)}" target="_blank" rel="noopener">Track ↗</a></td></tr>`});
