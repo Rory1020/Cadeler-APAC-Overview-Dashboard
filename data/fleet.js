@@ -3,3 +3,4 @@
 window.FLEET=[
 {name:"Wind Maker",mmsi:"",shipid:"9239231"},{name:"Wind Zaratan",mmsi:""},{name:"Wind Scylla",mmsi:""},{name:"Wind Keeper",mmsi:""}
 ];
+window.MAP_URL="https://www.marinetraffic.com/en/ais/embed/centerx:120/centery:25/zoom:4/maptype:1/shownames:true/mmsi:0/shipid:0/fleet:marinetraffic@cadeler.com/fleet_id:/vtypes:/showmenu:true/remember:false";
