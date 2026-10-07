@@ -60,6 +60,13 @@ button.g{background:none;color:var(--mut);border:1px solid var(--bd);padding:1px
 .ti div{margin-top:30px;font-size:13px;background:var(--card2);border:1px solid var(--bd);border-radius:8px;padding:8px 10px}.ti.past div{opacity:.6}
 .td{position:relative;width:96px;flex:none}.td:before{content:"";position:absolute;top:-8px;left:20px;bottom:-10px;width:2px;background:var(--er)}
 .td span{position:absolute;top:-34px;left:8px;background:var(--er);color:#fff;font-size:11px;font-weight:700;border-radius:4px;padding:2px 8px;white-space:nowrap}
+/* vessels */
+.vgrid{display:grid;grid-template-columns:minmax(270px,340px) 1fr;gap:16px}@media(max-width:900px){.vgrid{grid-template-columns:1fr}}
+.vall{width:100%;margin-bottom:10px;background:rgba(74,163,255,.15);color:#fff;border:1px solid var(--ac)}
+.vc{border:1px solid var(--bd);border-radius:12px;margin-bottom:10px;background:var(--card2);overflow:hidden}.vc.on{border-color:var(--ac);box-shadow:0 0 0 1px var(--ac)}
+.vh{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:10px 12px;cursor:pointer;flex-wrap:wrap}.vh b{font-size:15px}.vh:hover{background:#1d3053}
+.vb{padding:2px 12px 12px;border-top:1px solid var(--bd);display:grid;gap:8px;background:#14233b}.vb label{display:grid;gap:3px;font-size:11px;color:var(--mut);text-transform:uppercase;margin-top:6px}.vb select,.vb input{width:100%}
+.vb small{color:var(--mut)}.ids{display:flex;gap:6px}
 footer{text-align:center;color:var(--mut);font-size:11px;padding-bottom:24px}
 </style></head><body>
 <div class="hero"><div class="in">
@@ -76,16 +83,23 @@ footer{text-align:center;color:var(--mut);font-size:11px;padding-bottom:24px}
 
 <section class="card wide"><h2>Auction &amp; Tender Timeline <i id="tdt"></i></h2><div class="tw" id="tlw"><div class="tlh" id="tl"></div></div></section>
 
-<section class="card wide"><h2>Cadeler Vessels in APAC <i id="vupd"></i></h2>
- <a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" target="_blank" rel="noopener"><button>Open MarineTraffic APAC map ↗</button></a>
- <div id="mapbox" style="margin-top:12px"><iframe id="mapf" title="MarineTraffic Cadeler fleet map" loading="lazy" style="width:100%;height:540px;border:1px solid var(--bd);border-radius:10px;background:#0c182b"></iframe></div>
- <div class="scroll" style="margin-top:12px"><table id="vessels"></table></div>
- <div class="row"><input id="vn" placeholder="Add vessel (manual)"><input id="vl" placeholder="Location"><input id="vs" placeholder="Assignment"><button onclick="addVessel()">Add</button></div>
- <div class="note">The map above shows the Cadeler fleet from the company MarineTraffic account. Table: automatic AIS positions need MMSI in data/fleet.js + an aisstream.io key. The Track link opens the MarineTraffic page (position &amp; navigational status).</div></section>
-
 <section class="card wide"><h2>Projects – Next 12 Months <i>auto-updated + your own entries</i></h2><div class="scroll"><table id="projects"></table></div>
  <div class="sec">My own projects (manual)</div><div class="scroll"><table id="myp"></table></div>
  <div class="row"><input id="pd" type="month" style="flex:0 1 150px"><input id="pn" placeholder="Project name"><select id="ps"><option>Planned</option><option>Active</option><option>Risk</option><option>Complete</option></select><input id="pc" placeholder="Notes"><button onclick="addProj()">Add</button></div></section>
+
+<section class="card wide"><h2>Cadeler Vessels in APAC <i id="vupd"></i></h2>
+ <div class="vgrid">
+  <div class="vside">
+   <button class="vall" onclick="fleetAll()">⚓ All Cadeler vessels (overview)</button>
+   <div id="vlist"></div>
+   <div class="row"><input id="vn" placeholder="Add vessel name"><button onclick="addVessel()">Add</button></div>
+  </div>
+  <div class="vmap">
+   <div class="note" id="mapcap" style="margin:0 0 8px"></div>
+   <div id="mapbox"><iframe id="mapf" title="MarineTraffic Cadeler fleet map" loading="lazy" style="width:100%;height:600px;border:1px solid var(--bd);border-radius:10px;background:#0c182b"></iframe></div>
+   <div class="note">Click a vessel on the left to centre the live map on it. Position is live on the map; navigational status is chosen by you (dropdown) – click the ship icon on the map or use “Track” to read the latest status. <a href="https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4" target="_blank" rel="noopener">Open full MarineTraffic ↗</a></div>
+  </div>
+ </div></section>
 </div>
 <footer>News: publisher RSS + Google News · Tenders/projects: AI-compiled from web search, official sources preferred – always verify against the original.</footer>
 <script src="data/tenders.js"></script><script src="data/projects.js"></script><script src="data/news.js"></script><script src="data/fleet.js"></script><script src="data/vessels_live.js"></script>
@@ -154,17 +168,36 @@ let P=load("apac_p",[]);
 function rP(){P.sort((a,b)=>a.d.localeCompare(b.d));$("myp").innerHTML=P.length?"<tr><th>When</th><th>Project</th><th>Status</th><th>Notes</th><th></th></tr>"+P.map((p,i)=>`<tr><td>${esc(p.d)}</td><td>${esc(p.n)}</td><td><span class="pill ${PC[p.s]}">${p.s}</span></td><td>${esc(p.c)}</td><td><button class="g" onclick="P.splice(${i},1);save('apac_p',P);rP()">×</button></td></tr>`).join(""):"<tr><td class='note'>None yet.</td></tr>"}
 function addProj(){const n=$("pn").value.trim();if(!n)return;P.push({d:$("pd").value||"—",n,s:$("ps").value,c:$("pc").value});save("apac_p",P);$("pn").value=$("pc").value="";rP()}rP();
 /* vessels */
+/* MarineTraffic embed (same widget as the company SharePoint). Set MAP_URL="" to hide the map. */
+const MAP_URL="https://www.marinetraffic.com/en/ais/embed/centerx:120/centery:25/zoom:4/maptype:1/shownames:true/mmsi:0/shipid:0/fleet:marinetraffic@cadeler.com/fleet_id:/vtypes:/showmenu:true/remember:false";
 const PORTS=[["Taichung",24.28,120.5],["Keelung",25.15,121.75],["Kaohsiung",22.6,120.27],["Tokyo Bay",35.4,139.8],["Kitakyushu",33.95,130.9],["Busan",35.08,129.05],["Singapore",1.25,103.8],["Esbjerg",55.47,8.43],["Rotterdam",51.95,4.1]];
 const km=(a,b,c,d)=>{const r=x=>x*Math.PI/180,h=Math.sin(r(c-a)/2)**2+Math.cos(r(a))*Math.cos(r(c))*Math.sin(r(d-b)/2)**2;return 12742*Math.asin(Math.sqrt(h))};
 const near=(la,lo)=>{const b=PORTS.map(p=>[p[0],km(la,lo,p[1],p[2])]).sort((a,b)=>a[1]-b[1])[0];return b[1]<40?"Near "+b[0]:b[1]<800?Math.round(b[1])+" km from "+b[0]:"Open sea / other region"};
-/* MarineTraffic embed (same widget as the company SharePoint). Set MAP_URL="" to hide. centerx/centery/zoom = initial APAC view; delete those 3 parts if the map ignores them. */
-const MAP_URL="https://www.marinetraffic.com/en/ais/embed/centerx:120/centery:25/zoom:4/maptype:1/shownames:true/mmsi:0/shipid:0/fleet:marinetraffic@cadeler.com/fleet_id:/vtypes:/showmenu:true/remember:false";
-if(MAP_URL){$("mapf").src=MAP_URL}else{$("mapbox").style.display="none"}
-const LV=window.VESSELS_LIVE||{positions:{}};$("vupd").textContent=LV.updated?"AIS updated "+LV.updated:"AIS not configured yet";let V=load("apac_v",[]);
-function rV(){const fl=(window.FLEET||[]).map(f=>({...f,live:LV.positions[f.name]}));
- const rows=fl.map(f=>{const L=f.live,m=V.find(v=>v.n===f.name)||{};return `<tr><td><b>${esc(f.name)}</b></td><td>${L?`${near(L.lat,L.lon)}<br><small>${L.lat.toFixed(3)}, ${L.lon.toFixed(3)}</small>`:'<small>No AIS data</small>'}</td><td>${L?`${esc(L.status)} · ${L.sog} kn<br><small>${esc(L.time)}</small>`:""}</td><td><input value="${esc(m.s||"")}" placeholder="Assignment…" onchange="setS('${esc(f.name)}',this.value)"></td><td><a href="${f.shipid?"https://www.marinetraffic.com/en/ais/details/ships/shipid:"+f.shipid:f.mmsi?"https://www.marinetraffic.com/en/ais/details/ships/mmsi:"+f.mmsi:"https://www.marinetraffic.com/en/ais/index/search/all?keyword="+encodeURIComponent(f.name)}" target="_blank" rel="noopener">Track ↗</a></td></tr>`});
- const ex=V.filter(v=>!fl.some(f=>f.name===v.n)).map(v=>`<tr><td><b>${esc(v.n)}</b></td><td>${esc(v.l)}</td><td></td><td>${esc(v.s)}</td><td><a href="https://www.marinetraffic.com/en/ais/index/search/all?keyword=${encodeURIComponent(v.n)}" target="_blank" rel="noopener">Track ↗</a> <button class="g" onclick="V=V.filter(x=>x.n!=='${esc(v.n)}');save('apac_v',V);rV()">×</button></td></tr>`);
- $("vessels").innerHTML="<tr><th>Vessel</th><th>Position (AIS)</th><th>Speed / nav status</th><th>Assignment</th><th></th></tr>"+rows.concat(ex).join("")}
-function setS(n,s){const v=V.find(x=>x.n===n);v?v.s=s:V.push({n,l:"",s});save("apac_v",V)}
-function addVessel(){const n=$("vn").value.trim();if(!n)return;V.push({n,l:$("vl").value,s:$("vs").value});save("apac_v",V);["vn","vl","vs"].forEach(i=>$(i).value="");rV()}rV();
+const NAVST=["Under way using engine","At anchor","Moored","Not under command","Restricted manoeuvrability","Constrained by her draught","Aground","Engaged in fishing","Under way sailing","Not defined / unknown"];
+const NC=s=>/^Under way/.test(s)?"open":/anchor|Moored/i.test(s)?"evaluating":/command|Restricted|Constrained|Aground/i.test(s)?"risk":"complete";
+const tsf=t=>new Date(t).toLocaleString("en-GB",{timeZone:"Asia/Taipei",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit",hour12:false});
+const LV=window.VESSELS_LIVE||{positions:{}};$("vupd").textContent=LV.updated?"AIS feed updated "+LV.updated:"live map · status set by you";
+const DEF=[{n:"Wind Orca",mmsi:"",shipid:""},{n:"Wind Keeper",mmsi:"",shipid:""},{n:"Wind Scylla",mmsi:"",shipid:""},{n:"Wind Zaratan",mmsi:"",shipid:""},{n:"Wind Maker",mmsi:"",shipid:"9239231"}];
+let V=load("apac_fleet2",DEF),sel=load("apac_sel",null),lastSrc="";
+(window.FLEET||[]).forEach(f=>{const v=V.find(x=>x.n.toLowerCase()===String(f.name).toLowerCase());if(v){if(!v.mmsi&&f.mmsi)v.mmsi=f.mmsi;if(!v.shipid&&f.shipid)v.shipid=f.shipid}});
+function mapURL(v){if(!MAP_URL)return"";const id=v&&(v.mmsi||"").trim(),sid=v&&(v.shipid||"").trim();if(!id&&!sid)return MAP_URL;
+ let u=MAP_URL.replace(/centerx:[^/]+\//,"").replace(/centery:[^/]+\//,"").replace(/zoom:[^/]+\//,"").replace("/embed/","/embed/zoom:9/");
+ return id?u.replace("mmsi:0","mmsi:"+encodeURIComponent(id)):u.replace("shipid:0","shipid:"+encodeURIComponent(sid))}
+function setMap(){if(!MAP_URL){$("mapbox").style.display="none";$("mapcap").textContent="";return}
+ const v=V.find(x=>x.n===sel),u=mapURL(v);if(u!==lastSrc){$("mapf").src=u;lastSrc=u}
+ $("mapcap").innerHTML=!v?"Showing: <b>all Cadeler vessels</b> (APAC overview)":(v.mmsi||v.shipid)?"Showing: <b>"+esc(v.n)+"</b> – live position":"No MMSI / ShipID saved for <b>"+esc(v.n)+"</b> – showing the fleet map. Enter the MMSI or ShipID in its card (left)."}
+const trk=v=>v.mmsi?"https://www.marinetraffic.com/en/ais/details/ships/mmsi:"+encodeURIComponent(v.mmsi):v.shipid?"https://www.marinetraffic.com/en/ais/details/ships/shipid:"+encodeURIComponent(v.shipid):"https://www.marinetraffic.com/en/ais/index/search/all?keyword="+encodeURIComponent(v.n);
+function rV(){$("vlist").innerHTML=V.map((v,i)=>{const L=LV.positions[v.n];
+ return `<div class="vc ${sel===v.n?"on":""}"><div class="vh" onclick="pick(${i})"><b>${esc(v.n)}</b><span class="pill ${v.st?NC(v.st):"complete"}">${v.st?esc(v.st):"Status not set"}</span></div>
+ <div class="vb"><label>Navigational status<select onchange="setF(${i},'st',this.value)"><option value="">– select –</option>${NAVST.map(s=>`<option ${v.st===s?"selected":""}>${s}</option>`).join("")}</select></label>
+ ${v.ts?`<small>Status updated ${tsf(v.ts)} (Taipei)</small>`:""}${L?`<small>AIS feed: ${esc(L.status)} · ${near(L.lat,L.lon)} · ${esc(L.time)}</small>`:""}
+ <label>Assignment<input value="${esc(v.s||"")}" placeholder="e.g. Taiwan O&amp;M" onchange="setF(${i},'s',this.value)"></label>
+ <div class="ids"><input value="${esc(v.mmsi||"")}" placeholder="MMSI" onchange="setF(${i},'mmsi',this.value.trim())"><input value="${esc(v.shipid||"")}" placeholder="ShipID" onchange="setF(${i},'shipid',this.value.trim())"></div>
+ <div><a href="${trk(v)}" target="_blank" rel="noopener">Track on MarineTraffic ↗</a> <button class="g" onclick="delV(${i})">Remove</button></div></div></div>`}).join("");setMap()}
+function setF(i,k,val){V[i][k]=val;if(k==="st")V[i].ts=new Date().toISOString();save("apac_fleet2",V);rV()}
+function pick(i){sel=V[i].n;save("apac_sel",sel);rV()}
+function fleetAll(){sel=null;save("apac_sel",sel);rV()}
+function delV(i){if(!confirm("Remove "+V[i].n+"?"))return;if(sel===V[i].n){sel=null;save("apac_sel",sel)}V.splice(i,1);save("apac_fleet2",V);rV()}
+function addVessel(){const n=$("vn").value.trim();if(!n)return;V.push({n,mmsi:"",shipid:""});save("apac_fleet2",V);$("vn").value="";rV()}
+rV();
 </script></body></html>
