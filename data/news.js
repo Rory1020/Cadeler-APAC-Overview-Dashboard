@@ -1,6 +1,20 @@
 window.NEWS={
  "industry": [
   {
+   "title": "Sumitomo Teams Up with Irish Floating Wind Mooring Tech Company",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnd3d3E4Z2p5RGhjV3lRT2ZkMnc1azF2dXdhSElTVjN6VEZ5M1k4ZFNIUUIxblFCNkNNSU9HeVNLZk1CWExHbUxIVmlORDdMYkZWcmNHd1B3NGtFVW5DSld5aUJ3RU4tQW94ZnRwakh4TkVUMUNGTUxwRzhzaV8xSFNNLVQ5TkR1b2ZEUzhKRU8zU3lqV3dUVHdveXJYRGo3OWdlLTd3?oc=5",
+   "source": "Offshore Wind",
+   "date": "2026-10-07",
+   "img": ""
+  },
+  {
+   "title": "Offshore Wind in Victoria to receive a CfD and an Availability payment … but where was that structure in the ESEM process?",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX2VVQ2VVNjB5SlVmNzBlX052M0twdFVOWG9hYWVJSXBUdVBZb3FOZmZTTTVSdUxlUmpaRjA3Ym5sWlBMVzBKeTlOTVY5MFVSbExQWm85cDlIYXlZUHplc1I3UktmV0pQQjJnWTByNjVlYmppeU5hbWRGaDExdEFTbEo1YmRTcTZnS1E?oc=5",
+   "source": "WattClarity",
+   "date": "2026-10-07",
+   "img": ""
+  },
+  {
    "title": "FOW26: Floating wind capacity surges 38%",
    "url": "https://www.renews.biz/offshore-wind/fow26-floating-wind-capacity-surges-38/",
    "source": "reNEWS",
@@ -22,6 +36,13 @@ window.NEWS={
    "img": ""
   },
   {
+   "title": "Offshore wind farm suffers its second turbine blade failure in two months",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVTZfYlF2T1NTbG5DZW9LUS1CeGRmOTRTWC1JaHdzQTEzMGVyb3M1S0JGdFdQdGlyRGQyS1lnN0w3U21ZZy1jd1FTMjVzbkhHa1VHUENVMFNlZGFwVVNDZkd0bU5TN2I2bXVHU3BfM09RVjFNU0Exb1lGSWV3MFU5TVE0bm1GeFBPV0lscVFXcGtMQTd6aXdLTDlLa19WREFv0gGmAUFVX3lxTFBSQlgtT3RvX3Vfd0o3NUdxMV9VOXJLaXlidWoxVDJiLVVJa3BoYWw4QVFtRGlzTEtnNzBKTklfXzExdlhnWnRqZWJUWVZoUjNiQjlmY2FuTHpHcmw4NFJjamRVdXRrRVhYdm5HU0FWbTZZd1NodGhFSnBSMk4waFgxbUtGdFc2NHdSWXI3aUlnY25IeTJSbk0xbkdob1FzTmlnV003Znc?oc=5",
+   "source": "Renew Economy",
+   "date": "2026-10-06",
+   "img": ""
+  },
+  {
    "title": "Australia’s first offshore wind auction takes shape with longer contracts and special payments",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVBtRE5MRVVMQ1N1UmFiNGZJd1NVNnVJQV9oVTVxSGQ5bW9nZ1JtRE84Ykk0WkYtcmV2ZGZhVlFLRzQzYmJFek9lNGszQndPUGlBMUQ4dXYtY05RQVpGMU1CVHNpUF9OTWlVbTluS01OclNBQk9XbW1mMXpzeGVPVTFCdGtZZGRET25ualcyU2RBNnUzS2I3Q2w1TzNOOGtjRmxFaDNwdGV6c2VlTGctd25TM2x4MHlxQVBKem1XTdIBxAFBVV95cUxQS0g4cjUzUlI0UE5iUHVnZHYydkFGSExJd3RNczNQcjZmWUxvY1FYT3ozWXI3OXVJUTk3dndLM0VzeWRkOG00TXhYLWxGS2RoaXRveXlFSXRvM2sta2VlQlpUNVgyTXVmdEEtWEJlU0RsUjExNGtUOWpFSkd1T19JYWxwNW9xUnRmRVhhSnlJN3hwTWZJamVmcEVGdC1lY0J6UU8tMVJLWGtFRDJyQW94N3ZwRjRuQnpTNUxsakVJbXFQS1ZK?oc=5",
    "source": "Renew Economy",
@@ -33,27 +54,6 @@ window.NEWS={
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NQ3M1TkVIM1YtaXpxbWcyNkJ6R3paWVFTU0hKSFNmMDdHdTEzQTV2azJSRVFiZVo4eEo5Szl0bUllNGJSV0o1UGpyenVPcHh1dkZyZndoY2VfOWdFQV82cjNacDBwcVBIektyLVI0Yk5xMWo0ay02eXZiM0xEZw?oc=5",
    "source": "reNEWS",
    "date": "2026-10-06",
-   "img": ""
-  },
-  {
-   "title": "Construction begins on wind farm and big battery to power huge mine and push state closer to 100 pct renewa...",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObFlqampuVm1UUHJHd1NrM0NQMV9aTHdubV9TdFVSYk1HWHdxWFFjYTQ3aVBmWUNaWFExMGZCYkpJeE9xQUNRYVJRMVZwSlVlWWVodllVRDhhRlJGVUhFclJpbHRiQUhJZFJsLTJOQnN5MnpYX0psU2RUdW1ValVkcDdnTVY3MFcxUk5DeTR3WnNBN1VBd1dlNW4yYXZUa056cUJ0SktiM0xlYmRzQndwVWVQM1dMQ0ZLdEwtYS1fQ3VNVjJIS1pxbkNUeHBIWU10QlcyRzUwZEhyVGVJ0gHcAUFVX3lxTE5sWWpqam5WbVRQckd3U2szQ1AxX1pMd25tX1N0VVJiTUdYd3FYUWNhNDdpUGZZQ1pYUTEwZkJiSkl4T3FBQ1FhUlExVnBKVWVZZWh2WVVEOGFGUkZVSEVyUmlsdGJBSElkUmwtMk5Cc3kyelhfSmxTZFR1bVVqVWRwN2dNVjcwVzFSTkN5NHdac0E3VUF3V2U1bjJhdlRrTnpxQnRKS2IzTGViZHNCd3BVZVAzV0xDRkt0TC1hLV9DdU1WMkhLWnFuQ1R4cEhZTXRCVzJHNTBkSHJUZUk?oc=5",
-   "source": "Renew Economy",
-   "date": "2026-10-06",
-   "img": ""
-  },
-  {
-   "title": "Australia Offshore Wind Power Market 2026 | Surges to Reach USD 6,765.7 Million by 2034 | CAGR 18.82%",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWkVzd1A4VjlPTkh1dVhPeU9Ea3BRb1J5MUluZHNzYS1Zd005dTlyZ21lZzl0by1JbGtHMEZZTEdJRVlhVUxyb1FkSmtNQTk5RGFwNjNaV1pjQWJ3dnZyeUVtVnVWR3psRDg5ME9Ic0hqMU5HRUlIUnJZYkQzZ1lFbmFuTG9mcTRWNDJXc3o5X2JrT2Z2Sk80SnhmSVItUQ?oc=5",
-   "source": "openPR.com",
-   "date": "2026-10-06",
-   "img": ""
-  },
-  {
-   "title": "Siemens Gamesa says blade failure at Ørsted's Taiwan wind farm is \"highly unusual\"",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhMkRGVDRVUy1abEF0UFl4OW9QZ1dYOFp2TTJFRlZ2blE2Q0Q0V2JvY0dBemFIT3ZzYkt1ZGtuLTVRUERrZ1R5ZVdPRk9GSkZqVktnSGJTTHRzZkNIMDFqWjF6ang1dGpTTEVJ?oc=5",
-   "source": "EnergyWatch",
-   "date": "2026-10-05",
    "img": ""
   }
  ],
@@ -87,7 +87,7 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Second Siemens Gamesa turbine issue at same Orsted offshore wind farm in two months",
+   "title": "Siemens Gamesa suffers second turbine issue at Ørsted project in two months",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHBiQVNyZW9zNS0tY05vajZDZVo5aXNXaUlnaThGd3kyRmtiRG1mRXQ3aUJzbWhRWW1lNGFpcVJ0YldvNzNZNWZiZDV0TlBCTGpFbzdLRF82TDg2cWRyMG1ncjBQZ3VKQ05fWlNSQ25BSnJGcFpkcVEwdmpITjZFYVRVUGpubm84cVFoOFMwOUJyYUZ2Y0hpV04zQU9PdF9IVngwTnRRb1BTUm1oNVlqQVFGc3ZuSkJtY0E?oc=5",
    "source": "Wind Power Monthly",
    "date": "2026-10-05",
@@ -108,7 +108,7 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "GS Entek to Supply 37 Monopiles for Taean Offshore Wind Farm",
+   "title": "GS Entec to supply 37 monopiles for Taean offshore wind farm",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN29GTVpTNHNaWWZSdDYzWkJYVHhJUVE0UWdhS3FuR2tIY2dzUmRzRlRtOF92ZjdGT3F3cnJlM0RCcHkwOU1xWk1vdG9GTFZpMjMwemJVV0hTaG9jeGYwdWRzT3NIVTdIYlhHbXNndUJHb2NIblZaOVA4YzhQai15cnV1cjhIY0txN2NkWVFpZ2NRVUpLbWNtY2sxdENzc0hWR1E?oc=5",
    "source": "Ocean Energy Resources",
    "date": "2026-10-05",
@@ -125,7 +125,7 @@ window.NEWS={
   },
   {
    "title": "Cadeler (OB:CADLR) Expands Offshore Wind Services With Vattenfall, Is The Stock Undervalued?",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNXRuM3NtNkZfMXF6YW1UY1BLdHk0R2ZmOWt4cElPel9zdnNTMnZvNVkza05TUS15cm9SWld5NUdhS3g5ZDFBMTZVWjRzMkg2YWdrRElybkRjbUppUThKQ1VPZzM1MU5tRllEZ19HdEVSZ0VyR1F6Qk9SY3Z0WWVMRkJXRENYYlZYX3FqbXl3OFl5UzFmN0p3TURyVHNjLTdFdF9ZTlFzR0RZWWNCWlg2bmZrNDJCLTJ2WkF4UmhFWWQ4S2hld3d4RHRfazVTR0kxODJfaFVn0gHWAUFVX3lxTFA1dG4zc202Rl8xcXphbVRjUEt0eTRHZmY5a3hwSU96X3N2c1Mydm81WTNrTlNRLXlyb1JaV3k1R2FLeDlkMUExNlVaNHMySDZhZ2tESXJuRGNtSmlROEpDVU9nMzUxTm1GWURnX0d0RVJnRXJHUXpCT1JjdnRZZUxGQldEQ1hiVlhfcWpteXc4WXlTMWY3SndNRHJUc2MtN0V0X1lOUXNHRFlZY0JaWDZuZms0MkItMnZaQXhSaEVZZDhLaGV3d3hEdF9rNVNHSTE4Ml9oVWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ0tfc29hRW82SDJ2TmVlMFVTSDAzX2NFMGlMSXU5a3hVaW43Q3NOQXBnQ08wMmNlS1RtMVdKTWZwV2pob0hvRkFzekFaVUxsdkdKR01qY2taa0Exc2FMX2IzQ3FrSDJ2bExoUVN6dFpLWE5Qa3dpTm9DZ3dOdEF6X2kyTVdsVV95dVdqOVFkWDhwWTEyZWlZckwyLVJtUzdRT2N1VG1IMGlNUG5OWFVhd04tUGxyUG51VV9rMkRTRi1ZWkJpOVZSYWlJY0xpYjRS0gHWAUFVX3lxTFA1dG4zc202Rl8xcXphbVRjUEt0eTRHZmY5a3hwSU96X3N2c1Mydm81WTNrTlNRLXlyb1JaV3k1R2FLeDlkMUExNlVaNHMySDZhZ2tESXJuRGNtSmlROEpDVU9nMzUxTm1GWURnX0d0RVJnRXJHUXpCT1JjdnRZZUxGQldEQ1hiVlhfcWpteXc4WXlTMWY3SndNRHJUc2MtN0V0X1lOUXNHRFlZY0JaWDZuZms0MkItMnZaQXhSaEVZZDhLaGV3d3hEdF9rNVNHSTE4Ml9oVWc?oc=5",
    "source": "Simply Wall Street",
    "date": "2026-10-03",
    "img": ""
@@ -159,5 +159,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-10-07 01:07 UTC"
+ "updated": "2026-10-07 07:10 UTC"
 };
