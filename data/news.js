@@ -1,6 +1,13 @@
 window.NEWS={
  "industry": [
   {
+   "title": "New RenewableUK report shows 38% increase in global operational floating offshore wind capacity",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEoxRzRBX2RSWnBCTFpIYjZ3eTZkRm9lenBkalFMZUhuR0kxcUthNENzSDF1QW0xajJUdEJZNHU1T1p1Q0h0UjFCbHR1djBMNmJuNnlra21WRk5XcTV5UTdaZnZkMFlMX01CX1FqNlNZY2ExY0V0Y1gyd2RFSlZYU05TelZVTFQ0dmRYQzlLTG9EWExfYmt5M002ZDJNc21RU05OUHo1bFY0NlYwbWZqZW1ncG1LNm96aXgzd0FWck1pWEFYVmI4Z1B6bFl3MHJCdGJveQ?oc=5",
+   "source": "Energy Global",
+   "date": "2026-10-07",
+   "img": ""
+  },
+  {
    "title": "Sumitomo Teams Up with Irish Floating Wind Mooring Tech Company",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnd3d3E4Z2p5RGhjV3lRT2ZkMnc1azF2dXdhSElTVjN6VEZ5M1k4ZFNIUUIxblFCNkNNSU9HeVNLZk1CWExHbUxIVmlORDdMYkZWcmNHd1B3NGtFVW5DSld5aUJ3RU4tQW94ZnRwakh4TkVUMUNGTUxwRzhzaV8xSFNNLVQ5TkR1b2ZEUzhKRU8zU3lqV3dUVHdveXJYRGo3OWdlLTd3?oc=5",
    "source": "Offshore Wind",
@@ -8,16 +15,23 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "New report shows 38% increase in operational floating offshore wind capacity worldwide over past 12 months - energy-pedia",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XRzM3X05qVUNIUXp6ZEhQdVQ3SGk3elRhM2FOVnN1QXN3TzR6UHp1bGdOclRxQUFGSzJjMXBTT0VLc0doQU93VEE2Wm8tdkUteWVjWTJxLUVOZVplaEE?oc=5",
-   "source": "energy-pedia",
+   "title": "Ørsted CEO says offshore wind is on firmer footing than at any time in 25 years",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyZ0paVlR6bWdPVmhibktqc0JVcUtTb1VodmtwNVMzWFBTM1RNVWNNWVdfRnpDek1EaW9ITTVpdzRNNXViQ214ekJMX2hpYUtZVkVWZ2kzZU4xZ2x6RkVDMUFBNGZTN3RtRjRZ?oc=5",
+   "source": "EnergyWatch",
    "date": "2026-10-07",
    "img": ""
   },
   {
-   "title": "Offshore Wind in Victoria to receive a CfD and an Availability payment … but where was that structure in the ESEM process?",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX2VVQ2VVNjB5SlVmNzBlX052M0twdFVOWG9hYWVJSXBUdVBZb3FOZmZTTTVSdUxlUmpaRjA3Ym5sWlBMVzBKeTlOTVY5MFVSbExQWm85cDlIYXlZUHplc1I3UktmV0pQQjJnWTByNjVlYmppeU5hbWRGaDExdEFTbEo1YmRTcTZnS1E?oc=5",
-   "source": "WattClarity",
+   "title": "Korea's Heavy Industry Rides Offshore Wind Boom to Japan",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2ZIdXJqVmx5NURjOHp3WlpUclc2MmJXSmhjbkRQeGxDdTJ0OVVmWEliMWxsX2c0bGNwRC1yb1lQMHNzc0VmVWI0elRGWXNrUWpzSUpWOUdTSTlXWlE1UHRoOVVhMTdFZDdRbXl5UGFidGFsQ0ZkTTl2Qk9wTjIzbmtqY056S3l3aXBxVHBpbDhKOENsc3VfX0lnMDBtdGRwMUE?oc=5",
+   "source": "Seoul Economic Daily",
+   "date": "2026-10-07",
+   "img": ""
+  },
+  {
+   "title": "Ireland's TFI Marine and Japan's SCGM in partnership deal",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdlY3bHhzOVBtRXR6NXJCLV9xY2RiM3dUeGdGRk1FVlVwWTE2YjhNMGc4dHFYeW1VazNkcXdJeVRKSUxsR3pOZGhmaWNXLWdrZEdnb3I0YXRtd3B2aUd0S09mNWRHMElsbEFhZHM0RjVnSUduYWZndWV2WnVOa09zOEk4NA?oc=5",
+   "source": "RTE.ie",
    "date": "2026-10-07",
    "img": ""
   },
@@ -41,23 +55,16 @@ window.NEWS={
    "source": "Scandasia",
    "date": "2026-10-06",
    "img": ""
-  },
-  {
-   "title": "Offshore wind farm suffers its second turbine blade failure in two months",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVTZfYlF2T1NTbG5DZW9LUS1CeGRmOTRTWC1JaHdzQTEzMGVyb3M1S0JGdFdQdGlyRGQyS1lnN0w3U21ZZy1jd1FTMjVzbkhHa1VHUENVMFNlZGFwVVNDZkd0bU5TN2I2bXVHU3BfM09RVjFNU0Exb1lGSWV3MFU5TVE0bm1GeFBPV0lscVFXcGtMQTd6aXdLTDlLa19WREFv0gGmAUFVX3lxTFBSQlgtT3RvX3Vfd0o3NUdxMV9VOXJLaXlidWoxVDJiLVVJa3BoYWw4QVFtRGlzTEtnNzBKTklfXzExdlhnWnRqZWJUWVZoUjNiQjlmY2FuTHpHcmw4NFJjamRVdXRrRVhYdm5HU0FWbTZZd1NodGhFSnBSMk4waFgxbUtGdFc2NHdSWXI3aUlnY25IeTJSbk0xbkdob1FzTmlnV003Znc?oc=5",
-   "source": "Renew Economy",
-   "date": "2026-10-06",
-   "img": ""
-  },
-  {
-   "title": "Australia’s first offshore wind auction takes shape with longer contracts and special payments",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVBtRE5MRVVMQ1N1UmFiNGZJd1NVNnVJQV9oVTVxSGQ5bW9nZ1JtRE84Ykk0WkYtcmV2ZGZhVlFLRzQzYmJFek9lNGszQndPUGlBMUQ4dXYtY05RQVpGMU1CVHNpUF9OTWlVbTluS01OclNBQk9XbW1mMXpzeGVPVTFCdGtZZGRET25ualcyU2RBNnUzS2I3Q2w1TzNOOGtjRmxFaDNwdGV6c2VlTGctd25TM2x4MHlxQVBKem1XTdIBxAFBVV95cUxQS0g4cjUzUlI0UE5iUHVnZHYydkFGSExJd3RNczNQcjZmWUxvY1FYT3ozWXI3OXVJUTk3dndLM0VzeWRkOG00TXhYLWxGS2RoaXRveXlFSXRvM2sta2VlQlpUNVgyTXVmdEEtWEJlU0RsUjExNGtUOWpFSkd1T19JYWxwNW9xUnRmRVhhSnlJN3hwTWZJamVmcEVGdC1lY0J6UU8tMVJLWGtFRDJyQW94N3ZwRjRuQnpTNUxsakVJbXFQS1ZK?oc=5",
-   "source": "Renew Economy",
-   "date": "2026-10-06",
-   "img": ""
   }
  ],
  "competitors": [
+  {
+   "title": "Verlume Clears Key Test for Offshore Wind Subsea Battery",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOURWX0ZJUXNaX0ZnZFNyTl9FUWNEOE9hdTBFRWxoOUhYTUFKWmg5QUJYOVVrN2sxbkVaS04tUDZ4QjVqd2ZLX0U3dktpeVlrVGF3TElhMkJsei1JOG4tcUk5aEl1TVVOQlE0YWxKQW5JcmlHeFFSN2xkbkJ2T0NRUHQza0NlV3FIOUhkd2VmNTZnQk1tQkV4NGFKdHhFeDA?oc=5",
+   "source": "Offshore Engineer Magazine",
+   "date": "2026-10-07",
+   "img": ""
+  },
   {
    "title": "Sumitomo Corporation Global Metals, TFI Marine Introduce Mooring Solutions to Floating Offshore Wind",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSTJ6VFdlODVlUy1GZFdnUjc3Qnp5UkF0SmdpYXZHYVpJMExFZ3Zhc3R0Sy0xalY1MWVONGx6QjB2eFNLb0xRQTdXTWN6ZFM4Q2U5a01YbUJGM1VHclFNeTllOW5NTnd4WkVvenc2NmxvbmhHRjFicGUzM05sTzN4RlpPSQ?oc=5",
@@ -87,13 +94,6 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Siemens Gamesa suffers second turbine issue at Ørsted project in two months",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHBiQVNyZW9zNS0tY05vajZDZVo5aXNXaUlnaThGd3kyRmtiRG1mRXQ3aUJzbWhRWW1lNGFpcVJ0YldvNzNZNWZiZDV0TlBCTGpFbzdLRF82TDg2cWRyMG1ncjBQZ3VKQ05fWlNSQ25BSnJGcFpkcVEwdmpITjZFYVRVUGpubm84cVFoOFMwOUJyYUZ2Y0hpV04zQU9PdF9IVngwTnRRb1BTUm1oNVlqQVFGc3ZuSkJtY0E?oc=5",
-   "source": "Wind Power Monthly",
-   "date": "2026-10-05",
-   "img": ""
-  },
-  {
    "title": "Ørsted's Greater Changhua 4 off Taiwan suffers blade damage",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3g0UHlBc1hnaEdVeDJBSjg3UEIxR3FseWV2UnlwQjBsNDg2WHFXaUJRNk90RVBfbkRSeWtEUFdZTUtpNkFQbjRiczZOSU1GcHQzWElyYzJTcktQbnA1ZzVTUTNoM2hweU8zT0o4YXE4d2stQzJTTllBYnlaV091ZnNXUGVDQlFGcnp5bFpwblEwdE1XcHhPZi1KM1NNUQ?oc=5",
    "source": "Renewables Now",
@@ -101,16 +101,16 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "DEME: The people behind Nordlicht",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42ZVpvSjRieFpvQThOZldPbXc1LUozQzFFZ21OWk5SelVsY0VRX0hiRUZ5eWtNNXVGc2Z3NW1EWU5JYkJONENINWJ3ak5PTGpzanludDVJZVJka3VESVlCMnI1ZF9KU3M?oc=5",
-   "source": "DredgeWire",
+   "title": "Siemens Gamesa suffers second turbine issue at Ørsted project in two months",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHBiQVNyZW9zNS0tY05vajZDZVo5aXNXaUlnaThGd3kyRmtiRG1mRXQ3aUJzbWhRWW1lNGFpcVJ0YldvNzNZNWZiZDV0TlBCTGpFbzdLRF82TDg2cWRyMG1ncjBQZ3VKQ05fWlNSQ25BSnJGcFpkcVEwdmpITjZFYVRVUGpubm84cVFoOFMwOUJyYUZ2Y0hpV04zQU9PdF9IVngwTnRRb1BTUm1oNVlqQVFGc3ZuSkJtY0E?oc=5",
+   "source": "Wind Power Monthly",
    "date": "2026-10-05",
    "img": ""
   },
   {
-   "title": "GS Entec to supply 37 monopiles for Taean offshore wind farm",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN29GTVpTNHNaWWZSdDYzWkJYVHhJUVE0UWdhS3FuR2tIY2dzUmRzRlRtOF92ZjdGT3F3cnJlM0RCcHkwOU1xWk1vdG9GTFZpMjMwemJVV0hTaG9jeGYwdWRzT3NIVTdIYlhHbXNndUJHb2NIblZaOVA4YzhQai15cnV1cjhIY0txN2NkWVFpZ2NRVUpLbWNtY2sxdENzc0hWR1E?oc=5",
-   "source": "Ocean Energy Resources",
+   "title": "VSB France marks 25 years and says it helped build some sixty wind farms",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYXB4X19wcVRvN2E0S09lZXlIYzh2alhseHc1V3hJSkZTYzF3eVNRUVBGMzNnX3p1SWRlUXpkbERMT2h3ZlpkZFFuazJiWmE2U1B0UUJfNEVsRVUtbThReU4xSEJ1N0QzOEp5enhkZDZVSnFualNpNkh5X2RTajgwUkNQQnRTWTlqMEMwRF9XaEhESnQwYW1rdWM2MzRmdlU?oc=5",
+   "source": "energynews.pro",
    "date": "2026-10-05",
    "img": ""
   }
@@ -150,14 +150,7 @@ window.NEWS={
    "source": "offshoreWIND.biz",
    "date": "2026-09-22",
    "img": "https://offshorewind.biz/api/media/file/Hollandse%20Kust%20Zuid%20_%20photo%20Cadeler-1600x900.jpg?prefix=media"
-  },
-  {
-   "title": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary CDLR",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CWDlsN19ycFNsdnpJYnI5ZnJwUU1sY2RTRUVsVmN0R3VrSnBoMktBWDhtdTg4MEhUVU11bEYyLXRZc3p3anZVWDhFWkJydlVoRVROWjdsRFNxZw?oc=5",
-   "source": "FinancialContent",
-   "date": "2026-09-22",
-   "img": ""
   }
  ],
- "updated": "2026-10-07 08:06 UTC"
+ "updated": "2026-10-08 01:26 UTC"
 };
