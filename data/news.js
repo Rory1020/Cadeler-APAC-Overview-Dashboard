@@ -1,6 +1,48 @@
 window.NEWS={
  "industry": [
   {
+   "title": "Ten OEMs lined up for share of 5.5GW in Chinese onshore wind auction",
+   "url": "https://www.windpowermonthly.com/article/1971980/ten-oems-lined-share-55gw-chinese-onshore-wind-auction",
+   "source": "Windpower Monthly",
+   "date": "2026-10-08",
+   "img": ""
+  },
+  {
+   "title": "East Asia may miss 2030 target with 82-GW offshore wind still in development",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1VCdThNNUZVeXFwNUFFYy1IMlYwcDh3bmhoUWVFOTBsMnRvSUFaT1dmck1iUzRTSWxidjBIQjhtdjhaaXNNSmJuZ21YU1c5aVA5eUlNOUlNbkhnWWlDaTZOdnRRZ21Yai1WOEhXUXpQTUJHYU1VSzVVT010RDZXbjNLX3BQcGYtWnNrbl9sclBYODgxTVdnSmladE8zWEVMSG10d1VMbGJ3Q2ZUTkp1cDN3?oc=5",
+   "source": "Asian Power",
+   "date": "2026-10-08",
+   "img": ""
+  },
+  {
+   "title": "Inside TotalEnergies' big German power plan: 'we don't do niche'",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVndDSURIaS02SVNFYlVGbjNTWDFMbnFVN09XQmwwcHkwOEx4SEE4UzhMMEVhdzRGdGhWa1BxQjBFdTZyTG5fY2Fqc2ZUVUl0SWJOdVFBUFpzNl8wclMyeWxJS3MwX3J6WEhpRlZOUmtibDZhc0xCTW8tMkpPNFJrNG50bFN6NnE3Z0VMSk1XeFlHOTRvTTYtV1gxVTVQZkhQUnB1cjJRQW1ManZucHBhTw?oc=5",
+   "source": "Recharge News",
+   "date": "2026-10-08",
+   "img": ""
+  },
+  {
+   "title": "FOW26: Sumitomo and TFI Marine forge mooring partnership",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdFRQcGRxTWM4Y0NoT1VEUU5ZdmVDcmFDTGhTZjVTRFBzQmtIeVBRN2ZCU3ZaWTRocnZ2bFpnODNvWk4zMjRQLTdQMVZfdTk2cU44NUVNN1ladHNqVHZyQU9jQnlNcG0wWFJRMVYzQTRyQjlvUGdHdUF0eFdoRFN2Q01rNHF5UHdkZHBraVhuYjU2UWV1T2phOA?oc=5",
+   "source": "reNEWS",
+   "date": "2026-10-08",
+   "img": ""
+  },
+  {
+   "title": "XOCEAN enters strategic alliance in Japan to expand use of USVs",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSzdLekMyTlR4Ylp6U19fRjhiSTR5ald3Zkk3T0RuWUVtVGlObkJSMUxKZnFsU0ViN19zXzBSZGJUTEJESTNMSUtPXzNwQktqRWt2UVprdFEwM1AyRnR5RHJQLVkwYXdKV3U4dDZ0ZTN1YmYyQmVFa0tWa3RtdlBzU3ZETUNQUTFJdVUyY2NhblhZcV8wQlZiODltSXRPelUwMlFqSg?oc=5",
+   "source": "Offshore Energy",
+   "date": "2026-10-08",
+   "img": ""
+  },
+  {
+   "title": "Korean Offshore Wind Foundation Technology Published in Top Journal",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0RORFVmWGdpb1VNMGNHT1l0WlRFa0QyT0xTVEhxZ0hTNWdPc1A3WlpBMWpwZlprZHJXOG5Dd3B2bWRRTDNUR0ZLLXhrSFFSYTYzM20zc3phZFoxdkpocERCUTR1YWNZMlNsTDFoaEU4XzJTeEFyenhVMFVndVFIejQtd2FqN1Z5ZUpwZldmSWpKWVh6MUNIUHRkR1FJbzg0R2E4?oc=5",
+   "source": "Seoul Economic Daily",
+   "date": "2026-10-08",
+   "img": ""
+  },
+  {
    "title": "New RenewableUK report shows 38% increase in global operational floating offshore wind capacity",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEoxRzRBX2RSWnBCTFpIYjZ3eTZkRm9lenBkalFMZUhuR0kxcUthNENzSDF1QW0xajJUdEJZNHU1T1p1Q0h0UjFCbHR1djBMNmJuNnlra21WRk5XcTV5UTdaZnZkMFlMX01CX1FqNlNZY2ExY0V0Y1gyd2RFSlZYU05TelZVTFQ0dmRYQzlLTG9EWExfYmt5M002ZDJNc21RU05OUHo1bFY0NlYwbWZqZW1ncG1LNm96aXgzd0FWck1pWEFYVmI4Z1B6bFl3MHJCdGJveQ?oc=5",
    "source": "Energy Global",
@@ -8,56 +50,42 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Sumitomo Teams Up with Irish Floating Wind Mooring Tech Company",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnd3d3E4Z2p5RGhjV3lRT2ZkMnc1azF2dXdhSElTVjN6VEZ5M1k4ZFNIUUIxblFCNkNNSU9HeVNLZk1CWExHbUxIVmlORDdMYkZWcmNHd1B3NGtFVW5DSld5aUJ3RU4tQW94ZnRwakh4TkVUMUNGTUxwRzhzaV8xSFNNLVQ5TkR1b2ZEUzhKRU8zU3lqV3dUVHdveXJYRGo3OWdlLTd3?oc=5",
-   "source": "Offshore Wind",
+   "title": "IWS Fleet Orders Four Additional Offshore Windfarm Support Vessels (CSOVs)",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1RVM3RXMEtBYUgwY2VqWWxucDhfZmU1alk0eGMyN1NfS0lFcTcxeDc3aXZiWGg2OFYwSzc3bjFMbGNKUllRNnZLRU1RR21uQWZIa3JLZzFFWnRFeXF3bW43U2R1MjdEUHBGSlY3RHZiNXdXa25mcEtlU296RzktRXN3?oc=5",
+   "source": "Sumitomo Corporation",
    "date": "2026-10-07",
-   "img": ""
-  },
-  {
-   "title": "Ørsted CEO says offshore wind is on firmer footing than at any time in 25 years",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyZ0paVlR6bWdPVmhibktqc0JVcUtTb1VodmtwNVMzWFBTM1RNVWNNWVdfRnpDek1EaW9ITTVpdzRNNXViQ214ekJMX2hpYUtZVkVWZ2kzZU4xZ2x6RkVDMUFBNGZTN3RtRjRZ?oc=5",
-   "source": "EnergyWatch",
-   "date": "2026-10-07",
-   "img": ""
-  },
-  {
-   "title": "Korea's Heavy Industry Rides Offshore Wind Boom to Japan",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2ZIdXJqVmx5NURjOHp3WlpUclc2MmJXSmhjbkRQeGxDdTJ0OVVmWEliMWxsX2c0bGNwRC1yb1lQMHNzc0VmVWI0elRGWXNrUWpzSUpWOUdTSTlXWlE1UHRoOVVhMTdFZDdRbXl5UGFidGFsQ0ZkTTl2Qk9wTjIzbmtqY056S3l3aXBxVHBpbDhKOENsc3VfX0lnMDBtdGRwMUE?oc=5",
-   "source": "Seoul Economic Daily",
-   "date": "2026-10-07",
-   "img": ""
-  },
-  {
-   "title": "Ireland's TFI Marine and Japan's SCGM in partnership deal",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdlY3bHhzOVBtRXR6NXJCLV9xY2RiM3dUeGdGRk1FVlVwWTE2YjhNMGc4dHFYeW1VazNkcXdJeVRKSUxsR3pOZGhmaWNXLWdrZEdnb3I0YXRtd3B2aUd0S09mNWRHMElsbEFhZHM0RjVnSUduYWZndWV2WnVOa09zOEk4NA?oc=5",
-   "source": "RTE.ie",
-   "date": "2026-10-07",
-   "img": ""
-  },
-  {
-   "title": "FOW26: Floating wind capacity surges 38%",
-   "url": "https://www.renews.biz/offshore-wind/fow26-floating-wind-capacity-surges-38/",
-   "source": "reNEWS",
-   "date": "2026-10-06",
-   "img": "https://www.renews.biz/wp-content/uploads/2026/06/offshore-wind-turbines_renewableuk.png"
-  },
-  {
-   "title": "China commissions first commercial-scale offshore wind project with 18MW turbines",
-   "url": "https://www.windpowermonthly.com/article/1971759/china-commissions-first-commercial-scale-offshore-wind-project-18mw-turbines",
-   "source": "Windpower Monthly",
-   "date": "2026-10-06",
-   "img": ""
-  },
-  {
-   "title": "Danish Ambassador Lina Gandløse Hansen backs Vietnam’s offshore wind ambitions",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNODNFT2MwRzFPUXBtR1RGb1Fxblo0aG5fdzV6LVdpVHIwT2Zza3RLU2RFZDUyalowTjU5U1BSem03UmdhczZVNkFDeTNYTUZyNlhIMmdZUC1rU3UwLXd3bzlnd0ZQclNwc1NLMldiZWVPR0dLZjVNOWJNeUpEYlZZejVtYW84d0RIOFV1REotQWxiSkJlX3BZTzNPSHlmQ1VIeHc?oc=5",
-   "source": "Scandasia",
-   "date": "2026-10-06",
    "img": ""
   }
  ],
  "competitors": [
+  {
+   "title": "North Sea projects and vessel developments lead this week's offshore wind updates",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMEtRS2FmdFp4Y3owRUtEX0J3bnZtaU1Ua2lZRlhOLTJ1WTZOUnU2TzRSb2ZMQVlaajVCS2tlVEhOVl8zSFNKMDNXQUh6MEVwYk9IVWVDejBUQXhXaWl3aEdsUzRaQ0NsSnl5bERHXzVzNVhKaFlMRUJ5UUdOV3kwWlFyTDdwdXZxUE5TV09FSUlmSEtIc1FLbVlLeEhpYVJrNEFySEJ2OWpCRGh5Qi12TUxMSGhsVVdVQ1Z0blJPWDJvRFNCZzBQcmdVWTBFclBMR1l0NHR6aw?oc=5",
+   "source": "Offshore Magazine",
+   "date": "2026-10-08",
+   "img": ""
+  },
+  {
+   "title": "Offshore Wind Market to Exceed $120 Billion by 2030 at 16% CAGR, Driven by Western Europe and Ørsted",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS0xCZnBIUkw2VncySk9KTUkxNzZGT09zWTU1b283aDJHcDIxelNyeXhRMU5sTklnbGw3RkxVMkVSM2Z0REZtZUVnYlduc3YzMjhCR3VXWl8wcDk4QjFaSF9YX1Y4NFhpVmVIaDdaaFV0M0x3SzB6eVdwQTFmT2JiMW5zcHRzcWNaTjY5c0VSY242YTdmUGRMYUlJYkpxNXozcEY0Ym1KR0NsTHJIcGZHTmtuME1mak1qaDVYN0x1empxQ2VaLWc3cnZnSlc3ZWV6UEZTOQ?oc=5",
+   "source": "EIN News",
+   "date": "2026-10-08",
+   "img": ""
+  },
+  {
+   "title": "TenneT Joins Subsea Cable Decommissioning Tool Development",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nSkRMSkw3N1dRc2x5d1RHWmE5R1ZtdDdMV1V4UVl2U1lJNUo1QUdSM29vaUdtTkZkTU4wQ2RfMm1zbExHbmZDLVFzMzMtaWdfeFFFd2R1WEhHS1hkRzI3TXNkUG9PdVlHVHFSUlpXaHU0T3J0N2VYeXlWNGdQVFk?oc=5",
+   "source": "Marine Technology News",
+   "date": "2026-10-08",
+   "img": ""
+  },
+  {
+   "title": "Westwood Energy Newsletter – Edition 8",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCMDV2OW5fWG9hczZwX3NGNTZyS0RvaVlrc0pIRnBKa1lUWl8takdGa05UMW9IOWRhMm1ibjFfUk9mQ0JSYWYxM1FFZ0Y5SkVMdXNiTUVlNW5DM3ZCcGlKQzFpdDhyQnZQQWQ3X1ZlZ0RkS0E1NHc0eldDVFE?oc=5",
+   "source": "Westwood Global Energy Group",
+   "date": "2026-10-08",
+   "img": ""
+  },
   {
    "title": "Verlume Clears Key Test for Offshore Wind Subsea Battery",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOURWX0ZJUXNaX0ZnZFNyTl9FUWNEOE9hdTBFRWxoOUhYTUFKWmg5QUJYOVVrN2sxbkVaS04tUDZ4QjVqd2ZLX0U3dktpeVlrVGF3TElhMkJsei1JOG4tcUk5aEl1TVVOQlE0YWxKQW5JcmlHeFFSN2xkbkJ2T0NRUHQza0NlV3FIOUhkd2VmNTZnQk1tQkV4NGFKdHhFeDA?oc=5",
@@ -84,34 +112,6 @@ window.NEWS={
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORHpBWmpfc1RiMFFNLVpnbk9XeXlOLWJTNjFQRXBQLTlzdEN2bUdjajhqNXBER19tOUhrYmR6RG9Vc0xWMl93U3NoRWFGQ0xsLTFfeWIyZFpYV3ZMbXNNZUFzeVdhN1VoVGEtc2FnR3Z0YmtuRGgzaklaaExyMGliSEI5bGtTbXpsaUZlOXZDT2NCd1JDbDd6QkFaM3AwQWh1?oc=5",
    "source": "energynews.pro",
    "date": "2026-10-06",
-   "img": ""
-  },
-  {
-   "title": "Ørsted reports damaged turbine blade at Greater Changhua 4 offshore wind farm",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDhXZDl6c0dIVkVHRVVxTExjbWt2cDJhMFpLSm82NmZ2N2tXUzFXLU05WVZPMlhoR0R3amZrcVlkSG1xeVVCWjVJaTJSX1dCRGVmYzAzX01iM2w5MFBrczlBSzlFczFLWjBOS19QSzNMS2NLUVRMQVFSTDNteVVDMjk3eTJKZ3djRElXOEhxTWRBX2VYR1dGZGV2aW52NXJrODRHYQ?oc=5",
-   "source": "energynews.pro",
-   "date": "2026-10-06",
-   "img": ""
-  },
-  {
-   "title": "Ørsted's Greater Changhua 4 off Taiwan suffers blade damage",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3g0UHlBc1hnaEdVeDJBSjg3UEIxR3FseWV2UnlwQjBsNDg2WHFXaUJRNk90RVBfbkRSeWtEUFdZTUtpNkFQbjRiczZOSU1GcHQzWElyYzJTcktQbnA1ZzVTUTNoM2hweU8zT0o4YXE4d2stQzJTTllBYnlaV091ZnNXUGVDQlFGcnp5bFpwblEwdE1XcHhPZi1KM1NNUQ?oc=5",
-   "source": "Renewables Now",
-   "date": "2026-10-05",
-   "img": ""
-  },
-  {
-   "title": "Siemens Gamesa suffers second turbine issue at Ørsted project in two months",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHBiQVNyZW9zNS0tY05vajZDZVo5aXNXaUlnaThGd3kyRmtiRG1mRXQ3aUJzbWhRWW1lNGFpcVJ0YldvNzNZNWZiZDV0TlBCTGpFbzdLRF82TDg2cWRyMG1ncjBQZ3VKQ05fWlNSQ25BSnJGcFpkcVEwdmpITjZFYVRVUGpubm84cVFoOFMwOUJyYUZ2Y0hpV04zQU9PdF9IVngwTnRRb1BTUm1oNVlqQVFGc3ZuSkJtY0E?oc=5",
-   "source": "Wind Power Monthly",
-   "date": "2026-10-05",
-   "img": ""
-  },
-  {
-   "title": "VSB France marks 25 years and says it helped build some sixty wind farms",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYXB4X19wcVRvN2E0S09lZXlIYzh2alhseHc1V3hJSkZTYzF3eVNRUVBGMzNnX3p1SWRlUXpkbERMT2h3ZlpkZFFuazJiWmE2U1B0UUJfNEVsRVUtbThReU4xSEJ1N0QzOEp5enhkZDZVSnFualNpNkh5X2RTajgwUkNQQnRTWTlqMEMwRF9XaEhESnQwYW1rdWM2MzRmdlU?oc=5",
-   "source": "energynews.pro",
-   "date": "2026-10-05",
    "img": ""
   }
  ],
@@ -152,5 +152,5 @@ window.NEWS={
    "img": "https://offshorewind.biz/api/media/file/Hollandse%20Kust%20Zuid%20_%20photo%20Cadeler-1600x900.jpg?prefix=media"
   }
  ],
- "updated": "2026-10-08 01:26 UTC"
+ "updated": "2026-10-09 01:32 UTC"
 };
