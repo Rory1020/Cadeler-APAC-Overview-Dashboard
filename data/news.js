@@ -1,9 +1,37 @@
 window.NEWS={
  "industry": [
   {
+   "title": "Germany to Auction 4 GW of Offshore Wind Capacity in 2027 Under Revised Site Plan",
+   "url": "https://offshorewind.biz/2026/10/09/germany-to-auction-4-gw-of-offshore-wind-capacity-in-2027-under-revised-site-plan",
+   "source": "offshoreWIND.biz",
+   "date": "2026-10-09",
+   "img": "https://offshorewind.biz/api/media/file/2nd%20Amendment%20to%20the%20Area%20Development%20Plan%202025_BSH-1200x773.jpg?prefix=media"
+  },
+  {
+   "title": "Only two offshore wind project bids still under review-News-Radio Taiwan International",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HUm1qM1JtcDJmWHowZXMtQjlhRVowQk1aRkl6M2xMXzVSSzFpYmFXWFZTYmZjZmV1WW9qQnZKTmE0cWlaeWdKMElrUElpTFdfOURKRWplSEkwTEU?oc=5",
+   "source": "Rti 中央廣播電臺",
+   "date": "2026-10-09",
+   "img": ""
+  },
+  {
+   "title": "Northland Power (TSX:NPI) Dividend Reset Meets Offshore Wind Payday: Can Income Investors Finally Relax?",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQak0wazdhT20yYllwLVJIcEFsNkNoaUlRTzEwWDRRR0x3aDJEbTFEdGNfLXpJNkZvd2I2dnpaVEdtaE40enkxX3VuYXJGOEhVVDlNenNXRUt6MkswZEZGVGV1cmhjR3JzZk1NSnI5b3J4dXFqNmluRS1BaENHVlVULWM3c254T2QtNkNaOUhhVHJka3dxbS14ZldCMUVpcHJ1Y3FXZHgwa0FfcHYzR1U4UjQ5RE1lblhsTmJSX2VSdXlza09ZMGNVN3NQT1VOMGFRWTIxMUlR?oc=5",
+   "source": "kalkine.ca",
+   "date": "2026-10-09",
+   "img": ""
+  },
+  {
    "title": "Ten OEMs lined up for share of 5.5GW in Chinese onshore wind auction",
    "url": "https://www.windpowermonthly.com/article/1971980/ten-oems-lined-share-55gw-chinese-onshore-wind-auction",
    "source": "Windpower Monthly",
+   "date": "2026-10-08",
+   "img": ""
+  },
+  {
+   "title": "GWEC Calls for Government Action to Accelerate Floating Wind Commercialisation",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUl9DSTdMOTBhNzVzRjZYVl90czZZbF9zZ0VzdDNUaTdxNlNCdlZLTnZCYjJSem9zd0dqeG5IZXB3YjBxa0laRFNsbkc0SG1Fc3VGMXc2UTNMZ2hKVEkybUxvWmE2aHZodlRvSkNFZEpWbWYzUjl1OUZtZTd6VnY3bTNRenFyQ2U4djNRNURJU2trVjIwaWJ5TGtGbnNJUjFkZ0FCN2g1M3djNmFLcGFUdWp5OWxPbnozTlE?oc=5",
+   "source": "Offshore Wind",
    "date": "2026-10-08",
    "img": ""
   },
@@ -27,55 +55,20 @@ window.NEWS={
    "source": "reNEWS",
    "date": "2026-10-08",
    "img": ""
-  },
-  {
-   "title": "XOCEAN enters strategic alliance in Japan to expand use of USVs",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSzdLekMyTlR4Ylp6U19fRjhiSTR5ald3Zkk3T0RuWUVtVGlObkJSMUxKZnFsU0ViN19zXzBSZGJUTEJESTNMSUtPXzNwQktqRWt2UVprdFEwM1AyRnR5RHJQLVkwYXdKV3U4dDZ0ZTN1YmYyQmVFa0tWa3RtdlBzU3ZETUNQUTFJdVUyY2NhblhZcV8wQlZiODltSXRPelUwMlFqSg?oc=5",
-   "source": "Offshore Energy",
-   "date": "2026-10-08",
-   "img": ""
-  },
-  {
-   "title": "Korean Offshore Wind Foundation Technology Published in Top Journal",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0RORFVmWGdpb1VNMGNHT1l0WlRFa0QyT0xTVEhxZ0hTNWdPc1A3WlpBMWpwZlprZHJXOG5Dd3B2bWRRTDNUR0ZLLXhrSFFSYTYzM20zc3phZFoxdkpocERCUTR1YWNZMlNsTDFoaEU4XzJTeEFyenhVMFVndVFIejQtd2FqN1Z5ZUpwZldmSWpKWVh6MUNIUHRkR1FJbzg0R2E4?oc=5",
-   "source": "Seoul Economic Daily",
-   "date": "2026-10-08",
-   "img": ""
-  },
-  {
-   "title": "New RenewableUK report shows 38% increase in global operational floating offshore wind capacity",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEoxRzRBX2RSWnBCTFpIYjZ3eTZkRm9lenBkalFMZUhuR0kxcUthNENzSDF1QW0xajJUdEJZNHU1T1p1Q0h0UjFCbHR1djBMNmJuNnlra21WRk5XcTV5UTdaZnZkMFlMX01CX1FqNlNZY2ExY0V0Y1gyd2RFSlZYU05TelZVTFQ0dmRYQzlLTG9EWExfYmt5M002ZDJNc21RU05OUHo1bFY0NlYwbWZqZW1ncG1LNm96aXgzd0FWck1pWEFYVmI4Z1B6bFl3MHJCdGJveQ?oc=5",
-   "source": "Energy Global",
-   "date": "2026-10-07",
-   "img": ""
-  },
-  {
-   "title": "IWS Fleet Orders Four Additional Offshore Windfarm Support Vessels (CSOVs)",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1RVM3RXMEtBYUgwY2VqWWxucDhfZmU1alk0eGMyN1NfS0lFcTcxeDc3aXZiWGg2OFYwSzc3bjFMbGNKUllRNnZLRU1RR21uQWZIa3JLZzFFWnRFeXF3bW43U2R1MjdEUHBGSlY3RHZiNXdXa25mcEtlU296RzktRXN3?oc=5",
-   "source": "Sumitomo Corporation",
-   "date": "2026-10-07",
-   "img": ""
   }
  ],
  "competitors": [
   {
-   "title": "North Sea projects and vessel developments lead this week's offshore wind updates",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMEtRS2FmdFp4Y3owRUtEX0J3bnZtaU1Ua2lZRlhOLTJ1WTZOUnU2TzRSb2ZMQVlaajVCS2tlVEhOVl8zSFNKMDNXQUh6MEVwYk9IVWVDejBUQXhXaWl3aEdsUzRaQ0NsSnl5bERHXzVzNVhKaFlMRUJ5UUdOV3kwWlFyTDdwdXZxUE5TV09FSUlmSEtIc1FLbVlLeEhpYVJrNEFySEJ2OWpCRGh5Qi12TUxMSGhsVVdVQ1Z0blJPWDJvRFNCZzBQcmdVWTBFclBMR1l0NHR6aw?oc=5",
-   "source": "Offshore Magazine",
-   "date": "2026-10-08",
+   "title": "North Sea projects and vessel developments lead this week’s offshore wind updates",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjZnUGlyZk5pbnpZQnlTd0VJczBWR0k4cU5mcW1Hcm5zVDRkR2lJN2NlME1IcUk0ZE0xcEViai0zcXM4TVdMeXViNHJPbUtsamVIdm83TGRrbmlCejlsY3J3NkVvX2lzRlRBcndUbVQxZ1dlbEZ0TlBRWm1SRzBPZWJQeDFuQ3ZkXzFsNGotQ09vdUxYQVN3Nms1WHRJc2VIcWFtTm5OSQ?oc=5",
+   "source": "DredgeWire",
+   "date": "2026-10-09",
    "img": ""
   },
   {
    "title": "Offshore Wind Market to Exceed $120 Billion by 2030 at 16% CAGR, Driven by Western Europe and Ørsted",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS0xCZnBIUkw2VncySk9KTUkxNzZGT09zWTU1b283aDJHcDIxelNyeXhRMU5sTklnbGw3RkxVMkVSM2Z0REZtZUVnYlduc3YzMjhCR3VXWl8wcDk4QjFaSF9YX1Y4NFhpVmVIaDdaaFV0M0x3SzB6eVdwQTFmT2JiMW5zcHRzcWNaTjY5c0VSY242YTdmUGRMYUlJYkpxNXozcEY0Ym1KR0NsTHJIcGZHTmtuME1mak1qaDVYN0x1empxQ2VaLWc3cnZnSlc3ZWV6UEZTOQ?oc=5",
    "source": "EIN News",
-   "date": "2026-10-08",
-   "img": ""
-  },
-  {
-   "title": "TenneT Joins Subsea Cable Decommissioning Tool Development",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nSkRMSkw3N1dRc2x5d1RHWmE5R1ZtdDdMV1V4UVl2U1lJNUo1QUdSM29vaUdtTkZkTU4wQ2RfMm1zbExHbmZDLVFzMzMtaWdfeFFFd2R1WEhHS1hkRzI3TXNkUG9PdVlHVHFSUlpXaHU0T3J0N2VYeXlWNGdQVFk?oc=5",
-   "source": "Marine Technology News",
    "date": "2026-10-08",
    "img": ""
   },
@@ -87,10 +80,10 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Verlume Clears Key Test for Offshore Wind Subsea Battery",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOURWX0ZJUXNaX0ZnZFNyTl9FUWNEOE9hdTBFRWxoOUhYTUFKWmg5QUJYOVVrN2sxbkVaS04tUDZ4QjVqd2ZLX0U3dktpeVlrVGF3TElhMkJsei1JOG4tcUk5aEl1TVVOQlE0YWxKQW5JcmlHeFFSN2xkbkJ2T0NRUHQza0NlV3FIOUhkd2VmNTZnQk1tQkV4NGFKdHhFeDA?oc=5",
-   "source": "Offshore Engineer Magazine",
-   "date": "2026-10-07",
+   "title": "TenneT Joins Subsea Cable Decommissioning Tool Development",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nSkRMSkw3N1dRc2x5d1RHWmE5R1ZtdDdMV1V4UVl2U1lJNUo1QUdSM29vaUdtTkZkTU4wQ2RfMm1zbExHbmZDLVFzMzMtaWdfeFFFd2R1WEhHS1hkRzI3TXNkUG9PdVlHVHFSUlpXaHU0T3J0N2VYeXlWNGdQVFk?oc=5",
+   "source": "Marine Technology News",
+   "date": "2026-10-08",
    "img": ""
   },
   {
@@ -113,12 +106,19 @@ window.NEWS={
    "source": "energynews.pro",
    "date": "2026-10-06",
    "img": ""
+  },
+  {
+   "title": "Ørsted reports damaged turbine blade at Greater Changhua 4 offshore wind farm",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDhXZDl6c0dIVkVHRVVxTExjbWt2cDJhMFpLSm82NmZ2N2tXUzFXLU05WVZPMlhoR0R3amZrcVlkSG1xeVVCWjVJaTJSX1dCRGVmYzAzX01iM2w5MFBrczlBSzlFczFLWjBOS19QSzNMS2NLUVRMQVFSTDNteVVDMjk3eTJKZ3djRElXOEhxTWRBX2VYR1dGZGV2aW52NXJrODRHYQ?oc=5",
+   "source": "energynews.pro",
+   "date": "2026-10-06",
+   "img": ""
   }
  ],
  "cadeler": [
   {
    "title": "Could Vattenfall Offshore Wind Deal Change The Bull Case For Cadeler (OB:CADLR)?",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWE5FNTdXN3FLdGNVZFd3MWYyZ2dFQjBQSlJGMTJKYkZ3N3NUMFVvUFBEYlBpdmxvbnNxUWNKTjVIVXlpQndpMWJqeFNMUll1ajlGTkI5Y2VlUktjLVB5M2w3OTlQVi0xZkJ0b0c1aTN3eWtXX2dTUDQzaTBGbzlsSTVETF9RTktvOHdweWgxd2FiYWxpX2xXSTRDR1kxbXBWVkVTNTlxZ2N2NjdzZjNONUhzT3RPSjJpWGNyX0ltei1CV1ltVnpwVWh6Rk1IcEVBR2UybUln0gHWAUFVX3lxTE9YTkU1N1c3cUt0Y1VkV3cxZjJnZ0VCMFBKUkYxMkpiRnc3c1QwVW9QUERiUGl2bG9uc3FRY0pONUhVeWlCd2kxYmp4U0xSWXVqOUZOQjljZWVSS2MtUHkzbDc5OVBWLTFmQnRvRzVpM3d5a1dfZ1NQNDNpMEZvOWxJNURMX1FOS284d3B5aDF3YWJhbGlfbFdJNENHWTFtcFZWRVM1OXFnY3Y2N3NmM041SHNPdE9KMmlYY3JfSW16LUJXWW1WenBVaHpGTUhwRUFHZTJtSWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0cyR2IzWURkQ0Y0c3R1YVNjTGNkMmd4Z3hJSDcxY3dlQkJVNnVtYk9mR3IxYjE2SjVjaXJOcHpQRnEzNk55NmZZVldkcXZPd0NPLVlObnVwNGl6U1FUSnRKUllVaHV2MmY4cFRKamEzZC1wV2kxZ0ktQnJ1RU9pSDRTQ3YyU0REMjBBMTVFNG03VlZlaDlvRm9OcGd0SU0xa0x6aFZTdDdaQ3FRMXZma0RsX1BwTjFseGFmXzJTYmcyclNIV2V2cWhROVNrTmps0gHWAUFVX3lxTE9YTkU1N1c3cUt0Y1VkV3cxZjJnZ0VCMFBKUkYxMkpiRnc3c1QwVW9QUERiUGl2bG9uc3FRY0pONUhVeWlCd2kxYmp4U0xSWXVqOUZOQjljZWVSS2MtUHkzbDc5OVBWLTFmQnRvRzVpM3d5a1dfZ1NQNDNpMEZvOWxJNURMX1FOS284d3B5aDF3YWJhbGlfbFdJNENHWTFtcFZWRVM1OXFnY3Y2N3NmM041SHNPdE9KMmlYY3JfSW16LUJXWW1WenBVaHpGTUhwRUFHZTJtSWc?oc=5",
    "source": "Simply Wall Street",
    "date": "2026-10-05",
    "img": ""
@@ -131,26 +131,12 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Orsted and CIP reportedly facing off in Taiwan offshore wind auction",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeU5xUHJla3NvNnV2VnF1aTZjU2JWSG1rVjYzdWU3V04zSFVtTlhMYXBLYlZiaTZiWk1oaDVXQXlTbVRObXdETzItRjVEOXM4MW1vZkNaV2kzX1B5X3VnT3RtNWdNSUNUckQtRjNBQ2ZlSFY4VG1CVENJS2pnM0VXMUxYMFZTajNnZGxsZjFCNUtqaVJkc0NEUFRLMlhDb2FjYVBKNHhyaUxrVXRFUkNfLUt6R0ZTOHg0Zmc?oc=5",
-   "source": "Recharge News",
-   "date": "2026-09-30",
-   "img": ""
-  },
-  {
    "title": "IMCA tracking impact of offshore wind expansion on marine operations",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVmRQSDBiWDl4Z2Y0MnYtTGYydXFzYnNqallTUHFwSV85QVNkeTFXU0MzNlhLVE1UUUZEQ1FOY1RaVnQ5ZW0yVlNrTVZBN01BN3B3Q1NpWmdMYXRlYTNzRXpiTTFxMW5GQzFmMmltcGVsNXpXcHk1MHJOZXM1VFhkeXAzcGkwaE9ySzNqdHdrRjZlVkZMYzlfVFJnRkdWMmFEREZNZ0RBMjRxcmVFRzJENzdDLWxuWms2aUhlT3JSbXVGcDhYYW5xMkQzVQ?oc=5",
    "source": "Offshore Magazine",
    "date": "2026-09-23",
    "img": ""
-  },
-  {
-   "title": "Cadeler and Vattenfall to Explore Next-Gen Offshore Wind Major Component Exchange Solutions",
-   "url": "https://offshorewind.biz/2026/09/22/cadeler-and-vattenfall-to-explore-next-gen-offshore-wind-major-component-exchange-solutions",
-   "source": "offshoreWIND.biz",
-   "date": "2026-09-22",
-   "img": "https://offshorewind.biz/api/media/file/Hollandse%20Kust%20Zuid%20_%20photo%20Cadeler-1600x900.jpg?prefix=media"
   }
  ],
- "updated": "2026-10-09 01:32 UTC"
+ "updated": "2026-10-10 01:23 UTC"
 };
