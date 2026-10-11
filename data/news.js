@@ -1,6 +1,20 @@
 window.NEWS={
  "industry": [
   {
+   "title": "PTSC M&C Penetrates European Offshore Wind Market with Handover of Baltica 2 Substations",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTdWY2czNFd6dC1vU1R6SWNMcjFNTHNZQTJmUmI4aE5OV25kdkYxdlVRdWpVSTc5WWZKYzFOb3Fha3QxanFVdnAzU2d3b1B0bFNvZmw5TlFYWjlYWnZVSGxrZVJNVjhXZERtRmwxNFByZUplQmlIX09iOXRXSWliQWVGY1EyQXdsUzFFR1FLaEh4ekxCRm9xSnA5MWVvSW1ObklSRDJ1VVJnLUdqQVcwZFdnNHEzR09wLWRpWTdtTVVHWTYzbDNnMW9Udk9nZEdR?oc=5",
+   "source": "PetroTimes",
+   "date": "2026-10-10",
+   "img": ""
+  },
+  {
+   "title": "AIIB mobilizes $1.1mn for Caspian Green Energy Corridor linking Azerbaijan, Kazakhstan and Uzbekistan",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2RsNUdMeXBDUmVJRzhvcXBtd2oxZlJpUGZoLWVSRENYSEJfQzg1dTdKakdaYlhjdnB5SmNKSGxaU1dTVzJkSUZfcGJfYkF3M29GamQ5YUZ0dDRsUnhnaHFFaDVobmUtRURkVGxXbndiSjc1WklYY0tuUjdaMUl2ZW9hZ2pBbTdMV3laS0lpM2gyWVMwcnltQVFiN2ZiVTNicGs1aFBMQXBjYVdRMWQ1V1JNd25OdVJhNVFDTUhSaGJiOG1RTUJ1bFJFdw?oc=5",
+   "source": "Daryo",
+   "date": "2026-10-10",
+   "img": ""
+  },
+  {
    "title": "Germany to Auction 4 GW of Offshore Wind Capacity in 2027 Under Revised Site Plan",
    "url": "https://offshorewind.biz/2026/10/09/germany-to-auction-4-gw-of-offshore-wind-capacity-in-2027-under-revised-site-plan",
    "source": "offshoreWIND.biz",
@@ -29,13 +43,6 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "GWEC Calls for Government Action to Accelerate Floating Wind Commercialisation",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUl9DSTdMOTBhNzVzRjZYVl90czZZbF9zZ0VzdDNUaTdxNlNCdlZLTnZCYjJSem9zd0dqeG5IZXB3YjBxa0laRFNsbkc0SG1Fc3VGMXc2UTNMZ2hKVEkybUxvWmE2aHZodlRvSkNFZEpWbWYzUjl1OUZtZTd6VnY3bTNRenFyQ2U4djNRNURJU2trVjIwaWJ5TGtGbnNJUjFkZ0FCN2g1M3djNmFLcGFUdWp5OWxPbnozTlE?oc=5",
-   "source": "Offshore Wind",
-   "date": "2026-10-08",
-   "img": ""
-  },
-  {
    "title": "East Asia may miss 2030 target with 82-GW offshore wind still in development",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1VCdThNNUZVeXFwNUFFYy1IMlYwcDh3bmhoUWVFOTBsMnRvSUFaT1dmck1iUzRTSWxidjBIQjhtdjhaaXNNSmJuZ21YU1c5aVA5eUlNOUlNbkhnWWlDaTZOdnRRZ21Yai1WOEhXUXpQTUJHYU1VSzVVT010RDZXbjNLX3BQcGYtWnNrbl9sclBYODgxTVdnSmladE8zWEVMSG10d1VMbGJ3Q2ZUTkp1cDN3?oc=5",
    "source": "Asian Power",
@@ -46,13 +53,6 @@ window.NEWS={
    "title": "Inside TotalEnergies' big German power plan: 'we don't do niche'",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVndDSURIaS02SVNFYlVGbjNTWDFMbnFVN09XQmwwcHkwOEx4SEE4UzhMMEVhdzRGdGhWa1BxQjBFdTZyTG5fY2Fqc2ZUVUl0SWJOdVFBUFpzNl8wclMyeWxJS3MwX3J6WEhpRlZOUmtibDZhc0xCTW8tMkpPNFJrNG50bFN6NnE3Z0VMSk1XeFlHOTRvTTYtV1gxVTVQZkhQUnB1cjJRQW1ManZucHBhTw?oc=5",
    "source": "Recharge News",
-   "date": "2026-10-08",
-   "img": ""
-  },
-  {
-   "title": "FOW26: Sumitomo and TFI Marine forge mooring partnership",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdFRQcGRxTWM4Y0NoT1VEUU5ZdmVDcmFDTGhTZjVTRFBzQmtIeVBRN2ZCU3ZaWTRocnZ2bFpnODNvWk4zMjRQLTdQMVZfdTk2cU44NUVNN1ladHNqVHZyQU9jQnlNcG0wWFJRMVYzQTRyQjlvUGdHdUF0eFdoRFN2Q01rNHF5UHdkZHBraVhuYjU2UWV1T2phOA?oc=5",
-   "source": "reNEWS",
    "date": "2026-10-08",
    "img": ""
   }
@@ -87,10 +87,10 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Sumitomo Corporation Global Metals, TFI Marine Introduce Mooring Solutions to Floating Offshore Wind",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSTJ6VFdlODVlUy1GZFdnUjc3Qnp5UkF0SmdpYXZHYVpJMExFZ3Zhc3R0Sy0xalY1MWVONGx6QjB2eFNLb0xRQTdXTWN6ZFM4Q2U5a01YbUJGM1VHclFNeTllOW5NTnd4WkVvenc2NmxvbmhHRjFicGUzM05sTzN4RlpPSQ?oc=5",
+   "title": "Sumitomo, TFI Marine Introduce Mooring Solutions to Floating Offshore Wind",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHV3VThON3RfOTQ3bGVWOTZvbUM3ejJNczVtOHZHNTNiTHZBSGQwZUlnTFJEdEU5a0lGSlh1S0NkcmFkazhUY3JVVXE5VHdYdlNieFZGZHFzVEZ0akZlWTFVLWJVd1loZld0VlN3dXVPak54dlVhRmNTWllibExnVFRR?oc=5",
    "source": "Marine Link",
-   "date": "2026-10-06",
+   "date": "2026-10-07",
    "img": ""
   },
   {
@@ -108,10 +108,10 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Ørsted reports damaged turbine blade at Greater Changhua 4 offshore wind farm",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDhXZDl6c0dIVkVHRVVxTExjbWt2cDJhMFpLSm82NmZ2N2tXUzFXLU05WVZPMlhoR0R3amZrcVlkSG1xeVVCWjVJaTJSX1dCRGVmYzAzX01iM2w5MFBrczlBSzlFczFLWjBOS19QSzNMS2NLUVRMQVFSTDNteVVDMjk3eTJKZ3djRElXOEhxTWRBX2VYR1dGZGV2aW52NXJrODRHYQ?oc=5",
-   "source": "energynews.pro",
-   "date": "2026-10-06",
+   "title": "Ørsted's Greater Changhua 4 off Taiwan suffers blade damage",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3g0UHlBc1hnaEdVeDJBSjg3UEIxR3FseWV2UnlwQjBsNDg2WHFXaUJRNk90RVBfbkRSeWtEUFdZTUtpNkFQbjRiczZOSU1GcHQzWElyYzJTcktQbnA1ZzVTUTNoM2hweU8zT0o4YXE4d2stQzJTTllBYnlaV091ZnNXUGVDQlFGcnp5bFpwblEwdE1XcHhPZi1KM1NNUQ?oc=5",
+   "source": "Renewables Now",
+   "date": "2026-10-05",
    "img": ""
   }
  ],
@@ -138,5 +138,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-10-10 01:23 UTC"
+ "updated": "2026-10-11 00:34 UTC"
 };
