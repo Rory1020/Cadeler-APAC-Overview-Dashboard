@@ -1,6 +1,41 @@
 window.NEWS={
  "industry": [
   {
+   "title": "Iberdrola Cites Political Risk in Exit from South Korea's Wind Power Market",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Fd3JqRVFiWmtxRENWYjVzZnM4RjJGdTFPUnhPZWMtUmh3amt0Z1FhNFFaZmNTbnZrbUEyWE9TckkzaENFcXBYSU8xcE1rZ082Mlg3VGpraFB2Ylp2S1NFaGcyLWJrbV9pcVZNRjYxa1pDZjlxX3c?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-10-11",
+   "img": ""
+  },
+  {
+   "title": "How a rust-belt port became a $17.6b offshore wind hub",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93LU5qQkFBRG9Ja2VlZkRrMG13SVNVQzAxNUZibVpLUUxHZ0dMcm56dThMYWNUYkpuOHBzUDUxRlVKek5EZk5EMjQyS1lzZk9rbTFZT1kxZw?oc=5",
+   "source": "헤럴드경제",
+   "date": "2026-10-11",
+   "img": ""
+  },
+  {
+   "title": "Iberdrola exits South Korea wind market over regulatory uncertainty - CHOSUNBIZ",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEZQb2ZubjZOQTZidFdJa3c3cERheF9PMnJqQXVRRzZ5UHlmd2JiR3FKc1ZyTkFZT2pnWGFNLWNVTmZMTVRleDZJS3pzMnRLUjNkcUtSTkFFTEpDZ0czeU1TVWNfSU1STEo5dVc2eUlzWDNlTktHcnBUVTcyREpGXzdn0gGWAUFVX3lxTFBDVmVGSjVVLWxhRTFOemlQTk04V3pVQmx2Tk1aamFUYVlNblV4bE9TLWdOM0JUdGlBOU1wdEllREJMOUZXYXVscTRWdjlDNENrb1NsYzNDSWV1ekxLM2lNa0JNdmtnakY0eGtlckUzd2VzVVZmbVl1bDNaNnBOcHEtOWhfVmN5dTUtWWdyYnRfQkxIYzRMUQ?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-10-11",
+   "img": ""
+  },
+  {
+   "title": "Basque wind cluster thrives as SMEs specialize, offering lessons for Korea - CHOSUNBIZ",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGMyR2Vhc3JsWHMwTzJrMGRfRDBTVFozTTN5TXp5czFPcW9mZkgybVAtZXo2dWpaRnlmaWotNkRHOVF0eVJtUmo3NVhSRm9lVTJSWUhiVDFOdlJ0SkJNVVByd0tib2ZUWnVPVktkSEpzZ1hscXdWS1RxOVVaS3VQWVdn0gGWAUFVX3lxTE9FTG1mSVlrYzlxNXBsemRrTFNhaXFWcF9VZXRrVk53V2ZFLUoxOWZfQkhVNXpRVHg0dmRnYnFQZnZrUUdJR2FyVG1BaTBMZW0tQzcya1dMSUZKTUFYY2FaNUVIZll5Q19TdEVoTHBESndMZkpjQlBPVWlCRUhocGcyNGdtb3ZwbUUxTnZ4M0hLRF80ZTJGUQ?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-10-11",
+   "img": ""
+  },
+  {
+   "title": "[Field Report] \"Unshaken Even by 13-Meter Waves\"... A Visit to Northern Spain's Floating Offshore Wind Demonstration Site",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ubno2SGxhWVFVTHozc0g2NTRvUDNsVV9tU2tZaTg0NUY2dnQ1ZGY2OGFjQUZXX3NOaHFzT1VIbDBOZFdzVEo1dHRHTU95bnU5Z0pnazJVUTdERDA3T3gwWVV6YVM?oc=5",
+   "source": "아시아경제",
+   "date": "2026-10-11",
+   "img": ""
+  },
+  {
    "title": "PTSC M&C Penetrates European Offshore Wind Market with Handover of Baltica 2 Substations",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTdWY2czNFd6dC1vU1R6SWNMcjFNTHNZQTJmUmI4aE5OV25kdkYxdlVRdWpVSTc5WWZKYzFOb3Fha3QxanFVdnAzU2d3b1B0bFNvZmw5TlFYWjlYWnZVSGxrZVJNVjhXZERtRmwxNFByZUplQmlIX09iOXRXSWliQWVGY1EyQXdsUzFFR1FLaEh4ekxCRm9xSnA5MWVvSW1ObklSRDJ1VVJnLUdqQVcwZFdnNHEzR09wLWRpWTdtTVVHWTYzbDNnMW9Udk9nZEdR?oc=5",
    "source": "PetroTimes",
@@ -20,41 +55,6 @@ window.NEWS={
    "source": "offshoreWIND.biz",
    "date": "2026-10-09",
    "img": "https://offshorewind.biz/api/media/file/2nd%20Amendment%20to%20the%20Area%20Development%20Plan%202025_BSH-1200x773.jpg?prefix=media"
-  },
-  {
-   "title": "Only two offshore wind project bids still under review-News-Radio Taiwan International",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HUm1qM1JtcDJmWHowZXMtQjlhRVowQk1aRkl6M2xMXzVSSzFpYmFXWFZTYmZjZmV1WW9qQnZKTmE0cWlaeWdKMElrUElpTFdfOURKRWplSEkwTEU?oc=5",
-   "source": "Rti 中央廣播電臺",
-   "date": "2026-10-09",
-   "img": ""
-  },
-  {
-   "title": "Northland Power (TSX:NPI) Dividend Reset Meets Offshore Wind Payday: Can Income Investors Finally Relax?",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQak0wazdhT20yYllwLVJIcEFsNkNoaUlRTzEwWDRRR0x3aDJEbTFEdGNfLXpJNkZvd2I2dnpaVEdtaE40enkxX3VuYXJGOEhVVDlNenNXRUt6MkswZEZGVGV1cmhjR3JzZk1NSnI5b3J4dXFqNmluRS1BaENHVlVULWM3c254T2QtNkNaOUhhVHJka3dxbS14ZldCMUVpcHJ1Y3FXZHgwa0FfcHYzR1U4UjQ5RE1lblhsTmJSX2VSdXlza09ZMGNVN3NQT1VOMGFRWTIxMUlR?oc=5",
-   "source": "kalkine.ca",
-   "date": "2026-10-09",
-   "img": ""
-  },
-  {
-   "title": "Ten OEMs lined up for share of 5.5GW in Chinese onshore wind auction",
-   "url": "https://www.windpowermonthly.com/article/1971980/ten-oems-lined-share-55gw-chinese-onshore-wind-auction",
-   "source": "Windpower Monthly",
-   "date": "2026-10-08",
-   "img": ""
-  },
-  {
-   "title": "East Asia may miss 2030 target with 82-GW offshore wind still in development",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1VCdThNNUZVeXFwNUFFYy1IMlYwcDh3bmhoUWVFOTBsMnRvSUFaT1dmck1iUzRTSWxidjBIQjhtdjhaaXNNSmJuZ21YU1c5aVA5eUlNOUlNbkhnWWlDaTZOdnRRZ21Yai1WOEhXUXpQTUJHYU1VSzVVT010RDZXbjNLX3BQcGYtWnNrbl9sclBYODgxTVdnSmladE8zWEVMSG10d1VMbGJ3Q2ZUTkp1cDN3?oc=5",
-   "source": "Asian Power",
-   "date": "2026-10-08",
-   "img": ""
-  },
-  {
-   "title": "Inside TotalEnergies' big German power plan: 'we don't do niche'",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVndDSURIaS02SVNFYlVGbjNTWDFMbnFVN09XQmwwcHkwOEx4SEE4UzhMMEVhdzRGdGhWa1BxQjBFdTZyTG5fY2Fqc2ZUVUl0SWJOdVFBUFpzNl8wclMyeWxJS3MwX3J6WEhpRlZOUmtibDZhc0xCTW8tMkpPNFJrNG50bFN6NnE3Z0VMSk1XeFlHOTRvTTYtV1gxVTVQZkhQUnB1cjJRQW1ManZucHBhTw?oc=5",
-   "source": "Recharge News",
-   "date": "2026-10-08",
-   "img": ""
   }
  ],
  "competitors": [
@@ -87,7 +87,7 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Sumitomo, TFI Marine Introduce Mooring Solutions to Floating Offshore Wind",
+   "title": "Sumitomo, TFI Marine Introduce Mooring Solutions to Floating Wind",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHV3VThON3RfOTQ3bGVWOTZvbUM3ejJNczVtOHZHNTNiTHZBSGQwZUlnTFJEdEU5a0lGSlh1S0NkcmFkazhUY3JVVXE5VHdYdlNieFZGZHFzVEZ0akZlWTFVLWJVd1loZld0VlN3dXVPak54dlVhRmNTWllibExnVFRR?oc=5",
    "source": "Marine Link",
    "date": "2026-10-07",
@@ -138,5 +138,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-10-11 00:34 UTC"
+ "updated": "2026-10-12 00:49 UTC"
 };
