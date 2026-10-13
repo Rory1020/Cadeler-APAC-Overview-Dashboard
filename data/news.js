@@ -1,74 +1,88 @@
 window.NEWS={
  "industry": [
   {
-   "title": "Iberdrola Cites Political Risk in Exit from South Korea's Wind Power Market",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Fd3JqRVFiWmtxRENWYjVzZnM4RjJGdTFPUnhPZWMtUmh3amt0Z1FhNFFaZmNTbnZrbUEyWE9TckkzaENFcXBYSU8xcE1rZ082Mlg3VGpraFB2Ylp2S1NFaGcyLWJrbV9pcVZNRjYxa1pDZjlxX3c?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-10-11",
+   "title": "Taiwan receives two bids for offshore wind Round 3.3",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON29aQkJlVGs2VkFRdlVELUdaUjVJRzJZSTBGTTNKTDJKdzh3RkZSZDlrcm9jVl93SWI4emptRXFpQW8yVzVKT0Ruck5EaVJMX3pZN1BFYkJMYXo3Z05aMjkzQjRNTDhfa0ZkZHM4M2tJZnF3bkxaTG1hWkdZWFd2WjNrSjZmd3dBaUl3dDF0VWVHTlBLSGpJb2Z0VXdnaUNQTlcxTjExS2g?oc=5",
+   "source": "Windtech International",
+   "date": "2026-10-12",
    "img": ""
   },
   {
-   "title": "How a rust-belt port became a $17.6b offshore wind hub",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93LU5qQkFBRG9Ja2VlZkRrMG13SVNVQzAxNUZibVpLUUxHZ0dMcm56dThMYWNUYkpuOHBzUDUxRlVKek5EZk5EMjQyS1lzZk9rbTFZT1kxZw?oc=5",
-   "source": "헤럴드경제",
-   "date": "2026-10-11",
+   "title": "Why Taiwan’s offshore wind auction was only a two-horse race – and what needs to change",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTEFYRHdQWW1ReUtCVk9YZ2p4dGZPS2ktWnRObGtYU2dUeXY4bDVPc1RQNWR6VVhNa3I3OU9jd2dCY0p0MEMwekJuYkVFNDJxZHh2MVFWS2FxcjI3S0VnLTNidHF3TGdrSWlkUHUyQk9qT2J6dEVvYkJiRUFFMm5rcXFqWkcxZWNEM092Ykt0RUZjMFI2eDJVMjQwODNjWk1tUTg4cnhGeHVvTzk1TTZDMm5UYUF3dU5NLWg5Q2p3eEhkbEVPU0JIWm05VkFiaTA?oc=5",
+   "source": "Recharge News",
+   "date": "2026-10-12",
    "img": ""
   },
   {
-   "title": "Iberdrola exits South Korea wind market over regulatory uncertainty - CHOSUNBIZ",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEZQb2ZubjZOQTZidFdJa3c3cERheF9PMnJqQXVRRzZ5UHlmd2JiR3FKc1ZyTkFZT2pnWGFNLWNVTmZMTVRleDZJS3pzMnRLUjNkcUtSTkFFTEpDZ0czeU1TVWNfSU1STEo5dVc2eUlzWDNlTktHcnBUVTcyREpGXzdn0gGWAUFVX3lxTFBDVmVGSjVVLWxhRTFOemlQTk04V3pVQmx2Tk1aamFUYVlNblV4bE9TLWdOM0JUdGlBOU1wdEllREJMOUZXYXVscTRWdjlDNENrb1NsYzNDSWV1ekxLM2lNa0JNdmtnakY0eGtlckUzd2VzVVZmbVl1bDNaNnBOcHEtOWhfVmN5dTUtWWdyYnRfQkxIYzRMUQ?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-10-11",
+   "title": "Despite Challenges, Floating Offshore Wind Capacity Continues to Grow",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPamh1Sy1LLUVpcE9sdFp1SnZuWmktU1NLNE4xU3E1bTg4LWNxSjI3bzd6cTNLUURUQ3h6OFlFR19Fb016Y1ZLR3BaSF9JRWRialZmN1dCQnFiRHBoZzVMMzFIbGs1S2pyTjBwQlFUMFkwVF81NGRRcDN5b1hnZkN0M0duS3Q0bUdVQzFrZE95SXd1a2RuZF9DUk12TFljalFjU3llcE9rQWY1YXc?oc=5",
+   "source": "The Maritime Executive",
+   "date": "2026-10-12",
    "img": ""
   },
   {
-   "title": "Basque wind cluster thrives as SMEs specialize, offering lessons for Korea - CHOSUNBIZ",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGMyR2Vhc3JsWHMwTzJrMGRfRDBTVFozTTN5TXp5czFPcW9mZkgybVAtZXo2dWpaRnlmaWotNkRHOVF0eVJtUmo3NVhSRm9lVTJSWUhiVDFOdlJ0SkJNVVByd0tib2ZUWnVPVktkSEpzZ1hscXdWS1RxOVVaS3VQWVdn0gGWAUFVX3lxTE9FTG1mSVlrYzlxNXBsemRrTFNhaXFWcF9VZXRrVk53V2ZFLUoxOWZfQkhVNXpRVHg0dmRnYnFQZnZrUUdJR2FyVG1BaTBMZW0tQzcya1dMSUZKTUFYY2FaNUVIZll5Q19TdEVoTHBESndMZkpjQlBPVWlCRUhocGcyNGdtb3ZwbUUxTnZ4M0hLRF80ZTJGUQ?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-10-11",
+   "title": "Asia Wind Energy Day",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Pd1dfTnhGTjJPZV9OY1l4TU9jZ1JTdUp2QVlidXViWlVkdk54djhNUTdsclBleC15elVYaEZjQXFqcy13MDVJTkJRdTc2TW0wMGs4RnRLUG9JR3dZVkJNWTQ4bnpqMFNa?oc=5",
+   "source": "Westwood Global Energy Group",
+   "date": "2026-10-12",
    "img": ""
   },
   {
-   "title": "[Field Report] \"Unshaken Even by 13-Meter Waves\"... A Visit to Northern Spain's Floating Offshore Wind Demonstration Site",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ubno2SGxhWVFVTHozc0g2NTRvUDNsVV9tU2tZaTg0NUY2dnQ1ZGY2OGFjQUZXX3NOaHFzT1VIbDBOZFdzVEo1dHRHTU95bnU5Z0pnazJVUTdERDA3T3gwWVV6YVM?oc=5",
-   "source": "아시아경제",
-   "date": "2026-10-11",
+   "title": "Offshore Wind Potential in East Asia: Challenges & Solutions",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY2xkb0ozRzNNRWMyN2d3RnRqUGVrVi1QS0h5dlVvQmhJMi1wbThkSWt6SHhNRnFkNEpCMWJLVjZwSUlGdVNzQ0x3YU56bDJreUF5ZzlYdjQwZVRvdDZGVjAxQVVVMlVrdVdTU2hXVGtWTG5DT1RBRnRkcmJJSXcwZFQ2ZF9oT082bEsxMDBPWVBLc2NsWmx2LXVuUHpuTk5OalpZYnlveWpvOVlkZHZ5MHlWX2hsUnp1dGlpbVNnejdTUVN4elZQcERWTTAxdTJxUXVfV3NwUQ?oc=5",
+   "source": "SolarQuarter",
+   "date": "2026-10-12",
    "img": ""
   },
   {
-   "title": "PTSC M&C Penetrates European Offshore Wind Market with Handover of Baltica 2 Substations",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTdWY2czNFd6dC1vU1R6SWNMcjFNTHNZQTJmUmI4aE5OV25kdkYxdlVRdWpVSTc5WWZKYzFOb3Fha3QxanFVdnAzU2d3b1B0bFNvZmw5TlFYWjlYWnZVSGxrZVJNVjhXZERtRmwxNFByZUplQmlIX09iOXRXSWliQWVGY1EyQXdsUzFFR1FLaEh4ekxCRm9xSnA5MWVvSW1ObklSRDJ1VVJnLUdqQVcwZFdnNHEzR09wLWRpWTdtTVVHWTYzbDNnMW9Udk9nZEdR?oc=5",
-   "source": "PetroTimes",
-   "date": "2026-10-10",
+   "title": "High Flexibility Sealants for Floating Offshore Wind Foundations Market Forecast to 2035, Driven by Multi-Gigawatt Project Pipeline",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPR0JrbXZwMnJucWRYZFdjcTh0b2pHVHB2dDdFTzgtam1NQ1d6Z2laOGdIMXEzaFNac2dic3BlcUNnRGgzZFJ4cGxkbHN0VFE4aHpXVjhXd2oxV2FzSmd6NzdEdlBkYlVQOTZ6eUdvRXg3WFQzSzF4elF5UXRQT1JTM3lnQlVqRDBYR1NmMDM1b19LUFVqUkIyMEdKNi03WnMtR3E2QVlKSXhPWXBiR0daNXlkWHN1TkJYTXlaQU1fYUZDOW1TVUU5SHhsUjN6YXZJejJIRENGTUZxcW51al9neDg1Z0VyWVZvVFVOVFhUOFpMQQ?oc=5",
+   "source": "IndexBox",
+   "date": "2026-10-12",
    "img": ""
   },
   {
-   "title": "AIIB mobilizes $1.1mn for Caspian Green Energy Corridor linking Azerbaijan, Kazakhstan and Uzbekistan",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2RsNUdMeXBDUmVJRzhvcXBtd2oxZlJpUGZoLWVSRENYSEJfQzg1dTdKakdaYlhjdnB5SmNKSGxaU1dTVzJkSUZfcGJfYkF3M29GamQ5YUZ0dDRsUnhnaHFFaDVobmUtRURkVGxXbndiSjc1WklYY0tuUjdaMUl2ZW9hZ2pBbTdMV3laS0lpM2gyWVMwcnltQVFiN2ZiVTNicGs1aFBMQXBjYVdRMWQ1V1JNd25OdVJhNVFDTUhSaGJiOG1RTUJ1bFJFdw?oc=5",
-   "source": "Daryo",
-   "date": "2026-10-10",
+   "title": "PHL offshore wind program to require major transmission, port infra investments — ESCAP",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdmh4VTdpdTlUazdHdEhNeEZqbEIyTllBel9hM3FoUzhHaTVGWWVwVmtaVzFycmp1MUpRQVlSSFBwRndoZFA2cG9SOXMxSzdlM251dWQ1ZWo0TTBxWjZFRVdzbTZ5aVoxSGVGQlc0VFd4Uml4TDNYcEtHV2hPemR5cjNib2VEOXl3dlp0S3NVek5fcDAtTlZuY1hmeDZra0Q1a2NxczJHVG84UlJqbkNpNFZ6OTFyclFfN3RjZ0xyaC1sY3cxbVZRMFJJU3JZc0llOVE?oc=5",
+   "source": "BusinessWorld Online",
+   "date": "2026-10-12",
    "img": ""
   },
   {
-   "title": "Germany to Auction 4 GW of Offshore Wind Capacity in 2027 Under Revised Site Plan",
-   "url": "https://offshorewind.biz/2026/10/09/germany-to-auction-4-gw-of-offshore-wind-capacity-in-2027-under-revised-site-plan",
-   "source": "offshoreWIND.biz",
-   "date": "2026-10-09",
-   "img": "https://offshorewind.biz/api/media/file/2nd%20Amendment%20to%20the%20Area%20Development%20Plan%202025_BSH-1200x773.jpg?prefix=media"
+   "title": "Vattenfall wind chief breaks ranks to back Germany's offshore tender plan",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHg4WXFVR2d1UGlsZE40V1BvQ25zR1BRck9QNUdnTUVXNF9iZVVGYThUR0pvTklTcGtPMmlwNDltNW5rUWIwWHVtaThMR1FlbFRXd2NhX3lvNUpTRHZTOWJfaXBqMVZJcDhmR1BXWnVQVF8xZjBlSEtCQ3VQQnpQMFpUQi0zRXVfOUtlWEFlcTZZa3pKMHNTdkVOMFY1dFJjYXJ2cVY5S1R5RW5TR2lYWDlZVnBJZ0x1MktwdjRySW1sQQ?oc=5",
+   "source": "Recharge News",
+   "date": "2026-10-12",
+   "img": ""
   }
  ],
  "competitors": [
   {
-   "title": "North Sea projects and vessel developments lead this week’s offshore wind updates",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjZnUGlyZk5pbnpZQnlTd0VJczBWR0k4cU5mcW1Hcm5zVDRkR2lJN2NlME1IcUk0ZE0xcEViai0zcXM4TVdMeXViNHJPbUtsamVIdm83TGRrbmlCejlsY3J3NkVvX2lzRlRBcndUbVQxZ1dlbEZ0TlBRWm1SRzBPZWJQeDFuQ3ZkXzFsNGotQ09vdUxYQVN3Nms1WHRJc2VIcWFtTm5OSQ?oc=5",
-   "source": "DredgeWire",
-   "date": "2026-10-09",
+   "title": "Bibby Marine’s Battery-First eCSOV Hits Water in Spain",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdmRsTmdLS2JaSm4tU3JFVFdzLTJDODNDZ09XOUp4ME5YMUo4UXNGaURUalp6MzJ5UUZvMG41bWRYbWN4cUFOMDV2ZGJmdHhKcTU2Ty1ZdHBkT3Z5eHBWdmhnUzJvZ3hqMDdpYVpDbEZETnhpOWtqWS00OXB5bWJKZEJLcVhCbU0yVWQ0eWplUkNRN1JqRDFIdE9TMW0?oc=5",
+   "source": "Offshore Engineer Magazine",
+   "date": "2026-10-12",
    "img": ""
   },
   {
-   "title": "Offshore Wind Market to Exceed $120 Billion by 2030 at 16% CAGR, Driven by Western Europe and Ørsted",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS0xCZnBIUkw2VncySk9KTUkxNzZGT09zWTU1b283aDJHcDIxelNyeXhRMU5sTklnbGw3RkxVMkVSM2Z0REZtZUVnYlduc3YzMjhCR3VXWl8wcDk4QjFaSF9YX1Y4NFhpVmVIaDdaaFV0M0x3SzB6eVdwQTFmT2JiMW5zcHRzcWNaTjY5c0VSY242YTdmUGRMYUlJYkpxNXozcEY0Ym1KR0NsTHJIcGZHTmtuME1mak1qaDVYN0x1empxQ2VaLWc3cnZnSlc3ZWV6UEZTOQ?oc=5",
-   "source": "EIN News",
+   "title": "Orsted seals buyout of Japanese partners in UK wind farm",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2taYnhCaWN0N21EcXBOV1hqc21XNjVMekMzdUR6X3BzMDN6S3V4OHdJcmV0RjdNR1llbkphdE9HTlhiclhobjBSQzViaWotVjBjekI0aXVRQjNrNl9hOTJXdVBfdHQzaERYSHFnbS1zTUZORlowUE1kbG5qRDY5aHJPSjc0QjRuWTlkZEpPN2xyY0hQLTlSV1lUYzNQMWRWei1JZjhYNjk5eW5wSHNSZDItVEFkTVViZDlDWNIBygFBVV95cUxNVzFEYkE4NjBSSEhaYnNuaExKal9Wb0pBeFRNaVRrc2VULXp1R1IteThXd1Z5aHJldFZrdVc3WlU0b0EtNkZMdnFCaFdqU0VJaVVfODhlTlNxV1dKcGpLUDhpRk5uYVF2SGZUQWlLYk1ucXQzbDVKUkxOQTBpN2RMeDJJRlVZcVc2V0tGaUpLek1uelM3dFg0cG1kVWVsZFF1UVFYRzhFTmN4UFBxRGhGM21GamFqeWR0YUFWNWsxZzBBUWE0bk1lQmpn?oc=5",
+   "source": "Baird Maritime",
+   "date": "2026-10-12",
+   "img": ""
+  },
+  {
+   "title": "Koehler Renewable Energy Wins Planning Approval for 36 MW Rowancraig Wind Farm in Scotland",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc05FUVc3T3VYaXRkeWtZSUdrN3BnRFJwMGdvdGJFSmZsRnFhMXdONjVwZFpkZzNzdkd5M25rM215X1daVUJ1TXpaZzhMX1VYUm1WbThUSU02QTlEd2xVOHQzQjJuX3JoS3NmV2xGVTV3dlhiMFNuNzlaUUQ3QkhBTEZ5QXdLcTE1Zi1rUXo5dnlVdWVNc20tSU9jRl9yX2tVSWg0TTNCYzlleUhURmE2NG56elVzNFE?oc=5",
+   "source": "energynews.pro",
+   "date": "2026-10-12",
+   "img": ""
+  },
+  {
+   "title": "North Sea projects and vessel developments lead this week's offshore wind updates",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMEtRS2FmdFp4Y3owRUtEX0J3bnZtaU1Ua2lZRlhOLTJ1WTZOUnU2TzRSb2ZMQVlaajVCS2tlVEhOVl8zSFNKMDNXQUh6MEVwYk9IVWVDejBUQXhXaWl3aEdsUzRaQ0NsSnl5bERHXzVzNVhKaFlMRUJ5UUdOV3kwWlFyTDdwdXZxUE5TV09FSUlmSEtIc1FLbVlLeEhpYVJrNEFySEJ2OWpCRGh5Qi12TUxMSGhsVVdVQ1Z0blJPWDJvRFNCZzBQcmdVWTBFclBMR1l0NHR6aw?oc=5",
+   "source": "Offshore Magazine",
    "date": "2026-10-08",
    "img": ""
   },
@@ -99,20 +113,6 @@ window.NEWS={
    "source": "energynews.pro",
    "date": "2026-10-06",
    "img": ""
-  },
-  {
-   "title": "Aker Solutions' Entr wins its first offshore wind study contract in Canada",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORHpBWmpfc1RiMFFNLVpnbk9XeXlOLWJTNjFQRXBQLTlzdEN2bUdjajhqNXBER19tOUhrYmR6RG9Vc0xWMl93U3NoRWFGQ0xsLTFfeWIyZFpYV3ZMbXNNZUFzeVdhN1VoVGEtc2FnR3Z0YmtuRGgzaklaaExyMGliSEI5bGtTbXpsaUZlOXZDT2NCd1JDbDd6QkFaM3AwQWh1?oc=5",
-   "source": "energynews.pro",
-   "date": "2026-10-06",
-   "img": ""
-  },
-  {
-   "title": "Ørsted's Greater Changhua 4 off Taiwan suffers blade damage",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3g0UHlBc1hnaEdVeDJBSjg3UEIxR3FseWV2UnlwQjBsNDg2WHFXaUJRNk90RVBfbkRSeWtEUFdZTUtpNkFQbjRiczZOSU1GcHQzWElyYzJTcktQbnA1ZzVTUTNoM2hweU8zT0o4YXE4d2stQzJTTllBYnlaV091ZnNXUGVDQlFGcnp5bFpwblEwdE1XcHhPZi1KM1NNUQ?oc=5",
-   "source": "Renewables Now",
-   "date": "2026-10-05",
-   "img": ""
   }
  ],
  "cadeler": [
@@ -138,5 +138,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-10-12 00:49 UTC"
+ "updated": "2026-10-13 02:46 UTC"
 };
