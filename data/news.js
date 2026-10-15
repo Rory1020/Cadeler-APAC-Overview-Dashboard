@@ -1,63 +1,105 @@
 window.NEWS={
  "industry": [
   {
-   "title": "Australia’s planned floating wind farm uses vertical turbines with sea-level generators designed for servicing by small local vessels",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ybnhuaUE0cnpvZTFYMWE5S08ySXlDQm5WS2M3Z29uZVZ5ejZ1bVMyZWdXX1JMcmgzbTBWUDl5T3o3TUJyMlg1OTJHXzhyQm81NVNINGpST3JPV3FRM09zdGpCWjdZMl9xeWFhb2IyRmpQZw?oc=5",
-   "source": "Energies Media",
-   "date": "2026-10-14",
+   "title": "Tokyo Gas receives AiP for floating offshore wind power generation facility",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWVBRlRRc21Xb0dBaUZlbklfTWtsVjUtSDNna3JLYzdzdUxrVnpBQ3cza0VzTmhoanIwMXJRSmFOc3JLYVBaWDVzZGtfU2FMcmQ5azFXRllVemJzTXptYnVpY0EtNTNKUmZlQXU1M0ozQ1FvMnBibkcxbDBpSWZFbXdxdHhTME9tS3l1MjlQVnVNRGxMNllrb00yNjkyM3hIV1dXSjF1Z3hFblFHT1VJcmdtRWhFV0FyRmU0?oc=5",
+   "source": "Energy Global",
+   "date": "2026-10-15",
    "img": ""
   },
   {
-   "title": "France’s AO10 offshore wind tender closes for bids",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU1pkckQ4UWtLazB1aC1vVk0xd0RydWdpTlQ5RzhlOXNaOVRtNHo5T285TGx2Q2lrdWtfM2xOWUVPcXdOYl9RY3dkMXFnWEJXMzJRZ1AydUpiMzR6NDFFYTg4b2x4aXByanBObVBqUkJCT0l3V0plSmd3amt0RTJaOW9kUzE3UnV3enIzeU9kcVlYbVFiczdFNmlpNjZja01UWml4Rg?oc=5",
-   "source": "Windtech International",
-   "date": "2026-10-14",
+   "title": "PTSC Marine GS, Pacifico Energy launch surveys for 1.8 GW offshore wind projects",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelZ1dFpBdURFN3B0ekszV3V3d1ViSWhaT1NiNGl0U3RmS3FrQndKdGN0aHVnbWpMdkRVVGJ0ZEw5ZjZlaXlHXzR1NDJweTIzdnhFblJaVFdJYTJ1c3RtTk40SGpSQjZPZlNfTEpLd0NMRnJNN2N3cldNOW1FWTk3T1plcWdiekhhSk5MZ0MwUkN4eHZsdGwxaTV4YkhBeWh6bnF0U0Q2Y00tOFJ0dTZZUGxCRQ?oc=5",
+   "source": "Theinvestor",
+   "date": "2026-10-15",
    "img": ""
   },
   {
-   "title": "25 GW Offshore Wind Target Requires Sea Area Seven Times the Size of Seoul",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pTmtlelFRYk1RdTZ4c0lyVTdBOENuY3gyc05ZVXdwYjM3N1FFZTY0MEt3N1NGMjRiNFZNbldGdE1tVmRPWkllZ2p1UlJiYm5PUmdWNldWVkNmdUotcWhJck1lTmx2anZQcExWX3FzOUlPcEpkbzUxUQ?oc=5",
-   "source": "아시아경제",
-   "date": "2026-10-14",
+   "title": "Taiwan defends offshore wind tenders against CIP criticism",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTdmNFdPbWNER0NPZGkwV1U0NmRxRnRhVTZ2Nl9wZW1PcjJ2X2c0SV9Yc21FdWhNdlRwc2tXRURTSFc3MXFWcEhHVERTdU50anhOZGo2aEh0MkNlSWQyVnUtWjNJWkh0NGM3cm5wa291Ul9FZlhydVZiN3pUajV3aWM0SmlTdmNoMUVNSjk4enA0aFlkOG84NzVaazFKWDFFS1VkRlpYR3dNS3JJ?oc=5",
+   "source": "IntelliNews",
+   "date": "2026-10-15",
    "img": ""
   },
   {
-   "title": "LS Marine Solution Starts Subsea Cable Work in Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53VlF3OElqd0dkVW1ZNF9NTS0yYmJKUE12OVAzRXFRMGV5TUp4UmRpNW85QTdUTEN5LS1uWjNxNjlzZUk1UUNKb0lYS2l1V0Z5T1JOQkJycFVTb01FdWozcnV5X1p3ODB4am80VEhuTXBPWXFf?oc=5",
-   "source": "Businesskorea",
-   "date": "2026-10-14",
+   "title": "Northland’s Hai Long Offshore Wind Project Reaches Major Milestone: All 73 Turbines Installed and Generating Power",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcEFPRUpWOXdXZEhQX0laX3ZXbUpSd2x1N093aUdua0hWelVVWmtXdG42d1ZVSEx3T1VZbDc1M2IxdFhnOURsRnBaNGtuM0taemswemE3dzVNTDFISVQ5eThKbVU1Q2NDOWgxc19KakRTa1BYMkpMZWUzYmhqWHJtMVVpSWhOSlpMMWlMLTctVk96ZEFlUXJHdE56VnN5NG55UDRMenpXcDZZYW9ETHdXVW1XbUpsWFNqTmtuNzF0VFZ3eW9YZVJzRXoxT0h5STU4Y252RU9qVQ?oc=5",
+   "source": "Northland Power Inc.",
+   "date": "2026-10-15",
    "img": ""
   },
   {
-   "title": "LS Marine Solution Begins Subsea Cable Laying in Malaysia — Second Overseas Contract",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KVFJucWlsbWc3T0oxdGVmb25EdnhwTTljeVljS2ZzVjFmemJqaWxtemRBdzJ2Y2VnZzJ5Y3czdWotQzFySFc5Y3NwRXhoUTZNS0llNnR6SVFEZnR2bWliejhMMUxGOVNsSlVGS0lYNEpLQ2xaeEE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-10-14",
+   "title": "Global wind firms quit South Korea amid permits, policy, and cost hurdles - CHOSUNBIZ",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOF9Ja0hvQ1pqUlluZlJhaFdWV3BnMmd2eW85UzFJYVRVaDRLVVBzQjk5UzBXdk1ZVl9FMzJ0MTluVGxrdnBLc1pBLTJMcEF1NHNrSDR1VDdGUldoNUQxalVHNVktcV8teEc5SDJPV3E1YkFDWXN2SGt1Q3UwTnhZdVhDdFNfaXJEUVpaVS1JX2dfeWdQc0HSAZYBQVVfeXFMTThfSWtIb0NaalJZbmZSYWhXVldwZzJndnlvOVMxSWFUVWg0S1VQc0I5OVMwV3ZNWVZfRTMydDE5blRsa3ZwS3NaQS0yTHBBdTRza0g0dVQ3RlJXaDVEMWpVRzVZLXFfLXhHOUgyT1dxNWJBQ1lzdkhrdUN1ME54WXVYQ3RTX2lyRFFaWlUtSV9nX3lnUHNB?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-10-15",
    "img": ""
   },
   {
-   "title": "Renewables news: Tokyo Gas, Luminous Robotics, EnergyX",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRENQLTUyb2hPUlJUWFBIc3FXei0yazlya1hhckJMODR1V0d0MFhHV3hKdHh5MlRmLTN3VG43dDdiZlhzci1wZ0pIelNfRndHaFNNYUJjZTA3TFpXaGRGN2EyWW5xdEUzWW4yWWNRc3IwNTRXOTdFMDhmczc2Ukk5YV9mMFpiRmVad2U0Vkd3blpBaUEza1FxT0F2M09CZkdq?oc=5",
-   "source": "GreentechLead",
-   "date": "2026-10-14",
+   "title": "Northland completes Hai Long turbine installation",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmNSUkNPQTR6U2lHWGdjam5mbzdyemdZaVk3RGpxWmFKLUNOZjd2M0JqdG4wYmhoOUFHa0V5NlQxaURPWk9RR3pZQUkwREZmNjZFNU5scG16bWFuZjlIc3hYSWxqTHlrOXZ5ejZrVkMxazN2bHVVSjdHV1Aya1ZYNXRvbXM1NmlhbTM3MjF5c3U?oc=5",
+   "source": "reNEWS",
+   "date": "2026-10-15",
    "img": ""
   },
   {
-   "title": "Floating Offshore Wind Market Size, Share Report 2026-2033",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWEp6MmhRYVZXV1Q3QVZ2VXc4UUZkSlhNNkJQVFN3RTVFTkxzWS15cl9rNTRwcXFoOFczUW5XOG85a3VJdzNfUXJvdmpfSUt5WF9OWlEzM0dweHJmM0FMaG1uX0FlMklCSlVpNFREcWIxRjhYSHpicV8zNjN6X1lBanpqSlVQeUtrYy1SR29NZ3IyQQ?oc=5",
-   "source": "Grand View Research",
-   "date": "2026-10-13",
+   "title": "Equinor quits South Korea after 12 years, citing offshore wind hurdles - CHOSUNBIZ",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc1pvY1pwVFRRUnY0NWRkZ1QwMkdSTFNOakNEVXJCb016ZWNNMWdrYzJrVnVoZmVXajE2SGltSzZSYlhRbjY1V0tET3NEX2UwMTZRM2dHWjNJRmp6Tl9zWUR1dUhzU3pDOGJKaWNIcmkxRmpGcklhNFlZQm5uRXg1cEg3cm44dmRZc0RkZnJ3S2JFVjBJRkHSAZYBQVVfeXFMTnNab2NacFRUUVJ2NDVkZGdUMDJHUkxTTmpDRFVyQm9NemVjTTFna2Mya1Z1aGZlV2oxNkhpbUs2UmJYUW42NVdLRE9zRF9lMDE2UTNnR1ozSUZqek5fc1lEdXVIc1N6QzhiSmljSHJpMUZqRnJJYTRZWUJubkV4NXBIN3JuOHZkWXNEZGZyd0tiRVYwSUZB?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-10-15",
    "img": ""
   },
   {
-   "title": "Jackets can go deeper cheaper, UK offshore wind planners are told",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRDlOVmFkRVhodHpXS085YV84b3FBQnYtTDdfSlNvekczMzBMN0ZsWFdCQ0s4bi1Fb1JKY2g0VTJEdmlEeE5COGpDNVVJVXpGNUNDN3V5TFp2V1Q3aTdsNmNsU1JIbk5iaG0wN1hrN3gxM0RsdmxiQnJrZ25OTzVaTi1BbWRpbjRFNV9mdG5kTEJzZ3FWWE1xWnZ5dWN1djVWSzFuWTdhTWpvMUk0ZHhtZzNTWVNRM21hanN3?oc=5",
-   "source": "Recharge News",
-   "date": "2026-10-13",
+   "title": "Business Lobby Flags 75 Rules as Unreasonable Burden on Industry",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOG94Z2RiaUtna04wd083X3ptOHpLSnFSdm4wYTRyMDR3N0NnaFhDNmNYeEtGaWdfQ1RqOU5xTUwyUl82c3h3bW9hVkVFZENxb2VRSjhCaFp0aXdlYVM3UWRpVElkNFdSWHplYUFoNEx0STRjaEdPakowNXdRbF92VnFLZ19HZVpqNkprSzIwOUFoSjZGZEtycnRLTXVHTUxFT3c?oc=5",
+   "source": "Seoul Economic Daily",
+   "date": "2026-10-15",
    "img": ""
   }
  ],
  "competitors": [
+  {
+   "title": "DEME to install offshore wind turbines at 1-GW Zeevonk Phase 1",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHUyaHJfSzJ6M01WajRsOUtKczlmUE4zUnV3dnlyNEJZSDh1aUlmdmtnQ0QweGVUVXZ1N3VxZktPYUhTdFFXblh3YV94QjJ0WVJRX3ozbGVCQ2tWalFjVThwMnF4NlJhbngydS1SZEZFVmN5a0lGbk9PNThPcXR1ZXFfeENNbnpVUGVqYjhONjlyaFpxRXBWZHlwOUxVNnRLbG1fMA?oc=5",
+   "source": "Renewables Now",
+   "date": "2026-10-15",
+   "img": ""
+  },
+  {
+   "title": "DEME adds turbine scope to Dutch offshore wind farm job",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVdqQ25UZDNDY3pVVDdNaERIU1BEOUJLUFI1dW9EZzhOOXl1Y1RPVGVEUzJBcVdsVlpJT0JCWnhhN3lsYmo1dnRhdHNFc0pyMm9nOUdmN3FDc21RczNoT2JDUkFrR0R3RzN5X2pPTE1ObEJIR1VwWWJrZ1VYYmVpWjdBZjA?oc=5",
+   "source": "Splash247",
+   "date": "2026-10-15",
+   "img": ""
+  },
+  {
+   "title": "Acciona Selected for Victoria’s 2 GW Offshore Wind Transmission Project",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVV9oS0EwOUpnWUJFempMT3hDTnJqWmVDVDF1dVRrRWM5QUs0X0FpaHBlaWpJY21BZjB6QWlDSVRpd2JBYUFwSWdaTVdpM0R0X1J2NGRTemJvTHYzRUFzUDh1R25FOC1SX2Vaa2R1elBkM29rTTlteHpuSmtkWm52T3ZLUWI2eEVJMGxvb3ZueERWMXNJWlJvQkhHNTJQTUdrWTdQTnRRYXVnS21CLTBz?oc=5",
+   "source": "Offshore Wind",
+   "date": "2026-10-15",
+   "img": "https://offshorewind.biz/api/media/file/VicGrid%20-%20Gippsland%20offshore%20wind%20transmission%20project%20preferred%20route%20map-1600x1054.jpg?prefix=media"
+  },
+  {
+   "title": "Acciona picked to develop 2-GW Gippsland offshore wind transmission",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNmFWRWViNV94NDQyQzNHa2tUSW16NFNJRFZqUVNoNHRYd0xkc3hQMVMtV3dvSDQ3NjBaTHg2VFIxQWJOdk42ZlJXdGpxcmlaY0FfV2l2WkF0X0NjVkI0Ym1ya29qeEswalhXdUxlZUlWOTJwS3VWSFFoZGJUUlowbG9NRmtURnZObVZpVU5MTTFKYm1qNjVmT3hYYUZXa2lMQjZqNS1wYnZ6V28?oc=5",
+   "source": "Renewables Now",
+   "date": "2026-10-15",
+   "img": ""
+  },
+  {
+   "title": "DP World Names Varsamidis to Lead Asia Pacific as Regional Logistics Network Expands",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZjE4VXlYTzcyUHk0VTFFMFVielFGV0RKcFliMmRtMlVsVnNnU01La0VFVy14LWo2cm1YcmxtckVWOUtJMWFyN2ZPZG1oN1QxaDE1UXI3VVh1X2w0cE83N0RtOGNuR2Nmek5sd3JzVlV4ZHB0UWY0Vmp6YVpYXzF2UU1PeVI3OGhKVXdOY09wSm1vSDNNSGRkdGtGc0dkUUJPUGVVa2xDazZ4b1lG?oc=5",
+   "source": "Breakbulk.News",
+   "date": "2026-10-15",
+   "img": ""
+  },
+  {
+   "title": "DEME Secures Turbine Installation Contract at Zeevonk Offshore Wind - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdHBCYzY5TXo3Tnh4aWVqTlZsZG8tQmFaNkdpcWRaWkhmVjF3ZFRVX2lmblFaVkJuWksxZ1d0X3dtZDRpWG4xUGI0aVU2MjdsaVhTRlFmZDBFNjEtVEFJbHRKd3J5RHNFb0xYa01aNzRaZTl5WEU5VmcxRDc0U1VVN04yUjBvY1VDOW9yajN0MEFBZw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-14",
+   "img": ""
+  },
   {
    "title": "Vestas delivers first V236 hub in Taiwan",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVhZVHZ3bWpnX3VyazlrWTFQeGEtQmdoYjNCOTU3cHkzcGFmcVJkaXd6enFzZHlGYzczcUpoaFpXbUdQcElwSV9mLUlqVHd4ZVg3RjZ6aHgwcWFFYTJCVTVJWnRoVV9fWmlVdFU0b21Wa1kyMjUwdEt2T1JDRzMwMl9Ic2U?oc=5",
@@ -70,48 +112,6 @@ window.NEWS={
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWJhbzlieTB6TFNWVmZvcmF6X2QwSEN4d3BMbjlhaDR6dVZudjNjWjlOVXBIaDlkT3Y2NVYyZml2ZWhYR0V6TzJ2NEVNZ3VoZUtpQ1h4V3dUSDFDRHg1SnA3MGtIb1pSU1lOMldWVjE5UWxCZHJyQ3d5bDl0T2QwLUdMbHRQUDlfSkhTdHdOZw?oc=5",
    "source": "reNEWS",
    "date": "2026-10-14",
-   "img": ""
-  },
-  {
-   "title": "DEME bags Zeevonk turbine installation deal",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmNveWo2QzNaSjdtMVRGNmxLdzlsS25lV1NXME0zSkNvMGd4QlVMamhyclEtb09xLWNlQTEzSWJxbWRKQmxBTGlNdGVmTDVJd2JMM3pjZGVpdnpkS011ZHQ1dWc1bC1iMjlpeDNwMURhekE0aXJPdHdHajJMRGVHT2tTOU02ZmJh?oc=5",
-   "source": "reNEWS",
-   "date": "2026-10-14",
-   "img": ""
-  },
-  {
-   "title": "Fitch Affirms Ageas’s Insurer Financial Strength Rating at ‘AA-’; Outlook Stable",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWHRVQURGaWZPWWVxUkNzYTFyZHFrM1BVYzVnNkdCMkFHanQyRkhXenphOGtXY3Z1Y0x5MV9FUnNhSlVMRGJZREdhQ1VfYXJlTWtKNFhEMDVhOTdPUVY2UDA0SDd2Y09RY2VQY2NHcjk5MUJqaVRCQWlrS1NCZEJZSUYzWDJHa2FBcWtRN3BWSVpLTGxPclpwVmhxUVpXSzVZUXJ4RVNBSkFtd0RWN3Y0S3BFcTJKeURSVlRMcm9zVllyU3JXX2tzWERYS2lQaWNPeXZsbHdjcXhDbDRYdHF5Tzh5ZHBiM3BP0gHoAUFVX3lxTE9YdFVBREZpZk9ZZXFSQ3NhMXJkcWszUFVjNWc2R0IyQUdqdDJGSFd6emE4a1djdnVjTHkxX0VSc2FKVUxEYllER2FDVV9hcmVNa0o0WEQwNWE5N09RVjZQMDRIN3ZjT1FjZVBjY0dyOTkxQmppVEJBaWtLU0JkQllJRjNYMkdrYUFxa1E3cFZJWktMbE9yWnBWaHFRWldLNVlRcnhFU0FKQW13RFY3djRLcEVxMkp5RFJWVExyb3NWWXJTcldfa3NYRFhLaVBpY095dmxsd2NxeENsNFh0cXlPOHlkcGIzcE8?oc=5",
-   "source": "The Manila Times",
-   "date": "2026-10-14",
-   "img": ""
-  },
-  {
-   "title": "Agencia Comercial Spirits Ltd Announces Conditional Land Acquisition for AI Computing Infrastructure in Indonesia",
-   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNeUxBRkh6NlpNUzMxZzdsVzJ4R2dPSTRNWVZWZll2M3VpX2hBN0FiaFZVRnMxejNKVUNGbkpvNjhxSkFiUXFKcGJRSHAtV3lfektrcFVNSUxUdWU5MU5TbTlST2xuUUk4SDc0Z1Y3RFJUcnY1cGZwdkc3c3RHQUF3Qy1tc0xBcDF3UjJPNmRZUlRWempUN1JfRkdHeERIZldLbUdLOERsQ3JxU0hqSVNYV3FmZnBrbEJSRHhnRlgxNUpEWTdEbzJpS2ZzNG9qbVNNOXJubFBJOURmRnhfSHhHa1NmYk1zZ01sNFpUN2p2Ui02T2ktWFkxcHYyeWdONnJycWJZVmM2X1ozR1I2NE9CdUtDLWN4SkV5cTdv0gGbAkFVX3lxTE15TEFGSHo2Wk1TMzFnN2xXMnhHZ09JNE1ZVlZmWXYzdWlfaEE3QWJoVlVGczF6M0pVQ0ZuSm82OHFKQWJRcUpwYlFIcC1XeV96S2twVU1JTFR1ZTkxTlNtOVJPbG5RSThINzRnVjdEUlRydjVwZnB2RzdzdEdBQXdDLW1zTEFwMXdSMk82ZFlSVFZ6alQ3Ul9GR0d4REhmV0ttR0s4RGxDcnFTSGpJU1hXcWZmcGtsQlJEeGdGWDE1SkRZN0RvMmlLZnM0b2ptU005cm5sUEk5RGZGeF9IeEdrU2ZiTXNnTWw0WlQ3anZSLTZPaS1YWTFwdjJ5Z042cnJxYllWYzZfWjNHUjY0T0J1S0MtY3hKRXlxN28?oc=5",
-   "source": "The Manila Times",
-   "date": "2026-10-14",
-   "img": ""
-  },
-  {
-   "title": "Offshore Wind Cable Protection Systems Market is Booming",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEd1VzdiNHdGZS16TmVsckFGTThVNjlISHdTTnlRMnNSNmVEcm9COENCS3pZMDZ5LW84LXNyN3hvODliVTU5NE1jRWF6UDRpNVFldVhsT1FlTENoM3NpRGJQLUI1MkZBdzBUQWVibFpvdUViOHBSR0Y3cXhtWFl5VjN4a1J5MXZydUFWMy1SdXBUQTV5b05N?oc=5",
-   "source": "openPR.com",
-   "date": "2026-10-14",
-   "img": ""
-  },
-  {
-   "title": "EDF Power Solutions Files 420 MW Balala Wind Farm Referral Near Uralla",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFRiY0t2ZS1iZ3hja3RfUEptMjhYSkszLUVvU2p6TUptSVVUS0JUNk1qX2FRUGJ5Z1AxcmRxWU44dUVFNGN6RlA0N2JlOUdCekplaks3cG92bXdLSUxTVjhkVUJBNEYtMkYyNFBNdXM3Z3RYdHpaZ0JEbzRubkxWZ3dDd1Q5Qkp6MjJYTS12ZDNQMUlOaVBfZU91U2k?oc=5",
-   "source": "energynews.pro",
-   "date": "2026-10-13",
-   "img": ""
-  },
-  {
-   "title": "Nutriband Inc. announces exercise of warrants at $6.43 for Gross Proceeds of $1,753,274",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMXZLNVhLaDJSVHMxQ216eU5BOTBKMXBJMlRjT253Vlc2RVp0d0wxYVRJdFYxejM5N2pSTjZoQUc1ZmxwZmdTQU1qTm1jUnVudVdlbDQ1cFJFd0I3ZGFtRVdVRDZZNUNVTElCNGlqR0xhaEJoTlk1cWJ2dXB0NF9GVE5COXpJbllvUTcwVlMzNzFwZUlRU2lfQTlDRjVtODlVQk9KSTBfQ3h2M2tuWFZ6OEtVaklvOVlEd2xTNE9uc2wyOFB5LTJBWXNwTTZNeHFDU1lrMG9wUHpyNGRDTkt0ODhhYm1DUDlaZkwwMmw0T2zSAfABQVVfeXFMTTF2SzVYS2gyUlRzMUNtenlOQTkwSjFwSTJUY09ud1ZXNkVadHdMMWFUSXRWMXozOTdqUk42aEFHNWZscGZnU0FNak5tY1J1bnVXZWw0NXBSRXdCN2RhbUVXVUQ2WTVDVUxJQjRpakdMYWhCaE5ZNXFidnVwdDRfRlROQjl6SW5Zb1E3MFZTMzcxcGVJUVNpX0E5Q0Y1bTg5VUJPSkkwX0N4djNrblhWejhLVWpJbzlZRHdsUzRPbnNsMjhQeS0yQVlzcE02TXhxQ1NZazBvcFB6cjRkQ05LdDg4YWJtQ1A5WmZMMDJsNE9s?oc=5",
-   "source": "The Manila Times",
-   "date": "2026-10-13",
    "img": ""
   }
  ],
@@ -145,19 +145,19 @@ window.NEWS={
    "img": ""
   },
   {
+   "title": "Cadeler's Nexra, Vattenfall Sign MOU for Offshore Wind Maintenance - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNE5fX0dFb2sxaC1ydXl6RjZuS2VoMFg0Ri0tVm1OSFNhc1lTdFdIODVOYWJ4bTRfdnV6RnJQMEdBYTItdFNEbnEzWDhQOElKZGZxRnoyLVRjaExRejMwaTlrTHJBM0h1aTRaSEdJSng5LS01bWxPaWN0LTQ1WDRaSjJBUUZjTDN3ZUVtMEdPTG5yRDR5d2xWMDVtc2xQTnNSVDREdWllNVRhMm83cHpZX3JIX1dUc2J6OWtRLU13?oc=5",
+   "source": "IndexBox",
+   "date": "2026-09-21",
+   "img": ""
+  },
+  {
    "title": "Vietnam-Made Cable Layer Enters Into Service in Taiwan",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObFlkWGNZMEZwY2hiVWZBbGpZZWx5MnFMSEJCV08tYTlOVGRETExwUXNrTWVrRkszSEFQNXM5cU5aeHFQN3hOcWQ4bzd2RDhOdi0yMGNSZjFwazRnZkFoZ2x0djZMTHhCODZoVXFoX0V0VlI5aXRSc0wxbnZwdDVkUnBESEhtTnI0b28wR1ZiVWlDUl93?oc=5",
    "source": "Offshore Wind",
    "date": "2026-09-18",
    "img": ""
-  },
-  {
-   "title": "First Turbine Up at Vietnam's 128 MW Nearshore Wind Farm",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX3hmUFNTM1JqRUZhaDNIVVZxTHdGWHBxZjFfc2FBM2Q4bEhGTndBWWFrX2twampHenJxeF90dDlYSGRJU3JrNmhscEZEV251dGVCV2VGaG5PODdKZVIxLXFfMHFoa3A0TC0wQVRxTk1zem5lMmdkVkZaQW9GVGNrQ0NlLXlMNVBBVm42RHlMTVhXZmZkeHc?oc=5",
-   "source": "Offshore Wind",
-   "date": "2026-09-16",
-   "img": ""
   }
  ],
- "updated": "2026-10-15 00:10 UTC"
+ "updated": "2026-10-15 23:57 UTC"
 };
