@@ -1,6 +1,48 @@
 window.NEWS={
  "industry": [
   {
+   "title": "Equinor exits South Korean offshore wind market",
+   "url": "https://www.renews.biz/offshore-wind/equinor-exits-south-korean-offshore-wind-market/",
+   "source": "reNEWS",
+   "date": "2026-10-16",
+   "img": "https://www.renews.biz/wp-content/uploads/2026/10/credit-Equinor-300x200.jpg"
+  },
+  {
+   "title": "Northland’s Hai Long offshore wind project completes turbine installation",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0VBd3NIQlJLNUlsN01wY2F6RC15SkJWTmc3Uk5JWVp6ZFppblpUelAxRzJZX3JXRkMxR3hlUmdGS3FaeWp6OWcwcHdFZlhrd01DMWc0UGJrSXNRMmJzcEZ3MmRvN0syQmtPejVkOTBkUTRZakF0ZnUxNnlMOFNWai0zUmNxMG1WcmlXM3hKSFlPblljWTNZNWhxeVg1cGxuYWU3M1pCcHRpSUl4NEFfWHdsdUNrdFE?oc=5",
+   "source": "Energy Global",
+   "date": "2026-10-16",
+   "img": ""
+  },
+  {
+   "title": "Korea's Offshore Wind Takes 10 Years to Build, China Just 4",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGVWNGpOS2k0V1RjMjEydzNUeVpkNXJ2Zmk5UnlmUGVoVVhERkxYQjNGdzNZcVQxc1F5cjZrTXllTkxSTklKbTdiZkwtaWZlWmNyV18yOGpwblpSemxENlBrLUJ3M2xYWHRSV20zSzdsWm52ZmpFa1J4d2lVX2NuSWtvY1V0a0JuWm43cXVQWTAycmFmMktsWGVZSzk3YjJoeEE?oc=5",
+   "source": "Seoul Economic Daily",
+   "date": "2026-10-16",
+   "img": ""
+  },
+  {
+   "title": "Taiwan labor groups allege offshore wind firm underpaid contract workers",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RYVd0U0lOT2c2UGZaT1VsckdiR1l5YUdTSlVDVEh5WHhEOHBiTWxYVGVhaVVIYi1LR1RxZDF6QWY4ZjktNFhfN0JkMDVmM2V2LXRHN1BJSXk?oc=5",
+   "source": "Taiwan News",
+   "date": "2026-10-16",
+   "img": ""
+  },
+  {
+   "title": "Offshore Wind Milestone: See What Northland Finished in Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXRNakx4ek1yMkU0Z1dqLWJLZjhrM3Y0Rm5xZXNzdl9iRmptN1J1U3o4enhES1VqSnpmaGk1d2c0SnYyWU13VVc2alBFX3kyVTR5RGZtQ1VqRERXeTE5TXhKT2tWZlZPd2ZGaW1nZnlUR1FoajVmX0xrTkY1STc0Z3Y3NkpESHRlaURzRWRENHhFb0xDWkEweW85Nzg3YTNZVUJ5alN3?oc=5",
+   "source": "Kalkine Media",
+   "date": "2026-10-16",
+   "img": ""
+  },
+  {
+   "title": "Floating Offshore Wind Is a Game Changer, Munmu Baram CEO Says",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVBDUUdybjNNd1ZFVXhGZ2o3Z3NNam10bU1xOXk0RjFlSTJNSWlIbXA3MVlXM1lVaHk0VVFHc0VmZFF2U2hvdXdJQ0szeEJZZ1dndFQ4aDBHR3drMWFobzVNUDFWYl9SN241VmdRWDlhWUVmYXZVNTRLTDEwWE9tVHpLVHFFVDhKQk1XaDU3alUxUmUwQkxMUGhUMVU3LW8?oc=5",
+   "source": "Seoul Economic Daily",
+   "date": "2026-10-16",
+   "img": ""
+  },
+  {
    "title": "Tokyo Gas receives AiP for floating offshore wind power generation facility",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWVBRlRRc21Xb0dBaUZlbklfTWtsVjUtSDNna3JLYzdzdUxrVnpBQ3cza0VzTmhoanIwMXJRSmFOc3JLYVBaWDVzZGtfU2FMcmQ5azFXRllVemJzTXptYnVpY0EtNTNKUmZlQXU1M0ozQ1FvMnBibkcxbDBpSWZFbXdxdHhTME9tS3l1MjlQVnVNRGxMNllrb00yNjkyM3hIV1dXSjF1Z3hFblFHT1VJcmdtRWhFV0FyRmU0?oc=5",
    "source": "Energy Global",
@@ -13,105 +55,63 @@ window.NEWS={
    "source": "Theinvestor",
    "date": "2026-10-15",
    "img": ""
-  },
-  {
-   "title": "Taiwan defends offshore wind tenders against CIP criticism",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTdmNFdPbWNER0NPZGkwV1U0NmRxRnRhVTZ2Nl9wZW1PcjJ2X2c0SV9Yc21FdWhNdlRwc2tXRURTSFc3MXFWcEhHVERTdU50anhOZGo2aEh0MkNlSWQyVnUtWjNJWkh0NGM3cm5wa291Ul9FZlhydVZiN3pUajV3aWM0SmlTdmNoMUVNSjk4enA0aFlkOG84NzVaazFKWDFFS1VkRlpYR3dNS3JJ?oc=5",
-   "source": "IntelliNews",
-   "date": "2026-10-15",
-   "img": ""
-  },
-  {
-   "title": "Northland’s Hai Long Offshore Wind Project Reaches Major Milestone: All 73 Turbines Installed and Generating Power",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcEFPRUpWOXdXZEhQX0laX3ZXbUpSd2x1N093aUdua0hWelVVWmtXdG42d1ZVSEx3T1VZbDc1M2IxdFhnOURsRnBaNGtuM0taemswemE3dzVNTDFISVQ5eThKbVU1Q2NDOWgxc19KakRTa1BYMkpMZWUzYmhqWHJtMVVpSWhOSlpMMWlMLTctVk96ZEFlUXJHdE56VnN5NG55UDRMenpXcDZZYW9ETHdXVW1XbUpsWFNqTmtuNzF0VFZ3eW9YZVJzRXoxT0h5STU4Y252RU9qVQ?oc=5",
-   "source": "Northland Power Inc.",
-   "date": "2026-10-15",
-   "img": ""
-  },
-  {
-   "title": "Global wind firms quit South Korea amid permits, policy, and cost hurdles - CHOSUNBIZ",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOF9Ja0hvQ1pqUlluZlJhaFdWV3BnMmd2eW85UzFJYVRVaDRLVVBzQjk5UzBXdk1ZVl9FMzJ0MTluVGxrdnBLc1pBLTJMcEF1NHNrSDR1VDdGUldoNUQxalVHNVktcV8teEc5SDJPV3E1YkFDWXN2SGt1Q3UwTnhZdVhDdFNfaXJEUVpaVS1JX2dfeWdQc0HSAZYBQVVfeXFMTThfSWtIb0NaalJZbmZSYWhXVldwZzJndnlvOVMxSWFUVWg0S1VQc0I5OVMwV3ZNWVZfRTMydDE5blRsa3ZwS3NaQS0yTHBBdTRza0g0dVQ3RlJXaDVEMWpVRzVZLXFfLXhHOUgyT1dxNWJBQ1lzdkhrdUN1ME54WXVYQ3RTX2lyRFFaWlUtSV9nX3lnUHNB?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-10-15",
-   "img": ""
-  },
-  {
-   "title": "Northland completes Hai Long turbine installation",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmNSUkNPQTR6U2lHWGdjam5mbzdyemdZaVk3RGpxWmFKLUNOZjd2M0JqdG4wYmhoOUFHa0V5NlQxaURPWk9RR3pZQUkwREZmNjZFNU5scG16bWFuZjlIc3hYSWxqTHlrOXZ5ejZrVkMxazN2bHVVSjdHV1Aya1ZYNXRvbXM1NmlhbTM3MjF5c3U?oc=5",
-   "source": "reNEWS",
-   "date": "2026-10-15",
-   "img": ""
-  },
-  {
-   "title": "Equinor quits South Korea after 12 years, citing offshore wind hurdles - CHOSUNBIZ",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc1pvY1pwVFRRUnY0NWRkZ1QwMkdSTFNOakNEVXJCb016ZWNNMWdrYzJrVnVoZmVXajE2SGltSzZSYlhRbjY1V0tET3NEX2UwMTZRM2dHWjNJRmp6Tl9zWUR1dUhzU3pDOGJKaWNIcmkxRmpGcklhNFlZQm5uRXg1cEg3cm44dmRZc0RkZnJ3S2JFVjBJRkHSAZYBQVVfeXFMTnNab2NacFRUUVJ2NDVkZGdUMDJHUkxTTmpDRFVyQm9NemVjTTFna2Mya1Z1aGZlV2oxNkhpbUs2UmJYUW42NVdLRE9zRF9lMDE2UTNnR1ozSUZqek5fc1lEdXVIc1N6QzhiSmljSHJpMUZqRnJJYTRZWUJubkV4NXBIN3JuOHZkWXNEZGZyd0tiRVYwSUZB?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-10-15",
-   "img": ""
-  },
-  {
-   "title": "Business Lobby Flags 75 Rules as Unreasonable Burden on Industry",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOG94Z2RiaUtna04wd083X3ptOHpLSnFSdm4wYTRyMDR3N0NnaFhDNmNYeEtGaWdfQ1RqOU5xTUwyUl82c3h3bW9hVkVFZENxb2VRSjhCaFp0aXdlYVM3UWRpVElkNFdSWHplYUFoNEx0STRjaEdPakowNXdRbF92VnFLZ19HZVpqNkprSzIwOUFoSjZGZEtycnRLTXVHTUxFT3c?oc=5",
-   "source": "Seoul Economic Daily",
-   "date": "2026-10-15",
-   "img": ""
   }
  ],
  "competitors": [
   {
-   "title": "DEME to install offshore wind turbines at 1-GW Zeevonk Phase 1",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHUyaHJfSzJ6M01WajRsOUtKczlmUE4zUnV3dnlyNEJZSDh1aUlmdmtnQ0QweGVUVXZ1N3VxZktPYUhTdFFXblh3YV94QjJ0WVJRX3ozbGVCQ2tWalFjVThwMnF4NlJhbngydS1SZEZFVmN5a0lGbk9PNThPcXR1ZXFfeENNbnpVUGVqYjhONjlyaFpxRXBWZHlwOUxVNnRLbG1fMA?oc=5",
-   "source": "Renewables Now",
-   "date": "2026-10-15",
+   "title": "Northland’s Hai Long Offshore Wind Project Reaches Major Milestone: All 73 Turbines Installed and Generating Power",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTMweDRZNFBVdEpQMWw1bE5Hc2F6Q0g2Nmptc0VKU3lHWU8yU0lRdktqUzU0VTUycTFGcGhwRWQ0RkZwVGFCdzNXTTVFdXJMLTNKbEIwaHhVc2JvaE1tS3BSRF94MFVPamJLN2haSzhjbDAyODdLeE1mN3V4R2l6ZWpDTWVlRVZRLVY0MEttQWJSOWpvTkJDVXB0Q2V6S3ViMlRrNmM0a2pScmNON0E?oc=5",
+   "source": "Offshore Engineer Magazine",
+   "date": "2026-10-16",
+   "img": "https://offshorewind.biz/api/media/file/Hai-Long%20_%20Northland%20Power-1600x696.jpg?prefix=media"
+  },
+  {
+   "title": "All turbines up at 1-GW Hai Long offshore wind park in Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zcGc4TWlFMTdmTzdheWZSXzVJR3NkYS1hdWRxQWtzckZsNnlTVlo4UHJRNUdOdTFTZXZuaVByb0hrTVQ5UnJ1S094UXVIR3hJeVpVNjdrTHRmcFk1YTYxVkUzMDdLTnpPMDlpZERsTVhSM21RYnp0enU2MXlHS3M?oc=5",
+   "source": "Inspenet",
+   "date": "2026-10-16",
    "img": ""
   },
   {
-   "title": "DEME adds turbine scope to Dutch offshore wind farm job",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVdqQ25UZDNDY3pVVDdNaERIU1BEOUJLUFI1dW9EZzhOOXl1Y1RPVGVEUzJBcVdsVlpJT0JCWnhhN3lsYmo1dnRhdHNFc0pyMm9nOUdmN3FDc21RczNoT2JDUkFrR0R3RzN5X2pPTE1ObEJIR1VwWWJrZ1VYYmVpWjdBZjA?oc=5",
-   "source": "Splash247",
-   "date": "2026-10-15",
+   "title": "Taiwan defends offshore wind tenders against CIP criticism",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzlDMWk2bUlPcUc1RjFZaU8tc0VmMnhJQlZERjFNeVlaYjhuRUxGdzlFX0E0ZDRrQTdkeFVfVnJkSFpjOUMzQUQwUXcyeWlKQlI5VWczQThvNG5ydzB0WDE3NFJ3dTROMWpDUEwyc1dhVW1uQWxIN2tyd25fSEROMTNrRmdOVWc4SXlPYUtrTU5jYVVPbFNqOFJub3lrbzRacC1hWVVTWQ?oc=5",
+   "source": "Ocean Energy Resources",
+   "date": "2026-10-16",
    "img": ""
   },
   {
-   "title": "Acciona Selected for Victoria’s 2 GW Offshore Wind Transmission Project",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVV9oS0EwOUpnWUJFempMT3hDTnJqWmVDVDF1dVRrRWM5QUs0X0FpaHBlaWpJY21BZjB6QWlDSVRpd2JBYUFwSWdaTVdpM0R0X1J2NGRTemJvTHYzRUFzUDh1R25FOC1SX2Vaa2R1elBkM29rTTlteHpuSmtkWm52T3ZLUWI2eEVJMGxvb3ZueERWMXNJWlJvQkhHNTJQTUdrWTdQTnRRYXVnS21CLTBz?oc=5",
+   "title": "ACCIONA Lands 2GW Offshore Wind Grid Deal in Australia",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjNadTJSRXZaVG5RcXYzNmp1bVNHWFZ5aGJfZGo5blBxOVhfR1lHbGNYZUs4OVMxMWsxUEhRRWZfaURQSS1QUTF0WUVvYm9QV1JlbTBoY0J2NldkSE9aUmhiZVZWRmJaSklJVlVDWmRlcU1xbU02SXVoVVdTaWJKTGFxbk9MclZzU3Q2aUMyeEJNV1ZvcVlIMVRIX0E?oc=5",
+   "source": "Offshore Engineer Magazine",
+   "date": "2026-10-16",
+   "img": ""
+  },
+  {
+   "title": "Canada Pledges CAD 100 Million to Advance Nova Scotia’s Offshore Wind",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZkw5STdrcW5rREl4X2stUFZfTkhfRFZVYWp1UkJDR2hqYkdWdHhiTVo2UXZEa1lHRkQ5eHZtWFA3TXdCMFRncEczS2wybWptay12bkRRdmQwZ25KWEhTY0lDcGhPRU9TbzFEM2tyam1PT1Z6MjZaTlA0M0NtZmYwdm01TDVrQlFjeGhIQjNZdDJfR1NJSGJhb0twaGJmWTlUUmZLeWVHSlRoSXRP?oc=5",
    "source": "Offshore Wind",
-   "date": "2026-10-15",
-   "img": "https://offshorewind.biz/api/media/file/VicGrid%20-%20Gippsland%20offshore%20wind%20transmission%20project%20preferred%20route%20map-1600x1054.jpg?prefix=media"
-  },
-  {
-   "title": "Acciona picked to develop 2-GW Gippsland offshore wind transmission",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNmFWRWViNV94NDQyQzNHa2tUSW16NFNJRFZqUVNoNHRYd0xkc3hQMVMtV3dvSDQ3NjBaTHg2VFIxQWJOdk42ZlJXdGpxcmlaY0FfV2l2WkF0X0NjVkI0Ym1ya29qeEswalhXdUxlZUlWOTJwS3VWSFFoZGJUUlowbG9NRmtURnZObVZpVU5MTTFKYm1qNjVmT3hYYUZXa2lMQjZqNS1wYnZ6V28?oc=5",
-   "source": "Renewables Now",
-   "date": "2026-10-15",
+   "date": "2026-10-16",
    "img": ""
   },
   {
-   "title": "DP World Names Varsamidis to Lead Asia Pacific as Regional Logistics Network Expands",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZjE4VXlYTzcyUHk0VTFFMFVielFGV0RKcFliMmRtMlVsVnNnU01La0VFVy14LWo2cm1YcmxtckVWOUtJMWFyN2ZPZG1oN1QxaDE1UXI3VVh1X2w0cE83N0RtOGNuR2Nmek5sd3JzVlV4ZHB0UWY0Vmp6YVpYXzF2UU1PeVI3OGhKVXdOY09wSm1vSDNNSGRkdGtGc0dkUUJPUGVVa2xDazZ4b1lG?oc=5",
-   "source": "Breakbulk.News",
-   "date": "2026-10-15",
+   "title": "DEME Lands Turbine Installation Deal in Netherlands",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSkZ0TDJGX3g4OHlrMXVLU3duTXNURDJHbXNYcTBXOVhGeDlpTy1nRTJkVUc5U3VTOWU1dFFCQlFEUFFHeERidUpuYms4UHNwdFpEeGs2czBVZzloYWJFdVg1aVBObl8zM1B4cGJxRkVHcWMwSFdEcWg5Vzc3UWFiWQ?oc=5",
+   "source": "DredgeWire",
+   "date": "2026-10-16",
    "img": ""
   },
   {
-   "title": "DEME Secures Turbine Installation Contract at Zeevonk Offshore Wind - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdHBCYzY5TXo3Tnh4aWVqTlZsZG8tQmFaNkdpcWRaWkhmVjF3ZFRVX2lmblFaVkJuWksxZ1d0X3dtZDRpWG4xUGI0aVU2MjdsaVhTRlFmZDBFNjEtVEFJbHRKd3J5RHNFb0xYa01aNzRaZTl5WEU5VmcxRDc0U1VVN04yUjBvY1VDOW9yajN0MEFBZw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-14",
+   "title": "Taiwan's 1GW Hai Long Offshore Wind Farm Brings All Turbines Online",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONkVkNmVZN3RCeWZ0UVNuZUtTWDdHV1Q3RFpNT2l6Wlg4UHFXY2wyb1lEOXZqTXhPS0JOck9xNTFzY0lrWUdYRlNMdlB6STRoeDY3czlacFpKdGhyWU5KdGZES0xNUUdEUjYyV0s2aGhFOXNuY1ZkNjRzOHo2RVRsV0FMTG1BZw?oc=5",
+   "source": "Power Technology",
+   "date": "2026-10-16",
    "img": ""
   },
   {
-   "title": "Vestas delivers first V236 hub in Taiwan",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVhZVHZ3bWpnX3VyazlrWTFQeGEtQmdoYjNCOTU3cHkzcGFmcVJkaXd6enFzZHlGYzczcUpoaFpXbUdQcElwSV9mLUlqVHd4ZVg3RjZ6aHgwcWFFYTJCVTVJWnRoVV9fWmlVdFU0b21Wa1kyMjUwdEt2T1JDRzMwMl9Ic2U?oc=5",
-   "source": "reNEWS",
-   "date": "2026-10-14",
-   "img": ""
-  },
-  {
-   "title": "Taiwan president backs renewables drive",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWJhbzlieTB6TFNWVmZvcmF6X2QwSEN4d3BMbjlhaDR6dVZudjNjWjlOVXBIaDlkT3Y2NVYyZml2ZWhYR0V6TzJ2NEVNZ3VoZUtpQ1h4V3dUSDFDRHg1SnA3MGtIb1pSU1lOMldWVjE5UWxCZHJyQ3d5bDl0T2QwLUdMbHRQUDlfSkhTdHdOZw?oc=5",
-   "source": "reNEWS",
-   "date": "2026-10-14",
+   "title": "Innovation Defender: Zhenjiang Yanyang Fortifies Dredging Equipment Brand Moat with IP & Global Compliance - The Courier-Journal",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORUxRM0lXU2s3alFXZE9CcEthSHd2VkJ0WWdINy1LR21yTHh5OVIzd01vSVZBTUhacnpQdTJOV1Z0MnN1LWNzLXQwY0NTOHFJVGNuWDV0cjBkQ1pNdVVtMUdkNlQtYUE3SkJSS0ZNS1BYQ0xfYVU3X2w5dmtHYk4xYXRpTnp5c3RzT3F0WXdzSEZkRjJHWXpSQ1JSdnMzakVETW1ObTA4UHBWNjM1U0JEUHZ3NlpiSEJzbk5XS3BrNmktWTVla1laTjlJc3BMTFFLSHB2OW5RdkZWdkFCNkwxT1JnakRRRjlKTFhKYnJjMzFWZ3pUNGc?oc=5",
+   "source": "The Courier-Journal",
+   "date": "2026-10-16",
    "img": ""
   }
  ],
@@ -159,5 +159,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-10-15 23:57 UTC"
+ "updated": "2026-10-17 00:02 UTC"
 };
