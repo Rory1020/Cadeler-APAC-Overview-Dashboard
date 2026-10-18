@@ -1,6 +1,13 @@
 window.NEWS={
  "industry": [
   {
+   "title": "Natural Gas Project Paused After Greenpeace Protest Off Western Australia",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU05BWjdUc1JRRUh1OWFvMl8wZlNmQi1wU0Y0eHhWa1ZnVnJyME9tRlBkcGhESU5UTkxKNWowMDBEcC1CalZuOUJONXJrXzRyS0ppSjk3MmFtNXR0ekVHaTBOU201a1ZfREhGZjVCbmhoeHlDRjQyM2ZuVnk3QXBfSU9MTHNOLVVMazQ1emNab2hmRE1SRHU0aUlYUQ?oc=5",
+   "source": "gCaptain",
+   "date": "2026-10-18",
+   "img": ""
+  },
+  {
    "title": "[Energy Odyssey] 13: Can South Korea, the \"Land of Wind,\" Become an Offshore Wind Powerhouse?",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yQTI2VUthYnVZTHZIVVZTV1ZTclgta21VUzBtbkdCRWxWQnFsdUtJaEdzTjA5U01hMkVJckIyWGhrN1R4VE5ZNnNDeWM2UEhDbWRucEhtQldkSUFpdHczcU9DSmQ?oc=5",
    "source": "아시아경제",
@@ -27,13 +34,6 @@ window.NEWS={
    "source": "reNEWS",
    "date": "2026-10-16",
    "img": "https://www.renews.biz/wp-content/uploads/2026/10/credit-Equinor-300x200.jpg"
-  },
-  {
-   "title": "Northland’s Hai Long offshore wind project completes turbine installation",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0VBd3NIQlJLNUlsN01wY2F6RC15SkJWTmc3Uk5JWVp6ZFppblpUelAxRzJZX3JXRkMxR3hlUmdGS3FaeWp6OWcwcHdFZlhrd01DMWc0UGJrSXNRMmJzcEZ3MmRvN0syQmtPejVkOTBkUTRZakF0ZnUxNnlMOFNWai0zUmNxMG1WcmlXM3hKSFlPblljWTNZNWhxeVg1cGxuYWU3M1pCcHRpSUl4NEFfWHdsdUNrdFE?oc=5",
-   "source": "Energy Global",
-   "date": "2026-10-16",
-   "img": ""
   },
   {
    "title": "Korea's Offshore Wind Takes 10 Years to Build, China Just 4",
@@ -73,13 +73,6 @@ window.NEWS={
    "img": "https://offshorewind.biz/api/media/file/Hai-Long%20_%20Northland%20Power-1600x696.jpg?prefix=media"
   },
   {
-   "title": "All turbines up at 1-GW Hai Long offshore wind park in Taiwan",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zcGc4TWlFMTdmTzdheWZSXzVJR3NkYS1hdWRxQWtzckZsNnlTVlo4UHJRNUdOdTFTZXZuaVByb0hrTVQ5UnJ1S094UXVIR3hJeVpVNjdrTHRmcFk1YTYxVkUzMDdLTnpPMDlpZERsTVhSM21RYnp0enU2MXlHS3M?oc=5",
-   "source": "Inspenet",
-   "date": "2026-10-16",
-   "img": ""
-  },
-  {
    "title": "ACCIONA Lands 2GW Offshore Wind Grid Deal in Australia",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjNadTJSRXZaVG5RcXYzNmp1bVNHWFZ5aGJfZGo5blBxOVhfR1lHbGNYZUs4OVMxMWsxUEhRRWZfaURQSS1QUTF0WUVvYm9QV1JlbTBoY0J2NldkSE9aUmhiZVZWRmJaSklJVlVDWmRlcU1xbU02SXVoVVdTaWJKTGFxbk9MclZzU3Q2aUMyeEJNV1ZvcVlIMVRIX0E?oc=5",
    "source": "Offshore Engineer Magazine",
@@ -113,13 +106,27 @@ window.NEWS={
    "source": "The Courier-Journal",
    "date": "2026-10-16",
    "img": ""
+  },
+  {
+   "title": "Greencoat UK Wind Buys Remaining 20% of 96.4 MW Wind Portfolio From EDF Invest",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONUJsVGpDcU43LTZIa09PRl9oc3Bta0d0UmYybWlhbXJ1Zll4OEd5dzBDRmZVRk5FNTVCVEwzNW1MeWpJNFJ4OHFTemNBbFZfNW9idjB3MnhURzJtQ2U3SUN5QllUSndLR0tISmY4cmJ4ZTczMWFHeXRwNElBN3dyWkZ5RV9xRVNNVS1FUVZ0aE54aWlsZ0RER3FiRjJSVGFWZFpJQg?oc=5",
+   "source": "energynews.pro",
+   "date": "2026-10-16",
+   "img": ""
   }
  ],
  "cadeler": [
   {
-   "title": "Cadeler A/S (NYSE:CDLR) Shares Gap Up - Here's What Happened",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlh0bUtpUDA3eTlXVktsS1RRWTV1LXZkNmQyTHZjeFlFY21nbU02WTFYQTNPejNIMjRUbTZkWG5WUHVBUkVwSm4tNjFKUmhhYloxc2JjQXZEV28wSUlIeHREXzFNb2g4ajJmX00tOXRhbVdZdk9hMWVZcE0tQTY5dVhzUE1CNDNnQVk3TjZWOVV3UElyOGNMMktRd2QtY2hUT1NMby1FaUNtM2cxczVDMlpmenA?oc=5",
-   "source": "MarketBeat",
+   "title": "Cadeler acquires Menck",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqcXpvUnYxNlJadDRtRGQ4RzJMT2FoRjhGMkJvdFQxcnJzWlNQeFpZVjJSdDJ3dXgzTU56T1FERDhwTkRNQl9CV05MZ0pxM3VUaFM2LXRqQmdXZnFzNmVoS204QTVKOEtIV3Q1MGJibw?oc=5",
+   "source": "Energy Global",
+   "date": "2026-10-18",
+   "img": ""
+  },
+  {
+   "title": "Why Did Cadeler (NYSE:CDLR) Shares Gap Up?",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVFXOFZmeWpFN18xSWx2eW1FeUxaMnY4cDZPTU01MlhQaGNGQVhmUURJbWM3ZXUzcFAteVpmWnh0X193bFZDUjA3T3ZtenZSRjlGSzVZVG1kMUNoZGRPSE90ZnNXY29TYkJXeWVhMGVuNjNBQlhnd05JNlNzVk5xbE0xVnFuLTk0b3Nibw?oc=5",
+   "source": "Kalkine Media",
    "date": "2026-10-14",
    "img": ""
   },
@@ -129,6 +136,13 @@ window.NEWS={
    "source": "offshoreWIND.biz",
    "date": "2026-10-13",
    "img": "https://offshorewind.biz/api/media/file/Hampidjan%20Advant-1080x1440.jpg?prefix=media"
+  },
+  {
+   "title": "Could Vattenfall Offshore Wind Deal Change The Bull Case For Cadeler (OB:CADLR)?",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0cyR2IzWURkQ0Y0c3R1YVNjTGNkMmd4Z3hJSDcxY3dlQkJVNnVtYk9mR3IxYjE2SjVjaXJOcHpQRnEzNk55NmZZVldkcXZPd0NPLVlObnVwNGl6U1FUSnRKUllVaHV2MmY4cFRKamEzZC1wV2kxZ0ktQnJ1RU9pSDRTQ3YyU0REMjBBMTVFNG03VlZlaDlvRm9OcGd0SU0xa0x6aFZTdDdaQ3FRMXZma0RsX1BwTjFseGFmXzJTYmcyclNIV2V2cWhROVNrTmps0gHWAUFVX3lxTE9YTkU1N1c3cUt0Y1VkV3cxZjJnZ0VCMFBKUkYxMkpiRnc3c1QwVW9QUERiUGl2bG9uc3FRY0pONUhVeWlCd2kxYmp4U0xSWXVqOUZOQjljZWVSS2MtUHkzbDc5OVBWLTFmQnRvRzVpM3d5a1dfZ1NQNDNpMEZvOWxJNURMX1FOS284d3B5aDF3YWJhbGlfbFdJNENHWTFtcFZWRVM1OXFnY3Y2N3NmM041SHNPdE9KMmlYY3JfSW16LUJXWW1WenBVaHpGTUhwRUFHZTJtSWc?oc=5",
+   "source": "Simply Wall Street",
+   "date": "2026-10-05",
+   "img": ""
   },
   {
    "title": "IMCA tracking impact of offshore wind expansion on marine operations",
@@ -159,5 +173,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-10-17 23:37 UTC"
+ "updated": "2026-10-18 23:47 UTC"
 };
