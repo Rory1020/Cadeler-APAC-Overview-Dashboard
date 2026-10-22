@@ -1,16 +1,51 @@
 window.NEWS={
  "industry": [
   {
-   "title": "New Zealand Opens First Offshore Wind Feasibility Permit Round",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnFwR1pBS1pUTGRIRHBNeTRlUHpTNUpBTGN0REZYSG55SWtFZzNPNXFQeFZPbDFTUnoyQ3psdnp4V19uU05MVU82Uk93eHduWXJTUVFqaDZFS2RTYnRBVkhKdDNXWDdfU29Hb3psOGZ6M2pWTnZGMlAyaFUxS05sNWlONkRrdkh1NEV2ckVLeHQxdUFVdzM5TkxwOUxiSGM?oc=5",
-   "source": "Offshore Wind",
-   "date": "2026-10-20",
+   "title": "Danish companies expand offshore wind cooperation with Vietnam during state visit",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWpoT19HSUIxdnY5TjVaMGRZcHNSdVVDclhtbDUyWkxSTXRKU3EtaVVWWEZSVWkzaFZ1N05CY0EwZnl2S2YyZFdDMFBpRUtrVVh5aENOYVVwd2hVY3lOeVdFbG02c0JHanJnU2t1b3JfNlprSjg0SWhHR3RnMWRyYzVDc09DZ1lvSm1aeVVVZWlVZXhVOFpQcE5YbEVxOFM2TjFRVy0yTQ?oc=5",
+   "source": "Scandasia",
+   "date": "2026-10-21",
    "img": ""
   },
   {
-   "title": "DemoSATH Floating Wind Project Enters New Phase with Japanese Partner",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1owYTlXanZjWGw5YnQ3ajJ6Ymk5MWduRTI2OF9scDh2TFpOY2otM3g2bTFUdWFBSHJpU09JSjVKUHFzbGhrejhqU2ptMHVHYlR0WWpmSldRMTNOZHhPRTVmTTFnS2FJYVNnT25XLS0zdUxvVUhMRWJlLUlIMy12aEV4V3ZWdEU?oc=5",
-   "source": "Marine Link",
+   "title": "Taiwan–UK Energy Dialogue Advance Collaboration on Energy Security, Offshore Wind and Carbon Capture Technologies - www.energy-omni.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JMDZGbnhNbU4yZkR0NnJWX3FzMjRhcjZHVW9yeDFSdlFVaEIzcEI5MG1Iek5VMC04UXEwYk05U0Q2a0JDUUFZdzZ3U1IxaF92U1BZaHR3bVVWdmZWN1lqdFJsd0lNNnM2TF9Leg?oc=5",
+   "source": "www.energy-omni.com",
+   "date": "2026-10-21",
+   "img": ""
+  },
+  {
+   "title": "Wealthy Chinese wind down offshore trusts ahead of tax deadline — The Japan Times",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDc1VFNqUzlHUjVReU94RVhBZ0c0bDBRWl9BYmwyemozcmIwWi12Mk1yVThBWGxEVU5tRUJ5aHZraGlLOHpNb3doSTRsdXViT2hvVTdKQ1JiY1A3UDktejRkaGwzUXpkbXg3M3NVMHZmUVdXc3NWYkcweHM2dHVUYXUtSmVqaGNRYk0wT3p3NjZULUM2VndvNENBMUZfRmYyamRHVFNnSmVTV2RGdU11VA?oc=5",
+   "source": "UA.NEWS",
+   "date": "2026-10-21",
+   "img": ""
+  },
+  {
+   "title": "Jeonnam Development Corporation, Gwanglim to Cooperate on Joint Development of 160-MW Yeonggwang Offshore Wind Project",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIOVhiSXhfQVZ0eWpic25ydl9PQVdlT2ltQ3Q1alIxcHh2d1E1VDJlWmJaczdjQUNhOGRkM2tkc0NXVi10SkFTa1NhVlhjRF9PQmx4dHo4UmJMd1FuQXJkc0lSTllFMXJKSThKQQ?oc=5",
+   "source": "아시아경제",
+   "date": "2026-10-21",
+   "img": ""
+  },
+  {
+   "title": "Philippines advances offshore wind push with port upgrades",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0p1VjFZcHpTMDQydF92andHVGxiQzVDSHQtRG5mTmstVTRIYjZzN1g0MkFyVlY5OWZYYTF5eUNIbzE1Nko3MG9YWU9Lc1d6WkZLWDZjNEctZEVpMThwUFJNaVVzR1dKUWlzMExRSi1IcXlodzBOM05EaEk5VjBwWGpmY0tHU1RLZmI3eVBMRmY?oc=5",
+   "source": "Manila Bulletin",
+   "date": "2026-10-21",
+   "img": ""
+  },
+  {
+   "title": "PETROVIETNAM is pioneering the development of offshore wind power in collaboration with Danish partners.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjY4Z3gxbE9SejJIV1RfVXdTdkg3ckVIdTBGNmdIRmZwSHZUN1RremJPeFM3NHB3QU1kTHlRSkRTYzNyT0VWUWJlVk40M003S3IxZVp6T0o3X2xmNk9ycXVwd2hfSmhFSXI2S3UwQmJ0R2pfeDg3SDkxOXlYVW5EckViVzd1OTNkN0w4Z3lpcWVXRWNaRTFvNzI4a2RXblBiMkZqS0l3TWNVZw?oc=5",
+   "source": "Vietnam.vn",
+   "date": "2026-10-21",
+   "img": ""
+  },
+  {
+   "title": "New Zealand Opens First Offshore Wind Feasibility Permit Round",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnFwR1pBS1pUTGRIRHBNeTRlUHpTNUpBTGN0REZYSG55SWtFZzNPNXFQeFZPbDFTUnoyQ3psdnp4V19uU05MVU82Uk93eHduWXJTUVFqaDZFS2RTYnRBVkhKdDNXWDdfU29Hb3psOGZ6M2pWTnZGMlAyaFUxS05sNWlONkRrdkh1NEV2ckVLeHQxdUFVdzM5TkxwOUxiSGM?oc=5",
+   "source": "Offshore Wind",
    "date": "2026-10-20",
    "img": ""
   },
@@ -20,46 +55,25 @@ window.NEWS={
    "source": "Vietnam.vn",
    "date": "2026-10-20",
    "img": ""
-  },
-  {
-   "title": "Taiwan offshore wind round attracts two project bids",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2pTRDRGSkg3SWgzeTF5cEdFRVVRVkY4MnJUcElTRVFhdHpDamU3SW9pRTk2TGNSbE5iX0Vyb0RXd3Izb0hEVmZmU1Q0R19QR3JnS1I2N0tzMjFjWTlUMVhFUzdCMVgzdGpEM1lWSjlmXzNfTWMyZW1xcFdLa1BRT2stTnhRb215MkZLLXVIYVhqMVRpeUc4Rw?oc=5",
-   "source": "TGS | 4C Offshore",
-   "date": "2026-10-19",
-   "img": ""
-  },
-  {
-   "title": "Norwegian business leader to discuss offshore wind in the Philippines",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVhwSGdGZ3pSZ0ZucmhpTjJnRUZJbFVpcHZkWld1dTNaZFZtREllYlJUWmI0dUZwc3FpSlpwZ1JxZEdtdlNFTUEyZFJiTU84bXNFemNGYU8xdjJHUFlzMFdUcDVHM2Fnd3NGTzhFQWZCbzNjdXZjZ1FfTm9JV1VPdkc4a2l4TFpqd19mZlZSTW5ubDh1UXg4?oc=5",
-   "source": "Scandasia",
-   "date": "2026-10-19",
-   "img": ""
-  },
-  {
-   "title": "Korea's Offshore Wind Costs Triple Those in Major Countries... \"Address Bottlenecks First\"",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRWgtX3lBR0UtWUtqY0VpWndpX3lDc0U3QW1qU21JSXh5b1RNUm1qZ3Vuam1NT1VlUXRVVE5ESXBoOTF6Um1Qb0Q2OW1vallZR1h6SmtTYjB4VU9oeXdDb1RIZkg?oc=5",
-   "source": "아시아경제",
-   "date": "2026-10-19",
-   "img": ""
-  },
-  {
-   "title": "Natural Gas Project Paused After Greenpeace Protest Off Western Australia",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU05BWjdUc1JRRUh1OWFvMl8wZlNmQi1wU0Y0eHhWa1ZnVnJyME9tRlBkcGhESU5UTkxKNWowMDBEcC1CalZuOUJONXJrXzRyS0ppSjk3MmFtNXR0ekVHaTBOU201a1ZfREhGZjVCbmhoeHlDRjQyM2ZuVnk3QXBfSU9MTHNOLVVMazQ1emNab2hmRE1SRHU0aUlYUQ?oc=5",
-   "source": "gCaptain",
-   "date": "2026-10-18",
-   "img": ""
-  },
-  {
-   "title": "[Energy Odyssey] 13: Can South Korea, the \"Land of Wind,\" Become an Offshore Wind Powerhouse?",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yQTI2VUthYnVZTHZIVVZTV1ZTclgta21VUzBtbkdCRWxWQnFsdUtJaEdzTjA5U01hMkVJckIyWGhrN1R4VE5ZNnNDeWM2UEhDbWRucEhtQldkSUFpdHczcU9DSmQ?oc=5",
-   "source": "아시아경제",
-   "date": "2026-10-17",
-   "img": ""
   }
  ],
  "competitors": [
   {
-   "title": "DNV receives authorisation for floating offshore wind rules in Japan",
+   "title": "Woodside trims output forecast even as oil rally fuels revenue leap",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVdDSU9RUGI0cVgzSGllZEZIUFRDUEUxLUNuZ2dzTHZjTGphUTc0VlVEck05UG1MQXRGZjFxZ2xUQ2h5aEZxc1hyOEQ5NzF3LXpaWDJSZG0yZkgwaG9GUWpCeU5XenYwR0xDU0JUOERqdktKSlRTb3k3eF9saVdoXzhROWNrZHRIZzZFZHE3RmdQVTR6RHg0MllYT3c4SzhlVm9NRGJ2X1FPYjlNVThlNmIyXzFSRmpsU0c0VklJaVRVbjhy0gHSAUFVX3lxTE1PdkVfOWlYOWFaLWp2TnpMNVdNbGtvYk1iZV9KRFEzMFRROVg3T3hnYVVaaXhfR2ExRXlpQ2tFanM1WWYtWDktaExBVC15dlRUa3JRZHYxNFdtaE1LdEk1VTV6dHVqT09xQTdYazhPUHNiVXBkWXNQRTc1ZFdwTHU2eTVPUUZJMkpqM01ydjVmTWRyRUhfeGs0ejh6N01Nb1BFTWJ3ZTJqQVVET3U0SU1MUmhYbkt6Zm43WkZLNEQzOWZOUmtOVHlBRTZPWk5qUkNIdw?oc=5",
+   "source": "Baird Maritime",
+   "date": "2026-10-21",
+   "img": ""
+  },
+  {
+   "title": "DemoSATH Floating Wind Project Enters New Phase with Japanese Partner",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemlzOHdPdEpyWWhqV0ZhSmxjVGF5UUpkTzZkT09hVkZMVlJhTm90ODVvT25XWkhuQWhod0NHcUItSVQ3UTJROEpLOEFnN2d1RkFqMDZmRTk5dHNQQTFHRGlpMG5QcGJJRmx6WHZYaFRWSU9RRXZSUDVvUTdoYmt5QnQzWmhCNk5G?oc=5",
+   "source": "Marine Technology News",
+   "date": "2026-10-20",
+   "img": ""
+  },
+  {
+   "title": "DNV Becomes First Non-Japanese Body Authorized for Floating Offshore Wind Rules in Japan",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNktxeUdfZWNucTR3NmF1SXVXTy1SOTJTMmVBS2FiMGZaQ24tZjlPc1BmdGJZRXN5WEpVaHRFYVhESDczM0FaV2lMaWxZenVTVkhnbEd1ZW5aRV9YR21kVlVBeDBnSXdHTDQzZ2lMVkdWVHZsdTdYOEs2bG5GRGxwUERQOGxCdHg3cFhOc3lObUMwUQ?oc=5",
    "source": "Offshore Engineer Magazine",
    "date": "2026-10-20",
@@ -99,28 +113,14 @@ window.NEWS={
    "source": "energynews.pro",
    "date": "2026-10-19",
    "img": ""
-  },
-  {
-   "title": "EverWind Plans $10 Billion for a Data Centre Campus and Wind Projects in Nova Scotia",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUV8xVUczT3FSWWJwSV9IOXFuX2JVN0pMVWFHY3c1SVhtX0RORVVqNldLS2ptV1ZCcXpjUS1wZjRuXzB0bW5teGhJOHF1VFNieHJWQnpxOFQ0LVJlb2JKYmJ1TkdxbGUwV015ejZmTFFySGtZQ0ZfcjNiOHVLTTRkVEVnN0NObG1QSjVsRG1EdS03UlZscTFhSVRTOHdveDNXNHl1T3J2MTIyc2ZudlE?oc=5",
-   "source": "energynews.pro",
-   "date": "2026-10-19",
-   "img": ""
-  },
-  {
-   "title": "Top 3 Undervalued Stocks To Watch In October 2026",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSHFKa0RFMWRIczhvU2EzNjBHbFVTX1BIN3NvWkdVQmZOYlNBX0RELWtuWnFiMURsVFg1LXRmckNtTk1KaVNaQW02SFN2UGNZazViTWFUUkpxdG5Zc3Y2LVl1cTdRR2lZMjc3TFFpNnJxTE53bDZhY0dGUkRLX2JzY3F3YXVoaHVyZHVjTVVTSVJCZWxuZUk1VzN5ZVZEcUZtejdpd2NvTzRQVHRQY0VvSE50ZVVDdHlrSzhRa05QM0ptTHJ0R3o2MVBQZGd3OUV3MU84ZmNxZTV4SFHSAdsBQVVfeXFMTkhxSmtERTFkSHM4b1NhMzYwR2xVU19QSDdzb1pHVUJmTmJTQV9ERC1rblpxYjFEbFRYNS10ZnJDbU5NSmlTWkFtNkhTdlBjWWs1Yk1hVFJKcXRuWXN2Ni1ZdXE3UUdpWTI3N0xRaTZycUxOd2w2YWNHRlJES19ic2Nxd2F1aGh1cmR1Y01VU0lSQmVsbmVJNVczeWVWRHFGbXo3aXdjb080UFR0UGNFb0hOdGVVQ3R5a0s4UWtOUDNKbUxydEd6NjFQUGRndzlFdzFPOGZjcWU1eEhR?oc=5",
-   "source": "Simply Wall Street",
-   "date": "2026-10-19",
-   "img": ""
   }
  ],
  "cadeler": [
   {
-   "title": "World's biggest offshore wind farm battles CfD deadline as turbine troubles weigh",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1VqVUpRVnFzTFlDME8xM3RFY0VHNVZKVHg0NUo5VEtLLWplamVtazY2bEM4ZnBDbTRfbENVZzd5Y2I4T3EwMDAwYUxoM2gybkFnWTMxMmdjQXZPYmhKbnZpUUx3WTY5ZUdzZllaajVva25XbjN6RDI3UVZMS3J2OHdpY3dRWGxZVm45dlZxMkFqSlpVUHJBWlhMdHZoNjFLcUdoVWxaSnBDTDhKd0FMc0RpcndnSG9VRVRTZEg4S3poQWlFN0NlLTl5aWhFS0F5?oc=5",
+   "title": "Oil firm quits offshore wind as trailblazing project goes sour",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1BJYXgyRW9MTko5Z3RVNkZFMGRpX0R1WVlMdmo1N2lVYXlEbXR5WnRoQk9EMTgzS3RNcnZ5ZU1qaE5Vb1lveVFhM2c3cU9EUEJhcWhGYnMwVlFkNjdCdks2UXN3WUJ1Y290SFpaRkhCYlZKT3JfRTB5NWRpb2RobHpTVThqRE42WE9jZ0UxcU9Zd09ENnR2bWJXOU1xWkNaQmlIVlRLRTkwaUNUS0VwYTNzWVlKV0J4?oc=5",
    "source": "Recharge News",
-   "date": "2026-10-20",
+   "date": "2026-10-21",
    "img": ""
   },
   {
@@ -138,7 +138,7 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Why Did Cadeler (NYSE:CDLR) Shares Gap Up?",
+   "title": "Cadeler A/S (NYSE:CDLR) Shares Gap Up - Here's What Happened",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVFXOFZmeWpFN18xSWx2eW1FeUxaMnY4cDZPTU01MlhQaGNGQVhmUURJbWM3ZXUzcFAteVpmWnh0X193bFZDUjA3T3ZtenZSRjlGSzVZVG1kMUNoZGRPSE90ZnNXY29TYkJXeWVhMGVuNjNBQlhnd05JNlNzVk5xbE0xVnFuLTk0b3Nibw?oc=5",
    "source": "Kalkine Media",
    "date": "2026-10-14",
@@ -159,19 +159,19 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "IMCA tracking impact of offshore wind expansion on marine operations",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVmRQSDBiWDl4Z2Y0MnYtTGYydXFzYnNqallTUHFwSV85QVNkeTFXU0MzNlhLVE1UUUZEQ1FOY1RaVnQ5ZW0yVlNrTVZBN01BN3B3Q1NpWmdMYXRlYTNzRXpiTTFxMW5GQzFmMmltcGVsNXpXcHk1MHJOZXM1VFhkeXAzcGkwaE9ySzNqdHdrRjZlVkZMYzlfVFJnRkdWMmFEREZNZ0RBMjRxcmVFRzJENzdDLWxuWms2aUhlT3JSbXVGcDhYYW5xMkQzVQ?oc=5",
-   "source": "Offshore Magazine",
-   "date": "2026-09-23",
+   "title": "Cadeler (OB:CADLR) Expands Offshore Wind Services With Vattenfall, Is The Stock Undervalued?",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ0tfc29hRW82SDJ2TmVlMFVTSDAzX2NFMGlMSXU5a3hVaW43Q3NOQXBnQ08wMmNlS1RtMVdKTWZwV2pob0hvRkFzekFaVUxsdkdKR01qY2taa0Exc2FMX2IzQ3FrSDJ2bExoUVN6dFpLWE5Qa3dpTm9DZ3dOdEF6X2kyTVdsVV95dVdqOVFkWDhwWTEyZWlZckwyLVJtUzdRT2N1VG1IMGlNUG5OWFVhd04tUGxyUG51VV9rMkRTRi1ZWkJpOVZSYWlJY0xpYjRS0gHWAUFVX3lxTFA1dG4zc202Rl8xcXphbVRjUEt0eTRHZmY5a3hwSU96X3N2c1Mydm81WTNrTlNRLXlyb1JaV3k1R2FLeDlkMUExNlVaNHMySDZhZ2tESXJuRGNtSmlROEpDVU9nMzUxTm1GWURnX0d0RVJnRXJHUXpCT1JjdnRZZUxGQldEQ1hiVlhfcWpteXc4WXlTMWY3SndNRHJUc2MtN0V0X1lOUXNHRFlZY0JaWDZuZms0MkItMnZaQXhSaEVZZDhLaGV3d3hEdF9rNVNHSTE4Ml9oVWc?oc=5",
+   "source": "Simply Wall Street",
+   "date": "2026-10-03",
    "img": ""
   },
   {
-   "title": "Cadeler's Nexra, Vattenfall Sign MOU for Offshore Wind Maintenance - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNE5fX0dFb2sxaC1ydXl6RjZuS2VoMFg0Ri0tVm1OSFNhc1lTdFdIODVOYWJ4bTRfdnV6RnJQMEdBYTItdFNEbnEzWDhQOElKZGZxRnoyLVRjaExRejMwaTlrTHJBM0h1aTRaSEdJSng5LS01bWxPaWN0LTQ1WDRaSjJBUUZjTDN3ZUVtMEdPTG5yRDR5d2xWMDVtc2xQTnNSVDREdWllNVRhMm83cHpZX3JIX1dUc2J6OWtRLU13?oc=5",
-   "source": "IndexBox",
-   "date": "2026-09-21",
+   "title": "Fresh Chinese offshore wind push turns screw on UK",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXpnVl9nb1VSOE5QVHBmWE81SlJfUW1zM2EwbDdGOHhhTlJxcGlYTUpHNjhhSVVmZkJSOTZoQXZ0aTBrOV9RSDdKS0lmQkYxUWEwQkhvQ196ejhYZldabjItaEpvNzJjZTRyNWppUldKMzRzcFlPV0dxVlBRcjJHOFR6ejJvQ1BMbGFQZEpCWGx2NjVYLTlwUVRNQ2xMeEFCVUE?oc=5",
+   "source": "Recharge News",
+   "date": "2026-09-30",
    "img": ""
   }
  ],
- "updated": "2026-10-21 00:13 UTC"
+ "updated": "2026-10-22 00:18 UTC"
 };
