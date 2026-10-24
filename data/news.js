@@ -1,6 +1,13 @@
 window.NEWS={
  "industry": [
   {
+   "title": "Offshore wind power: An opportunity to unleash Vietnam's oil and gas industry potential.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTndVNGd0bW5WNWtXQ3otVWN1VmsyY1FmNGVsTnpOazhud0x4el9lUGpZUUtpZjBfTWUybHQwS0UxeV9nTkhueUhNbk8yV2tGVXRaamlobG56YXdJQXR6akxOMmtiQ1JwQ1NKYVc1QldpcUtBX2hrU2t2eTk0U2VEa2UzTnpyVkctdXVDVmpQM1pJdUhCSVN0S3Q4S2hveW9s?oc=5",
+   "source": "Vietnam.vn",
+   "date": "2026-10-24",
+   "img": ""
+  },
+  {
    "title": "CIP inks Vietnam offshore wind pact",
    "url": "https://www.renews.biz/offshore-wind/cip-inks-vietnam-offshore-wind-pact/",
    "source": "reNEWS",
@@ -23,15 +30,8 @@ window.NEWS={
   },
   {
    "title": "Taiwan, UK expand offshore wind, CCUS energy cooperation",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMWE3dGpqUUtBQnFEeXdQLVp3aXphb1Z1SlRtOVdMSEdLMUVpWnVYU2xaWkt4NWNEa2FZNWhfRDF5bThXaUdfVVFhem9tVkRTV19nUDZFczlpdjREU0xhTWlRRE55SmFxZkREVnB6S3F1LVhqejRyYTd0aHZLRFdqZjNCWkQwVUY5ZGdmT2Nka1FiNjVT?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEFSdDZ6X09ncGJFaXotbE9BZ0xlV3kxVlpBNC1CVzBxRTlMVk5VNG9IYnc0OHMtVkd5SU1lbVBQNjhYRVd5eXNOV3pSZnZQQ0gtdDc4eWxxNjhvNl9ZQlE3ck1rdUxUNjZlX21fUmhoeHIzenhVWE5zQmhzVnBCQ1N6b05XM3lLQnRuQmJFT2tTWFoyTnd5ZzRJUE1hSlU?oc=5",
    "source": "digitimes",
-   "date": "2026-10-23",
-   "img": ""
-  },
-  {
-   "title": "Petrovietnam strengthens offshore wind partnerships during Denmark visit",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTkN4amhsSVBONVJwYlFoajA1aGg2bnBpek05dVd5UGNrdmlvZDFJNW9ickRaQTVjY0tiM2pxYVlzU0t2VEF2V1RqRjBBV01DaHdTX3FLcEptaFNobG1YWXZ5TzYtYmc1NEhzaFdYVEtkakNaV292UWl5SHJBaXFodGJ3Z253cWRCRU5TYTd1Q2dGSXRrQk5DX05pT1llV3NaWFNlZlUzbVh6bnIwM3k4Y1Exbw?oc=5",
-   "source": "4C Offshore",
    "date": "2026-10-23",
    "img": ""
   },
@@ -43,16 +43,16 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "News Content Hub - Marco Polo Marine targets more work in the Korean offshore wind sector",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMVp2ekFUbmhNaU5jVTZ1ZFlsYzI4OGNwa29HeHFQUC1oaEJTUGkyd1IwcTJPZEdnVU11SUgyTDM1ZER2c3VuRDdlWVBjWS1ZMVV4bkRnekdPUHN3QnpSa1o1VG9UcjVXdENacmw5Wm95MUttcUpYZ1VCRWJCdkJhbExJbGFvbGhOY1NuNDlRblNLcUxNckhXYXJHbnMwd3pxM3ZoRHB0NjB0LUprRDB5R3ZYeXhtWUR5bi1N?oc=5",
-   "source": "Riviera Maritime Media",
+   "title": "Petrovietnam strengthens offshore wind partnerships during Denmark visit",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTkN4amhsSVBONVJwYlFoajA1aGg2bnBpek05dVd5UGNrdmlvZDFJNW9ickRaQTVjY0tiM2pxYVlzU0t2VEF2V1RqRjBBV01DaHdTX3FLcEptaFNobG1YWXZ5TzYtYmc1NEhzaFdYVEtkakNaV292UWl5SHJBaXFodGJ3Z253cWRCRU5TYTd1Q2dGSXRrQk5DX05pT1llV3NaWFNlZlUzbVh6bnIwM3k4Y1Exbw?oc=5",
+   "source": "4C Offshore",
    "date": "2026-10-23",
    "img": ""
   },
   {
-   "title": "JV between Marco Polo Marine and NSEL from Korea",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNE4wQmQxUi1VWU1pVmFjcERrM3U2OThoQU0zdEpYaDZFdGxEUDY2ZUh3STE4bzV3N21zb1l6RzNwdWhnd2N5WEM4TnJSdU9nNmZPZGRUeWNKS2NuLTJ4cFRkb0xrMl93T2RZTkxjMG81UVRPRWhtREVhMlo1RWhyaVJidlhIWFBURXVhNlJPWUtXeUI0bDgxQTZn?oc=5",
-   "source": "Ocean Energy Resources",
+   "title": "News Content Hub - Marco Polo Marine targets more work in the Korean offshore wind sector",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMVp2ekFUbmhNaU5jVTZ1ZFlsYzI4OGNwa29HeHFQUC1oaEJTUGkyd1IwcTJPZEdnVU11SUgyTDM1ZER2c3VuRDdlWVBjWS1ZMVV4bkRnekdPUHN3QnpSa1o1VG9UcjVXdENacmw5Wm95MUttcUpYZ1VCRWJCdkJhbExJbGFvbGhOY1NuNDlRblNLcUxNckhXYXJHbnMwd3pxM3ZoRHB0NjB0LUprRDB5R3ZYeXhtWUR5bi1N?oc=5",
+   "source": "Riviera Maritime Media",
    "date": "2026-10-23",
    "img": ""
   }
@@ -73,13 +73,6 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Marco Polo Marine expands Korean offshore push with new JV",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkRFM0FXOGN5c2ZEN3NBRW5hVlVVdGp6dVVVR3VIU0tlQWo5NXlnRV84Q1AzRktWeTFMZ28yZ1o2aFlZOTBWRlB6dHUtQWZfQzIxQjVXMUdfT3FfRUdGeVl1QWU5T2tLbkZJd3R5LXRIckh2QzZYWWFkZ1RGUW5oNTcyLU5tRVkx?oc=5",
-   "source": "Splash247",
-   "date": "2026-10-22",
-   "img": ""
-  },
-  {
    "title": "Woodside trims output forecast even as oil rally fuels revenue leap",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVdDSU9RUGI0cVgzSGllZEZIUFRDUEUxLUNuZ2dzTHZjTGphUTc0VlVEck05UG1MQXRGZjFxZ2xUQ2h5aEZxc1hyOEQ5NzF3LXpaWDJSZG0yZkgwaG9GUWpCeU5XenYwR0xDU0JUOERqdktKSlRTb3k3eF9saVdoXzhROWNrZHRIZzZFZHE3RmdQVTR6RHg0MllYT3c4SzhlVm9NRGJ2X1FPYjlNVThlNmIyXzFSRmpsU0c0VklJaVRVbjhy0gHSAUFVX3lxTE1PdkVfOWlYOWFaLWp2TnpMNVdNbGtvYk1iZV9KRFEzMFRROVg3T3hnYVVaaXhfR2ExRXlpQ2tFanM1WWYtWDktaExBVC15dlRUa3JRZHYxNFdtaE1LdEk1VTV6dHVqT09xQTdYazhPUHNiVXBkWXNQRTc1ZFdwTHU2eTVPUUZJMkpqM01ydjVmTWRyRUhfeGs0ejh6N01Nb1BFTWJ3ZTJqQVVET3U0SU1MUmhYbkt6Zm43WkZLNEQzOWZOUmtOVHlBRTZPWk5qUkNIdw?oc=5",
    "source": "Baird Maritime",
@@ -87,22 +80,15 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "DNV Becomes First Non-Japanese Body Authorized for Floating Offshore Wind Rules in Japan",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNktxeUdfZWNucTR3NmF1SXVXTy1SOTJTMmVBS2FiMGZaQ24tZjlPc1BmdGJZRXN5WEpVaHRFYVhESDczM0FaV2lMaWxZenVTVkhnbEd1ZW5aRV9YR21kVlVBeDBnSXdHTDQzZ2lMVkdWVHZsdTdYOEs2bG5GRGxwUERQOGxCdHg3cFhOc3lObUMwUQ?oc=5",
-   "source": "Offshore Engineer Magazine",
-   "date": "2026-10-20",
-   "img": ""
-  },
-  {
    "title": "DemoSATH Floating Wind Project Enters New Phase with Japanese Partner",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN01IZFQzY3lERTVSMHFiT0oyX1paeXhsWGp6V2hQdnMzUHVaZHVwNlBEMXhLcHFvbnVwQUZjeGlMazJJZ0lqRGU0Z2lkbXZTNXVMVi1yQ2ctM1g0R3AwNS0tTFJmRUk4b0J2d0p5U21mdGJpeGEzTGh5Z29nOXBxTkdZVFdXc0JrOUxpT1ZuMTh3SFd0NGg5NVY3ek1sVU95SUlMU0JIcnhDYWc?oc=5",
-   "source": "Offshore Engineer Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemlzOHdPdEpyWWhqV0ZhSmxjVGF5UUpkTzZkT09hVkZMVlJhTm90ODVvT25XWkhuQWhod0NHcUItSVQ3UTJROEpLOEFnN2d1RkFqMDZmRTk5dHNQQTFHRGlpMG5QcGJJRmx6WHZYaFRWSU9RRXZSUDVvUTdoYmt5QnQzWmhCNk5G?oc=5",
+   "source": "Marine Technology News",
    "date": "2026-10-20",
    "img": ""
   },
   {
-   "title": "Union Vega Offshore Orders Two Breeze-Designed PSVs, Options Four More",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXpiT2hMdGtMMkhTZVNWa09aUjc3UWdvMWtMVEpZbkJxSk9xemRlamlFMXNtT09CeGNMYzhNN0FDMkF6ME03ZXRNMThVa3Z2cnAzSGx4VlNnb00zTGFCNm92Y3d1bFdZdDMxcjJjQ0V5MGF2d0U2WjBGb294YThrYUhxQzd2SlFZcF9NckZnTzhYZnRZQjNyR1dYc1ppTDh3cjBVSks4Uk5pMW5OVDJvVA?oc=5",
+   "title": "Japan Clears DNV for Floating Wind Classifications",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNktxeUdfZWNucTR3NmF1SXVXTy1SOTJTMmVBS2FiMGZaQ24tZjlPc1BmdGJZRXN5WEpVaHRFYVhESDczM0FaV2lMaWxZenVTVkhnbEd1ZW5aRV9YR21kVlVBeDBnSXdHTDQzZ2lMVkdWVHZsdTdYOEs2bG5GRGxwUERQOGxCdHg3cFhOc3lObUMwUQ?oc=5",
    "source": "Offshore Engineer Magazine",
    "date": "2026-10-20",
    "img": ""
@@ -113,16 +99,23 @@ window.NEWS={
    "source": "energynews.pro",
    "date": "2026-10-20",
    "img": ""
+  },
+  {
+   "title": "News Content Hub - All turbines operational at Hai Long offshore windfarm in Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTE42cDFWR0lwTEEwakhYaDJyNlEwUkQwcVh2ZVVTSTJiRzZDRWdiRUJyMjFfS19ycG5uR3p0RW1taEVmSmc1bld1LTE4VE9oV0hMN0N0Tm9wU3YtVHNmTFVmUDRYS0NLMlBicThLSVR3U0lUblpWMlNmQVZYeVhOYjE0dVJCMzVNTEVaYUp4TnpYVUl1ZXZ6NTQ1RTJEOVlfajhaYWtaVDREXzk5TXoyUENwYW1GNXFqb25pd2NpYlhhTUEweEd0Zk5R?oc=5",
+   "source": "Riviera Maritime Media",
+   "date": "2026-10-19",
+   "img": ""
+  },
+  {
+   "title": "Victoria clears WestWind's Warracknabeal wind farm, exceeding 1.5 GW",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkNHNXBOdzNYdFV0VnhNWlczU3hkSDBSVlFBR2NZeTJORl9Hc0JLRExQTElhN2ZXTmtsTEw1UU93X0djQzEtdk5PYlRaNk5pNnc1TGNodjBWRDY4LUlQUkg1ZmhkZ1Fta2JSQlVra0FDek1hSkk3MlVfdmhYMXYwTV80ZVp6b2dBOTFveVUwaDBwb1ZLZmc?oc=5",
+   "source": "energynews.pro",
+   "date": "2026-10-19",
+   "img": ""
   }
  ],
  "cadeler": [
-  {
-   "title": "Why is Cadeler stock rallying today? By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlV2YTBkRml2SWRnRGVQZHFxcEk1OHQ1S0VfWFdDQy1vdXI4UEF6Um1DUkZ1T3dVWFpvdU1UT1FPMlAzSEJRNW9NeFVlQjBCZ1VkWE9BUGhIcmI5NnF2b2I1V09Oc3BZWU5aLUNjdi1zdDNJM1ZCb2JRdUJ6U0lsd0VCcVlJS05ScU9qME9MdHN6UElGT3oyLUVhckc?oc=5",
-   "source": "Investing.com India",
-   "date": "2026-10-21",
-   "img": ""
-  },
   {
    "title": "Vattenfall wind chief weighs Chinese turbine risks against 'carryover' gains of Europe",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1d1NmJBcHlNTkZpM2NMYVdSTFVyZ2s0YVNxM2l2cllfeEFETXQ0dk56YmxYWVB6bUZrNm5JdTRrX0lRNk5SUHlUV215QS1jT1ktOTYzaG4wdFFaSHB1OXdlbW50ZkwzR09MNUZQWFdSYmdsNFhFb05EX0ZvNFFEaFlTVV9vclZrV1NqZElIZ211U0UxQ2NDQ0FycFU4c1FBWGtHdU5Uc0JDdmZwb1EtQlV6ZWVUQmF2TmQtdWRJSDB3a2lObEpqeDY0T2tCTThjQmc?oc=5",
@@ -145,7 +138,7 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Cadeler A/S (NYSE:CDLR) Shares Climb 6.1% - Here's Why",
+   "title": "Cadeler A/S (NYSE:CDLR) Shares Gap Up - Here's What Happened",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVFXOFZmeWpFN18xSWx2eW1FeUxaMnY4cDZPTU01MlhQaGNGQVhmUURJbWM3ZXUzcFAteVpmWnh0X193bFZDUjA3T3ZtenZSRjlGSzVZVG1kMUNoZGRPSE90ZnNXY29TYkJXeWVhMGVuNjNBQlhnd05JNlNzVk5xbE0xVnFuLTk0b3Nibw?oc=5",
    "source": "Kalkine Media",
    "date": "2026-10-14",
@@ -173,5 +166,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-10-24 00:07 UTC"
+ "updated": "2026-10-24 23:51 UTC"
 };
