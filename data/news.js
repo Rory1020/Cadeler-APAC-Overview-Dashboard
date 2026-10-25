@@ -23,15 +23,22 @@ window.NEWS={
   },
   {
    "title": "Vietnam partners with Denmark to propel its wind energy ambition",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1N4dG5yQ2I3UF82c1dPNXVuS0dSMTJIQkxWS2dyV3RGalo0WmJZQTAwcUtnVTJLVVlMT1k1N0Fkc1p6RzN1QjNaMmhYQzJ4ZzBXaUNfc3JadGJXeXpUa1B3UFFaUFR4RFFCbERicmdrMzRYWWlyc1lJSC1TMHpQdTJMTzY4MVBKd3ZQdjlMYXdFSVh2R3E5dV9uNm56djFzbG9CMlg0eHRGM1ZFREJIY2ZwMNIBswFBVV95cUxPS1N4dG5yQ2I3UF82c1dPNXVuS0dSMTJIQkxWS2dyV3RGalo0WmJZQTAwcUtnVTJLVVlMT1k1N0Fkc1p6RzN1QjNaMmhYQzJ4ZzBXaUNfc3JadGJXeXpUa1B3UFFaUFR4RFFCbERicmdrMzRYWWlyc1lJSC1TMHpQdTJMTzY4MVBKd3ZQdjlMYXdFSVh2R3E5dV9uNm56djFzbG9CMlg0eHRGM1ZFREJIY2ZwMA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM0lBVDZtQWx4S1BwNFloOFVOUG1SM2VpOWpUekRfdFNfWnN1d29iTVRwdnFCWGRJamgxZTRKMV93VEpDZU5aMnJXYzZwb3NUbHpKeHJDaHVyMWVNU2tySm81VnM0djllVVRybVItUHBlcTdLR0g4angwT1ZEOGhJYy1sVXdsZExMR0loaVFMQi1la0hsM1cxeG1La1k0eThOVW9sNjBVOW9VNWN3N2Z6TDFZWdIBswFBVV95cUxPS1N4dG5yQ2I3UF82c1dPNXVuS0dSMTJIQkxWS2dyV3RGalo0WmJZQTAwcUtnVTJLVVlMT1k1N0Fkc1p6RzN1QjNaMmhYQzJ4ZzBXaUNfc3JadGJXeXpUa1B3UFFaUFR4RFFCbERicmdrMzRYWWlyc1lJSC1TMHpQdTJMTzY4MVBKd3ZQdjlMYXdFSVh2R3E5dV9uNm56djFzbG9CMlg0eHRGM1ZFREJIY2ZwMA?oc=5",
    "source": "South China Morning Post",
    "date": "2026-10-23",
    "img": ""
   },
   {
    "title": "Taiwan, UK expand offshore wind, CCUS energy cooperation",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEFSdDZ6X09ncGJFaXotbE9BZ0xlV3kxVlpBNC1CVzBxRTlMVk5VNG9IYnc0OHMtVkd5SU1lbVBQNjhYRVd5eXNOV3pSZnZQQ0gtdDc4eWxxNjhvNl9ZQlE3ck1rdUxUNjZlX21fUmhoeHIzenhVWE5zQmhzVnBCQ1N6b05XM3lLQnRuQmJFT2tTWFoyTnd5ZzRJUE1hSlU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMWE3dGpqUUtBQnFEeXdQLVp3aXphb1Z1SlRtOVdMSEdLMUVpWnVYU2xaWkt4NWNEa2FZNWhfRDF5bThXaUdfVVFhem9tVkRTV19nUDZFczlpdjREU0xhTWlRRE55SmFxZkREVnB6S3F1LVhqejRyYTd0aHZLRFdqZjNCWkQwVUY5ZGdmT2Nka1FiNjVT?oc=5",
    "source": "digitimes",
+   "date": "2026-10-23",
+   "img": ""
+  },
+  {
+   "title": "Petrovietnam, CIP sign agreement to develop $4bn Nam Trung wind project",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzg0eTR6WmM0TlM2TzlzMWNBOHdscGJzWkZQSldGX1pRLUQtaTRseDVNbDFUUzhiMXpVSzFGSzVhZzd2czYybDMyU3RucnAyYWVyMm1tT2hRWVppcGFVTmp0a3RJODB2RHVFS3k2NF9TQl80UFJiZERHQks2N3p2VU1GVzFwdnhQVnJ6cWh3?oc=5",
+   "source": "Yahoo Finance",
    "date": "2026-10-23",
    "img": ""
   },
@@ -48,16 +55,16 @@ window.NEWS={
    "source": "4C Offshore",
    "date": "2026-10-23",
    "img": ""
-  },
-  {
-   "title": "News Content Hub - Marco Polo Marine targets more work in the Korean offshore wind sector",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMVp2ekFUbmhNaU5jVTZ1ZFlsYzI4OGNwa29HeHFQUC1oaEJTUGkyd1IwcTJPZEdnVU11SUgyTDM1ZER2c3VuRDdlWVBjWS1ZMVV4bkRnekdPUHN3QnpSa1o1VG9UcjVXdENacmw5Wm95MUttcUpYZ1VCRWJCdkJhbExJbGFvbGhOY1NuNDlRblNLcUxNckhXYXJHbnMwd3pxM3ZoRHB0NjB0LUprRDB5R3ZYeXhtWUR5bi1N?oc=5",
-   "source": "Riviera Maritime Media",
-   "date": "2026-10-23",
-   "img": ""
   }
  ],
  "competitors": [
+  {
+   "title": "Offshore wind power in Vietnam: Opportunities for investment cooperation with Norway.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0phTnRZbGIxa1pxbmljWVE3bkpsWlZCaTdFVlEtbS0ySmFiaF9PQllBTFJJczAxWkxKcGdIRmozTHdEZ0FNUDBpeld3YURELWZrZGk5LWc2NnFfeFMweXAtcTgwbmtlU05pVWdHYTlHRy1NbTV0OFBhQ21hSXdyUHc2UldSQmZlVERtck9OQQ?oc=5",
+   "source": "Vietnam.vn",
+   "date": "2026-10-25",
+   "img": ""
+  },
   {
    "title": "Ignitis Group asks ministries to postpone the Curonian Nord offshore wind project",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNjFkUWRlVEx5WHVobVhmNHd0MjJXVW9NcXRIN1FYNVlRVno1eS1DYmt4NU1uTld3SHEzU1l3ZFh3SFl5QkJBMkZfWG1XYkR4cjIzaGRrS3YtZndRVFptWDNUUVcwSVFmcEh2N1lvS0tFZUd2czc0UWZEaXV0VldTelFxVlRMcmxUMEZtcWswVzJIQWdCTDM3WGxVRW9KLV9TNkRlZy1TWkc5WjA?oc=5",
@@ -106,30 +113,9 @@ window.NEWS={
    "source": "Riviera Maritime Media",
    "date": "2026-10-19",
    "img": ""
-  },
-  {
-   "title": "Victoria clears WestWind's Warracknabeal wind farm, exceeding 1.5 GW",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkNHNXBOdzNYdFV0VnhNWlczU3hkSDBSVlFBR2NZeTJORl9Hc0JLRExQTElhN2ZXTmtsTEw1UU93X0djQzEtdk5PYlRaNk5pNnc1TGNodjBWRDY4LUlQUkg1ZmhkZ1Fta2JSQlVra0FDek1hSkk3MlVfdmhYMXYwTV80ZVp6b2dBOTFveVUwaDBwb1ZLZmc?oc=5",
-   "source": "energynews.pro",
-   "date": "2026-10-19",
-   "img": ""
   }
  ],
  "cadeler": [
-  {
-   "title": "Vattenfall wind chief weighs Chinese turbine risks against 'carryover' gains of Europe",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1d1NmJBcHlNTkZpM2NMYVdSTFVyZ2s0YVNxM2l2cllfeEFETXQ0dk56YmxYWVB6bUZrNm5JdTRrX0lRNk5SUHlUV215QS1jT1ktOTYzaG4wdFFaSHB1OXdlbW50ZkwzR09MNUZQWFdSYmdsNFhFb05EX0ZvNFFEaFlTVV9vclZrV1NqZElIZ211U0UxQ2NDQ0FycFU4c1FBWGtHdU5Uc0JDdmZwb1EtQlV6ZWVUQmF2TmQtdWRJSDB3a2lObEpqeDY0T2tCTThjQmc?oc=5",
-   "source": "Recharge News",
-   "date": "2026-10-19",
-   "img": ""
-  },
-  {
-   "title": "Equinor UK chief says pricing policy risk now key challenge – whether it's offshore wind or oil",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdDZvN1hScmhfVzBMWUdCQkhRTEQwNjZHM0h0LWJiYjd1dDhxc2p5Wnl2UzZMbnE4V0ZNQ00yT3Y3S3ZiS09CNzZmbGxCaDRxTkV6YUdWWHV2Q214MGkyTGVmYy1wZl9XeW8zeVRJMGR3S00xYy1UeC16YkZJbHgxbVFBaVlBLXBQNlV0NUpDWmZJYUQwcmRYNFl1eXRlQzJYSlZBZ0dUNlJzeWRROE13TGhMQ3RGaFQxd2JXV1M4T2VjWkpNb1AyTjUxWmVjcGpEZ0JMcGhoa1I?oc=5",
-   "source": "Recharge News",
-   "date": "2026-10-19",
-   "img": ""
-  },
   {
    "title": "Cadeler acquires Menck",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqcXpvUnYxNlJadDRtRGQ4RzJMT2FoRjhGMkJvdFQxcnJzWlNQeFpZVjJSdDJ3dXgzTU56T1FERDhwTkRNQl9CV05MZ0pxM3VUaFM2LXRqQmdXZnFzNmVoS204QTVKOEtIV3Q1MGJibw?oc=5",
@@ -138,9 +124,16 @@ window.NEWS={
    "img": ""
   },
   {
+   "title": "GE Vernova names former Prysmian executive Hakan Ozmen as wind chief",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN1pnRWZ5VE9iUTZESHZ0VHd2T2ZINjVfRGl6RlctWDBtLU1mLTFtUlZoUUc3MFhKREhLc0p6Y1FBT3F0bThiX1RCMjVfdE9wMzM4TkZIWlQ5YWdhcFc5eVI2V1FXckw4Q085dUMzMDF4LXB2QmNKRHdhNDJkN2FTbDBKTEcyZw?oc=5",
+   "source": "Recharge News",
+   "date": "2026-10-16",
+   "img": ""
+  },
+  {
    "title": "Cadeler A/S (NYSE:CDLR) Shares Gap Up - Here's What Happened",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVFXOFZmeWpFN18xSWx2eW1FeUxaMnY4cDZPTU01MlhQaGNGQVhmUURJbWM3ZXUzcFAteVpmWnh0X193bFZDUjA3T3ZtenZSRjlGSzVZVG1kMUNoZGRPSE90ZnNXY29TYkJXeWVhMGVuNjNBQlhnd05JNlNzVk5xbE0xVnFuLTk0b3Nibw?oc=5",
-   "source": "Kalkine Media",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlh0bUtpUDA3eTlXVktsS1RRWTV1LXZkNmQyTHZjeFlFY21nbU02WTFYQTNPejNIMjRUbTZkWG5WUHVBUkVwSm4tNjFKUmhhYloxc2JjQXZEV28wSUlIeHREXzFNb2g4ajJmX00tOXRhbVdZdk9hMWVZcE0tQTY5dVhzUE1CNDNnQVk3TjZWOVV3UElyOGNMMktRd2QtY2hUT1NMby1FaUNtM2cxczVDMlpmenA?oc=5",
+   "source": "MarketBeat",
    "date": "2026-10-14",
    "img": ""
   },
@@ -150,6 +143,13 @@ window.NEWS={
    "source": "offshoreWIND.biz",
    "date": "2026-10-13",
    "img": "https://offshorewind.biz/api/media/file/Hampidjan%20Advant-1080x1440.jpg?prefix=media"
+  },
+  {
+   "title": "Cadeler Wraps Up Turbine Installation Job at Poland’s First Offshore Wind Farm",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYndNSFRyY0FrZUdyLXA0LWVDeDN4SzRBOW8yM3BMbXBORG14MzBZaW9NTlZBbjNIRHVCdktBeWd1YlJEbVlMdmNteTNkek4yR29yLTJ1LWw5R01iUTBWWV9rdFJWd2JOY3hQbXBCWWJfVGw2SHVDVnBYeWx5ZmptM2dndTYwZjV6Vlg5Y2g2YTVENHlPUGx0cDVuUU1mSUtwVFBiYlBoTHI4cHROOE1jSE5GS1d6dlE?oc=5",
+   "source": "Offshore Engineer Magazine",
+   "date": "2026-10-07",
+   "img": ""
   },
   {
    "title": "Cadeler (OB:CADLR) Expands Offshore Wind Services With Vattenfall, Is The Stock Undervalued?",
@@ -166,5 +166,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-10-24 23:51 UTC"
+ "updated": "2026-10-25 23:40 UTC"
 };
