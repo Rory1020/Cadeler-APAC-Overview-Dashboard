@@ -1,59 +1,59 @@
 window.NEWS={
  "industry": [
   {
-   "title": "Petrovietnam seeks to deepen partnerships with Danish firms on offshore wind development",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkk4c2RoX3ptdU42WkJXMGEtVFJKbjJfS29zRXlFbndTRXRRR1FBWFZOdUhnSHBTeW1zTHRYY2NiU2phYldQY05oS2F3TndnQUhCS0UxS0pKWEMweXRPRUc0X3RLUEF5eVpmUlUtZjZJb3IyUDl1V0U1NW9IMXRtRmJUNjRwLUpRaEE0UnlfRV9xalh1R2tFMksxbTFUb0lGMnluMTZIOXo1OFJuTWRycHBIVlBpb2dRbFhnUXB0TXY?oc=5",
-   "source": "Theinvestor",
-   "date": "2026-10-26",
+   "title": "Senvion India secures 54.6MW Gujarat wind order",
+   "url": "https://www.renews.biz/onshore-wind/senvion-india-secures-54-6mw-gujarat-wind-order/",
+   "source": "reNEWS",
+   "date": "2026-10-27",
+   "img": "https://www.renews.biz/wp-content/uploads/2026/06/generic-senvion-wind-turbine-credit-senvion-se-and-jan-oelker-300x200.jpg"
+  },
+  {
+   "title": "GS Entec Unveils Asia's Largest Offshore Wind Turbine Foundation Hub",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUNCVC1wODV5eVhWTWNkZEFzQ081QUtMTkVlYTg1OVlrZlNXcTNDVlN2VXlaczlzMUpaTktjSG5yUzJlUGotX3pjRUtJZEl6Qk1XNGZhVkpsVkVYZEZuaDExOGdCMGtvOTI3V0Q2anA3cm8xRy1XMjJMeXhiakk2Y1M1SDRrdnFT?oc=5",
+   "source": "조선일보",
+   "date": "2026-10-27",
    "img": ""
   },
   {
-   "title": "OPT, Stratum Join Forces on Renewable-Powered",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEQxQkl6Q2dpTkZ1VFJOcGQwSjhtQU1oRHZSenNEN0p2SWdGYzM4WW5PcHg5ZEp3aHhpUlA4WVdKb1NZaDBremRrWHlDR2o0LTA5VXdDemFfSE84cFZqVUxkeklhRUdCYlQyVjdBM1RLTklDbGFaNFVJQmRiWEI4and5M21Uek5vVEx2SGhkVXBqaEVfQzJic0VmXzRacXVEZzhaYkpWV0VPMzN0?oc=5",
-   "source": "Offshore Engineer Magazine",
-   "date": "2026-10-26",
+   "title": "Germany's Siemens Energy to Open Wind Power Maintenance Base in Hokkaido as Japan Courts Foreign Players for Offshore Wind \"Localization\"",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BLUpXd01zc2RhaDZhZXgzVFo5aWRqc3UyaGFCME9hOXZpcnVxVHdXWnVrSDdhRW9wTkdoWndYWTF1MWZUSlJMczhTUmpEcjVEX2x0eG9HZkVKTjBENk96SEZOMHZ1Q0x6bzAzWFcwMXFac0g5dkE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-10-27",
    "img": ""
   },
   {
-   "title": "Jeonnam Development Corp. Wins Minister's Award for Public-Led Offshore Wind",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDZMbnI4azZKbjR0T2ZBdEt3VDlzN2hHaXMtUTJWeXJwZ3o3aWlPaDQ2VUt4ZzBlbmNPNkJsRnI2T0g1cTRXUWc2NTBnQ2ViUzFFYnRtT01rWkZDbTlCMGc4bHQwYWRSWURzSGVMS1ZVcjFvTTFRekI2QlNzY0FYNFpyaWIyUlNndVc5YkhNa25aWHVqOU1HZ3poMEVHWEU?oc=5",
-   "source": "Seoul Economic Daily",
-   "date": "2026-10-26",
+   "title": "GS Entec to Invest approximately $226 Million Converting Petrochemical Equipment Line into Offshore Wind Monopile Plant",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qNVg2aE5DWHlzRXJlTmlzMTktQmFkTG9TWjNOLW9qMkVPSFllRnlmZHR1Y2ZSNGFUdjU2S0VEWTBBSXJFV0dIQkRoZ1VEMExCUW1RdkhuSjdiVng3akZBbXlyeS02V095NVJtdl9COFhLTjRlVlE?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-10-27",
    "img": ""
   },
   {
-   "title": "Korea Ocean Business Corp. wins minister's commendation for offshore wind financing push",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pSVFoQmhzZDliTEV5b29UUW5LTWo2cE1WV3pPNTUyMGtZdF9Gck9EblV2M1E1b0tBUndXOURHc0RWSHlYV2xkYkRCNUdMdUVrazdqbjc1TQ?oc=5",
+   "title": "GS Entec Transforms Ulsan Factory into Offshore Wind Base",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzd6aGNhZ2NVd0Q5c1lmUmV2Z1lERU5IVkVTcXJGM1NsTFUyV3A0QTVOS0RYN1NHbHVoTVZsX3dXYm5Oem1CWkw3MmNLWDVZQ1BxSk9IQjh6eDdrS0ZaZVZ3RWJMZDZRQjZyUEo5N0RkLU1EQzRYd2RRYVZkd2x0dzJDSGtKSFo3?oc=5",
+   "source": "조선일보",
+   "date": "2026-10-27",
+   "img": ""
+  },
+  {
+   "title": "GS Entec builds Asia's first dedicated monopile facility, calls for offshore wind ports modeled on Coupang Inc logistics centers",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FQTZob0syeVEwcXFpMjY2MDRLTU55c0JEcm5GS0hOT3FJbUwtc0I1RThRd3gzd2c3eVZpeDJ5TXlUa1owNkFFNGNwUThZY1ItUURvYUNqQQ?oc=5",
    "source": "헤럴드경제",
-   "date": "2026-10-26",
+   "date": "2026-10-27",
    "img": ""
   },
   {
-   "title": "Idoterawon, KOEN launch joint renewable push with Incheon offshore wind - CHOSUNBIZ",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjNkM1RCZnQyZmVna1hyR0U4NGZ5N0o1RDYxV3dWemxreDBtSTAybEtVZzQwaHRrX0hjMXhxYWo2a3c2MFljYlg5S1ZpbXJHUW11SllZZVA1NTRFQmRMMFZVX1E4QUJJS3hiOGc1S1RSUjRtVXBBNGlHd2F6allGTDE0ak_SAZgBQVVfeXFMT2owTVM0RVF6OXRGNEMzSk44Y2c0LXVLZ1NUQmxqUkxkMXRFX0RkYUFxM2h2M29paGw5dFIyWHlBTkJiN0pERl8xTF90c1NUdWNxWjFoQ0ZtdjNpSUl3WWd1V0czNmMyZnBPeUJ0aW4ydDg1NXZLWEpQM3BWSnRDdXJBanV3M1djSTJJN2gtNXdSNXlEUUNsd1Y?oc=5",
+   "title": "GS Entec pivots to offshore wind, invests 300b won to expand Korea capacity",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMFd6RUpHaEJac3R5emE5ZU9vUkxCRGVzZjVmR3BhSWJ5cU1qXzNESHk1M0RpWjAwWkJtYlI3LUl0QUFkaGQyY3g1R3dMakpNMkJ5Z0pHRFVaYk83S1FwLUg3VmdTbHhYMHVwSjFfaXVxSHdVWFJUTTRjUHVkYi1hSTRR0gGWAUFVX3lxTE5jbnBrUWFCZDBRMG5aSHBtRWY2ZUIxc2pBTFVCbFA5VmVxUF9ybTRNUGsxd3JuSHJDbm1ER3pzWTZyYVJKT2VEWHVlVVktdnVZU3J2UnNJd2tzdXNHc2JpcHAtVUh3Q2t3bnpFREpzd1NvWHEyVUdFbWlmTEplRDlMZUFqQjFzbV90eWN0WlZHeXozNlF1dw?oc=5",
    "source": "Chosunbiz",
-   "date": "2026-10-26",
+   "date": "2026-10-27",
    "img": ""
   },
   {
-   "title": "YIDO TerraOne to jointly develop the Incheon EcoWind offshore wind project and others with Korea South-East Power Co., Ltd.",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LcG9lVlBWbnRfblRvRU9qZXc1YnJUVWtMbkpvUEFhRkw2M3lZd1RGWDRWemo1dExtenFoVTJoSGxZLUtDazhUMlRKVVNqck02UW1fdE12OUU?oc=5",
-   "source": "파이낸셜뉴스",
-   "date": "2026-10-26",
-   "img": ""
-  },
-  {
-   "title": "KOEN, Leedo Terawon Partner for Joint Development of Incheon Offshore Wind Power",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pc3JZOWxaR2NFU01nSnBvd2lwV2RwbEJ0Rk50RWZYelJQQzJrZS1JX2pMS2dyLXR2dmMtdmMtbmVoU1RIZFRIVlVwVHRlR2dFWnBpREV5VjJyb283Z1RNRi1nZzZpQQ?oc=5",
-   "source": "news.sbs.co.kr",
-   "date": "2026-10-26",
-   "img": ""
-  },
-  {
-   "title": "Singapore gives conditional approval for Vietnam-Malaysia renewable power project",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVjN5Nk9lUU1lSENzUTNqLXc3WnRYX1J3d3JBdVpnbFV5ZUoxd1hxcDI0ekNkc2VYRXRwQVk5OXNhT0ZZVEtMS1psMmlXNmNRSUhVRE40bldHY3plRVF5Q0tLNVVnWXluTm5qdGVpWmhZbzZYbGVodG9QcHh4ZkF3SXZEZUJJT0g0X18wYmhEb0oyVnA4NnI0S284dkw0azlfZFVZS2ZDMEFTTVFnaTRHZ3l0dnc2RkxkUVlnUXhCQ2R4MDhDRlpoZkFmU25MU3hzZ1NrYkJzONIB3AFBVV95cUxOM3p1S3d6OF84ZVFkaklMN21Vc3VyNnRwSm1FMXVGZWdPekp2R3VtMkQ1YVE3OWZXZHZNaTNObzRVU3l6X2hkVGN1MGJXTWpPc1dtRHMyQUgtTHBVaThnZURYMG8taU91N3hvdzF1NFpiNVBiS0JnUjlaWU9sc2NBdkxfbzV0R1NLNG5udlRNc2lfZjVUU2JhdFpQRGFCTjdoRU00QlExaEtCSVUtUnotNGJfckdENENvdzNhelBwdUdrLUs0QndmZkdMOVFycjVrZ0hqczhoNkotUTNL?oc=5",
-   "source": "Malay Mail",
-   "date": "2026-10-26",
+   "title": "Siemens to set up regional base for wind turbine maintenance in Hokkaido",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPYmc5YW56TTNUTjVCb2pyLUhpNEI1LUFreHJFa1poQ2lhMHQzLUxYZTk5QkN6VUZkQ0djdVlJRzcxX3JyN1NCMkFoNU1PVW9haHU1bVFqeFB4U1NmTjR3dmtHV0ZIemYxd3Y4UkJWRkM2UQ?oc=5",
+   "source": "毎日新聞",
+   "date": "2026-10-27",
    "img": ""
   }
  ],
@@ -66,17 +66,24 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Offshore wind power in Vietnam: Opportunities for investment cooperation with Norway.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEOE1aLWhURmFJNk9fNURYQm15VlNSLUh3d0dZbmZnNlRtUHJVWlhFQUt0ckRVdzRYVDJZTjBUbTlERnoyNEV2R0NlMlczSmdULVhmUFZOY1FrcFB5NTAzakU3LXNWYnJOVXl4VzNkT3V1anQyWmpfUnBXbDdlQ00?oc=5",
-   "source": "Scandasia",
-   "date": "2026-10-26",
-   "img": ""
-  },
-  {
    "title": "CIP and Petrovietnam sign the agreement for the Nam Trung Bo 1 offshore wind project",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMk9RMTktbUszVElDN2hUWnA3blV2ZDMxVG5uR0RUaGpGbUNhb0ZhZlJ6ZTZQbGhURzY5dWZqRm9KczhYTlRmY1I3d3JWN2ZjSDFWMl9CMm1tLWVoMGFuWk5hTDZjdjdjcmUyUVFscU9nLVkta1JCSXE5ZGx0LW1CelY1OEN5SGx0TlZGdnlQMXRraWoxcXhjNDFkaHRQVWlZV1pqeDFEN2ZrQkdoVTZR?oc=5",
    "source": "energynews.pro",
    "date": "2026-10-26",
+   "img": ""
+  },
+  {
+   "title": "From Abu Dhabi to the North Sea: How HEA Energy is building a foothold in offshore wind",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTFNRaEw4TEdfZk83ZHpxbFZGMEZiYTNUMjNEOEJqUEhOelM2cU92bnBuY1VKcjhFZ2E3UXZmWUlyaU83Z2laOUJSQ2xfUWhrRy1TLUlBaEdDeHNMOUhmRmgyaGlNWk50Rm0xOHBEMHItWUxYdFhTMmNQa1A4YTdUN2djeXZNUW1yOEd4WXlBb01TVnMyQWpqY2ZjMkw1d00tMzJDMTFpZWFDYkdjREszVzBiV3h4WGxnN0RZNk1na1h3WG0wOGtnY3JWRdIB0wFBVV95cUxQWVVZZWJNczBCTk83RDhxeXZ3dXNCSk1NUEhOSFZYQmR4enZISmJNeHZmZEpyTWFkTGN3MFoycFMxeXhLVm96U09mdGY2aTl2ZTNWd3FxSVpnNTRMMVBaM0ZPVTBRcXhvWnJ4SEVBc2dWbTdheFN4TGVENm1UQ3FlT3lQU1BzLTVLanlSYzI5VFNjbHdQV215SnVfazNPWXRLMi05TldxUmJLRzZwcjRMN1BmdnFMb0ZIXzZLR0xDcEV5ckZubVFZWjFLMFAwVTlKTjRR?oc=5",
+   "source": "Khaleej Times",
+   "date": "2026-10-26",
+   "img": ""
+  },
+  {
+   "title": "Opportunities for cooperation between Vietnam and Norway on offshore wind power.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRF9VWE1HWktLTERRbVljdnRlNC1tYkgxVzgxR1JJMV9qLWo1ZFpoRXVYSnhhVXljLXlwM1lSOUhsalBMQlBZallRaEVTWEgzXzFQajA3dmJ0Tmd1ak5rQzBqa1hsaXFNRGlqZFZjQ1ppQkRUUC1KaXcyYVl5aGx5emd1VHA?oc=5",
+   "source": "Vietnam.vn",
+   "date": "2026-10-25",
    "img": ""
   },
   {
@@ -87,31 +94,24 @@ window.NEWS={
    "img": ""
   },
   {
+   "title": "Ørsted Marks 10 Years in Taiwan With 199 Offshore Wind Turbines Installed",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQemhuNnhCa1J2dkljTkZneXVOdWdScE9TVGl0SUY2NFBHckdXZGpJOXJ3bW5VM0haWWFjYjM2UVM3V1dOTzJfWnRaNVktc3M1Z0pjbmhyUVU2UEp3eGROd1A2NGdGRWEyR25tOU1sSktOY3F3RDBJcnpFVXFEZThFc18tNjNvVDJhVFYxdXl2ejNob0xhcTVhRjd0OUc5QQ?oc=5",
+   "source": "DredgeWire",
+   "date": "2026-10-22",
+   "img": ""
+  },
+  {
+   "title": "Woodside trims output forecast even as oil rally fuels revenue leap",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVdDSU9RUGI0cVgzSGllZEZIUFRDUEUxLUNuZ2dzTHZjTGphUTc0VlVEck05UG1MQXRGZjFxZ2xUQ2h5aEZxc1hyOEQ5NzF3LXpaWDJSZG0yZkgwaG9GUWpCeU5XenYwR0xDU0JUOERqdktKSlRTb3k3eF9saVdoXzhROWNrZHRIZzZFZHE3RmdQVTR6RHg0MllYT3c4SzhlVm9NRGJ2X1FPYjlNVThlNmIyXzFSRmpsU0c0VklJaVRVbjhy0gHSAUFVX3lxTE1PdkVfOWlYOWFaLWp2TnpMNVdNbGtvYk1iZV9KRFEzMFRROVg3T3hnYVVaaXhfR2ExRXlpQ2tFanM1WWYtWDktaExBVC15dlRUa3JRZHYxNFdtaE1LdEk1VTV6dHVqT09xQTdYazhPUHNiVXBkWXNQRTc1ZFdwTHU2eTVPUUZJMkpqM01ydjVmTWRyRUhfeGs0ejh6N01Nb1BFTWJ3ZTJqQVVET3U0SU1MUmhYbkt6Zm43WkZLNEQzOWZOUmtOVHlBRTZPWk5qUkNIdw?oc=5",
+   "source": "Baird Maritime",
+   "date": "2026-10-21",
+   "img": ""
+  },
+  {
    "title": "Japan Clears DNV for Floating Wind Classifications",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0czRmk1M1liejBfN09WeXQ3cGREazBtWEN3R3lTN0dyaWJSRkt0ZjNjMGFwemNmZWpLcHNxLUkySkhPbE1jemQwOUt4Mm4wZ0U4R19WY3Qyc3o4cm5JeEVmRV9VNUZRUGZON1dDcE1PdUlFV0tDZ3Z2QXRQQktJa1luaTNTbGpQS2RSOTEzNDBrNFJLUzVVaUdDTkY?oc=5",
    "source": "تین نیوز",
    "date": "2026-10-20",
-   "img": ""
-  },
-  {
-   "title": "Hai Long Completes Installation of Offshore Wind Turbines",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zcGc4TWlFMTdmTzdheWZSXzVJR3NkYS1hdWRxQWtzckZsNnlTVlo4UHJRNUdOdTFTZXZuaVByb0hrTVQ5UnJ1S094UXVIR3hJeVpVNjdrTHRmcFk1YTYxVkUzMDdLTnpPMDlpZERsTVhSM21RYnp0enU2MXlHS3M?oc=5",
-   "source": "Inspenet",
-   "date": "2026-10-16",
-   "img": ""
-  },
-  {
-   "title": "All Turbines Installed and Generating Power at Taiwan’s 1 GW Offshore Wind Farm",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVExJRzhQVEJuWjZpU01fbUtqRWhYVUU2ZUd0X2I5LVlvMTcwRjdSQjZwMURHZFJqb0VhZmxpZUR2aHRuQmNFWU1JZXRUbGZ5V3ZxN3JlTzZiazE4TEFSZC12SVBZTl9zZzFqWktwaEJvckRsMEtQcWdnVDY5UjRxTjcxc0dkd0Rrd1U2RVhPZWVaV04yZjd4TmljcWRwcEhDTmo4ZnNHcXZJNTNySllMbTJvcVc?oc=5",
-   "source": "Offshore Wind",
-   "date": "2026-10-16",
-   "img": "https://offshorewind.biz/api/media/file/Hai-Long%20_%20Northland%20Power-1600x696.jpg?prefix=media"
-  },
-  {
-   "title": "DEME to install 69 wind turbines at Zeevonk offshore wind farm",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVpqMGlTU1pjb2lYRDI3VWY2MjlfejBiNDhuOVk4MjNhMW9TOUo0T20wOUNpRS13QXUxUktFZXpCbXJHMFN3Z3F4bDZteXRBZE1DWTAxUjgzUEhET3FybUU1anVYWUJWak9OelhfYWQ3eEFmbFJCekJVSGc1S2NLVA?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-15",
    "img": ""
   }
  ],
@@ -173,5 +173,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-10-27 00:59 UTC"
+ "updated": "2026-10-28 00:49 UTC"
 };
