@@ -1,63 +1,70 @@
 window.NEWS={
  "industry": [
   {
-   "title": "Senvion India secures 54.6MW Gujarat wind order",
-   "url": "https://www.renews.biz/onshore-wind/senvion-india-secures-54-6mw-gujarat-wind-order/",
-   "source": "reNEWS",
-   "date": "2026-10-27",
-   "img": "https://www.renews.biz/wp-content/uploads/2026/06/generic-senvion-wind-turbine-credit-senvion-se-and-jan-oelker-300x200.jpg"
-  },
-  {
-   "title": "GS Entec Unveils Asia's Largest Offshore Wind Turbine Foundation Hub",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUNCVC1wODV5eVhWTWNkZEFzQ081QUtMTkVlYTg1OVlrZlNXcTNDVlN2VXlaczlzMUpaTktjSG5yUzJlUGotX3pjRUtJZEl6Qk1XNGZhVkpsVkVYZEZuaDExOGdCMGtvOTI3V0Q2anA3cm8xRy1XMjJMeXhiakk2Y1M1SDRrdnFT?oc=5",
-   "source": "조선일보",
-   "date": "2026-10-27",
+   "title": "VARD Delivers Discovery, First Cable-Laying Vessel for Japan’s Offshore Wind Market",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUlRLSnR6d0x2X3ZDTkd3N0ZTdDVacE5fbTFZN3BWbl9rZmJQLW9IeXU0TXlVVzloaEhOX1ctTXVEem8ybG5vNEhCX0d3aUlkbkxnYVE1VW55TTFkcHJmbDZHZDJhUWVUTDBRaFFySlR6MERfeDNTX2lpYmtPaVZoYW8xUWFoSWlCaGdaNlQ4YjA3SVFjbGljXzJCUHQyVXBLb0VYdDJvRW4?oc=5",
+   "source": "DredgeWire",
+   "date": "2026-10-28",
    "img": ""
   },
   {
-   "title": "Germany's Siemens Energy to Open Wind Power Maintenance Base in Hokkaido as Japan Courts Foreign Players for Offshore Wind \"Localization\"",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BLUpXd01zc2RhaDZhZXgzVFo5aWRqc3UyaGFCME9hOXZpcnVxVHdXWnVrSDdhRW9wTkdoWndYWTF1MWZUSlJMczhTUmpEcjVEX2x0eG9HZkVKTjBENk96SEZOMHZ1Q0x6bzAzWFcwMXFac0g5dkE?oc=5",
+   "title": "GS Entec Completes Monopile Factory in Korea",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVF2bnpsV0VJRWp5R3NlNldmWlRNY0ZWZElfWi1YMFhzZGpFVWRlbF9NVWptVXdab29lNlhGNjUyTUE3WnRVdlRUazQ1QXJMZWVSZXJVdURqTU9PS1JXSUdUWlhkaXMzRHpNc2VLUEY2QXFvQ1Y4T3UyLVdYZVlCOHNyaEc5eXVKVTF5Mg?oc=5",
+   "source": "Offshore Wind",
+   "date": "2026-10-28",
+   "img": ""
+  },
+  {
+   "title": "Rudong offshore wind project generates over 10.3 billion kWh since 2021",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNUE5BeFQwUmF1YWxlUE55ZVJTc2dBRG5ZQVdIRDdvVmQ0REZod2NlRW03OEwwUVJVcjZMektPeWpzeEt0S0o2ZkljS0tYZVl1S200d0pEamRxQUYwZmctSlprb3ZKd3Bmb0lsWGkzdUVHc2d1RkUxQmdIUy1hdw?oc=5",
+   "source": "China Daily",
+   "date": "2026-10-28",
+   "img": ""
+  },
+  {
+   "title": "Vietnam is interesting for long-term investment",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVTVOLVhGLU9XVzRlQkxCNnRvUkFSZkFUUWJtaldkUG1fczcxVk1GajcwVGExQjFBRW5RTnNvRDhpdUFuNllWdG0zcW9MNGxTdDZjVVhjRGFBTVBsVjhMZHd0TTJsWE5mcERwbmNiWEVZdWZTM2ZEVGNrMG10Rzk2cXE3enZGYmFWeksxMi1xWEJzUl9KekY5eQ?oc=5",
+   "source": "Ocean Energy Resources",
+   "date": "2026-10-28",
+   "img": ""
+  },
+  {
+   "title": "South Korean shipyard set for offshore wind makeover",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaHZrbkJERDhRcktaNncyYmlzZGFyVExsWmdkV29Oemw2MlpHWDRQU3ptckF1bTh0bldNakxBdHNTWWs4WkhIVHI3TnF6OVZpSzV0UnJkbTNrS2dsbHBTY1NObDJTeDlCUzk4YmpiRmo0dzRvZ092MVpYMmp2d2xEVQ?oc=5",
+   "source": "Splash247",
+   "date": "2026-10-28",
+   "img": ""
+  },
+  {
+   "title": "The UK and Taiwan launch new CCUS partnership",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHBaSHJIaUFpUXE3alFiUGJUNVZ4Qzkyb1lXYzV3SlJwbTlIR0xUTHF5RHZFNnNFVjZ2aEs1c240bldEcXlGUERvbmF1a09EN1ZYUUtXd0tmbUtvSjZ3eVMtOUdUWl9ocm1UaVBpUkFJcWFyUUFOZExrSWxaUUYyOTRURHJCS3pqdlpNdzVjZw?oc=5",
+   "source": "TGS | 4C Offshore",
+   "date": "2026-10-28",
+   "img": ""
+  },
+  {
+   "title": "South Korea's Gunsan Shipyard to Convert 100,000 Pyeong of Idle Land into Offshore Wind Cluster",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zaW5KSG1BTGtHM3BneWUxY2tuYWt6STRVNFd2eEprRmd0YXNhRXlZcEZlZmFjdHNtUFBWQTFZUzFJNTh0NHhXNmJ6NHphSS1WMVpYNmw0bHUtd3ZONW94RzJ3eXN2WGRBWmgxUzQzQnhHUHRqZ0E?oc=5",
    "source": "BigGo Finance",
-   "date": "2026-10-27",
+   "date": "2026-10-28",
    "img": ""
   },
   {
-   "title": "GS Entec to Invest approximately $226 Million Converting Petrochemical Equipment Line into Offshore Wind Monopile Plant",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qNVg2aE5DWHlzRXJlTmlzMTktQmFkTG9TWjNOLW9qMkVPSFllRnlmZHR1Y2ZSNGFUdjU2S0VEWTBBSXJFV0dIQkRoZ1VEMExCUW1RdkhuSjdiVng3akZBbXlyeS02V095NVJtdl9COFhLTjRlVlE?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-10-27",
-   "img": ""
-  },
-  {
-   "title": "GS Entec Transforms Ulsan Factory into Offshore Wind Base",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzd6aGNhZ2NVd0Q5c1lmUmV2Z1lERU5IVkVTcXJGM1NsTFUyV3A0QTVOS0RYN1NHbHVoTVZsX3dXYm5Oem1CWkw3MmNLWDVZQ1BxSk9IQjh6eDdrS0ZaZVZ3RWJMZDZRQjZyUEo5N0RkLU1EQzRYd2RRYVZkd2x0dzJDSGtKSFo3?oc=5",
-   "source": "조선일보",
-   "date": "2026-10-27",
-   "img": ""
-  },
-  {
-   "title": "GS Entec builds Asia's first dedicated monopile facility, calls for offshore wind ports modeled on Coupang Inc logistics centers",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FQTZob0syeVEwcXFpMjY2MDRLTU55c0JEcm5GS0hOT3FJbUwtc0I1RThRd3gzd2c3eVZpeDJ5TXlUa1owNkFFNGNwUThZY1ItUURvYUNqQQ?oc=5",
-   "source": "헤럴드경제",
-   "date": "2026-10-27",
-   "img": ""
-  },
-  {
-   "title": "GS Entec pivots to offshore wind, invests 300b won to expand Korea capacity",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMFd6RUpHaEJac3R5emE5ZU9vUkxCRGVzZjVmR3BhSWJ5cU1qXzNESHk1M0RpWjAwWkJtYlI3LUl0QUFkaGQyY3g1R3dMakpNMkJ5Z0pHRFVaYk83S1FwLUg3VmdTbHhYMHVwSjFfaXVxSHdVWFJUTTRjUHVkYi1hSTRR0gGWAUFVX3lxTE5jbnBrUWFCZDBRMG5aSHBtRWY2ZUIxc2pBTFVCbFA5VmVxUF9ybTRNUGsxd3JuSHJDbm1ER3pzWTZyYVJKT2VEWHVlVVktdnVZU3J2UnNJd2tzdXNHc2JpcHAtVUh3Q2t3bnpFREpzd1NvWHEyVUdFbWlmTEplRDlMZUFqQjFzbV90eWN0WlZHeXozNlF1dw?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-10-27",
-   "img": ""
-  },
-  {
-   "title": "Siemens to set up regional base for wind turbine maintenance in Hokkaido",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPYmc5YW56TTNUTjVCb2pyLUhpNEI1LUFreHJFa1poQ2lhMHQzLUxYZTk5QkN6VUZkQ0djdVlJRzcxX3JyN1NCMkFoNU1PVW9haHU1bVFqeFB4U1NmTjR3dmtHV0ZIemYxd3Y4UkJWRkM2UQ?oc=5",
-   "source": "毎日新聞",
-   "date": "2026-10-27",
+   "title": "‘Philippines to be offshore wind powerhouse in Southeast Asia’",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnc2Tm40QVliWWNMS1FKekRVUnNPakhQX3JHWXV5aVlOWkE0OHdaWjdSVXFua3NyUXUyQzQtVDZka3N3TFZua1NJT3E1Tzh6anlyRDFGNkV2VE1KaWlKaU5GSjNQcHpubXQ1cFlOWU9aV2VDT1ZMWURzb3B5Y1pXaDBxQWNfLXBkSmhMMlY1LTV2Z1hKd2pTX0YzMkpfREZHRXhnNWdUczBLb0XSAbIBQVVfeXFMTzA4aWNlNHFhVXZETUZqSy0xN2xUTERtR1FLNW5kSElHekRZVnVZQ0R0ZDdLUTVNSEVSZXNxWkFSSV81U29mUktFMkRQaVFhZ1JVMjdHU1ZKTE90Mk9vcHVpSmxrZ0pTU0phSmlMeFdxMWZ4VWo4YzJRdl9VVU9fSEpDRzAwdFA4X2lrVUhDNG5UR0ZESzhUQjRlZDZIdjhMaXMzTmx5OVRwZzJocnJHaTN2UQ?oc=5",
+   "source": "Philstar.com",
+   "date": "2026-10-28",
    "img": ""
   }
  ],
  "competitors": [
+  {
+   "title": "Prysmian and DEME begin Dutch cable job",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRExNWkhnWVRFeTREMS1FM2ZreC1oanI2UWp4SHZDVU0xWWhONFZFYk1ZVzRaR1pTRVpsWFlkN2lkeHNlY0Rnc1ptRVFYVHdVYm0tSXBEbVhmNlBsTkVrZTQwYzRjSmhTS0VWSFVGRFpSd3d0MFhxYXdHSkxJd1NTanBpcw?oc=5",
+   "source": "reNEWS",
+   "date": "2026-10-28",
+   "img": ""
+  },
   {
    "title": "Hai Long, East Anglia TWO among offshore wind projects reaching key milestones",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNk9ES0g4NkozRFJpOTFLXzZ2MThVamdwNURQVXZkWHFEMXNxS1BaX1piclpYRE8taTNiVkdlS0doXzh6RlRGTi01aUkyQ2p4dk5JRGhVTlJnSlNtRmdlUWlzODZ2dktaNVgwdm5lVkVaQXlDRUU0dm5DLTRJQlJ1T29qYVR5TUhlY1dfelVnd25UVTV3WHZ1YUVBZlliS2Mtb1hIMTlKVXFQRzlZNzBrV045RGFlZUN6ZXpibHBlakNxem1RN0piX1pNTzFndE1aMTZv?oc=5",
@@ -106,13 +113,6 @@ window.NEWS={
    "source": "Baird Maritime",
    "date": "2026-10-21",
    "img": ""
-  },
-  {
-   "title": "Japan Clears DNV for Floating Wind Classifications",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0czRmk1M1liejBfN09WeXQ3cGREazBtWEN3R3lTN0dyaWJSRkt0ZjNjMGFwemNmZWpLcHNxLUkySkhPbE1jemQwOUt4Mm4wZ0U4R19WY3Qyc3o4cm5JeEVmRV9VNUZRUGZON1dDcE1PdUlFV0tDZ3Z2QXRQQktJa1luaTNTbGpQS2RSOTEzNDBrNFJLUzVVaUdDTkY?oc=5",
-   "source": "تین نیوز",
-   "date": "2026-10-20",
-   "img": ""
   }
  ],
  "cadeler": [
@@ -145,13 +145,6 @@ window.NEWS={
    "img": "https://offshorewind.biz/api/media/file/Hampidjan%20Advant-1080x1440.jpg?prefix=media"
   },
   {
-   "title": "Cadeler Wraps Up Turbine Installation Job at Poland’s First Offshore Wind Farm",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYndNSFRyY0FrZUdyLXA0LWVDeDN4SzRBOW8yM3BMbXBORG14MzBZaW9NTlZBbjNIRHVCdktBeWd1YlJEbVlMdmNteTNkek4yR29yLTJ1LWw5R01iUTBWWV9rdFJWd2JOY3hQbXBCWWJfVGw2SHVDVnBYeWx5ZmptM2dndTYwZjV6Vlg5Y2g2YTVENHlPUGx0cDVuUU1mSUtwVFBiYlBoTHI4cHROOE1jSE5GS1d6dlE?oc=5",
-   "source": "Offshore Engineer Magazine",
-   "date": "2026-10-07",
-   "img": ""
-  },
-  {
    "title": "Could Vattenfall Offshore Wind Deal Change The Bull Case For Cadeler (OB:CADLR)?",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0cyR2IzWURkQ0Y0c3R1YVNjTGNkMmd4Z3hJSDcxY3dlQkJVNnVtYk9mR3IxYjE2SjVjaXJOcHpQRnEzNk55NmZZVldkcXZPd0NPLVlObnVwNGl6U1FUSnRKUllVaHV2MmY4cFRKamEzZC1wV2kxZ0ktQnJ1RU9pSDRTQ3YyU0REMjBBMTVFNG03VlZlaDlvRm9OcGd0SU0xa0x6aFZTdDdaQ3FRMXZma0RsX1BwTjFseGFmXzJTYmcyclNIV2V2cWhROVNrTmps0gHWAUFVX3lxTE9YTkU1N1c3cUt0Y1VkV3cxZjJnZ0VCMFBKUkYxMkpiRnc3c1QwVW9QUERiUGl2bG9uc3FRY0pONUhVeWlCd2kxYmp4U0xSWXVqOUZOQjljZWVSS2MtUHkzbDc5OVBWLTFmQnRvRzVpM3d5a1dfZ1NQNDNpMEZvOWxJNURMX1FOS284d3B5aDF3YWJhbGlfbFdJNENHWTFtcFZWRVM1OXFnY3Y2N3NmM041SHNPdE9KMmlYY3JfSW16LUJXWW1WenBVaHpGTUhwRUFHZTJtSWc?oc=5",
    "source": "Simply Wall Street",
@@ -173,5 +166,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-10-28 00:49 UTC"
+ "updated": "2026-10-29 01:22 UTC"
 };
