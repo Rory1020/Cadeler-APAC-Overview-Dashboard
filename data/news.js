@@ -1,6 +1,34 @@
 window.NEWS={
  "industry": [
   {
+   "title": "South Korea's Taihan renames former DOF cable layer",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXR1M2RRMFFaWnNPTWhaQVBwVzQwYVNmZVdMYzVnU0hZMFFiREdEZ1RGOHg4Y3BGdC1MdHRqVlVkQi1BZmZUdUJiSWZHaURNV0xwYUtxVFVrdk9qaXN0YWZrNnpEWC1CN3Zma1pEWHNrY0tpSE9ocmdwOFlxcjlSTlhTU1A4Q0VJME9rY2N2Vi1ld2ZkejRxbDZMcHZpYVhEWTBrQ29Ubm1CMXppU0ZWbC1oZ2w0cDNCSU5kbXZ6ZW_SAc4BQVVfeXFMT2RfZ3dHUDhaZi1IUE5IVFQ5TDZQbVp3TnVYSl9OeERNb0g3ZnV6WlpoekJlYW1iOWQ2aGZNcHFZSnREOUVmM2hFLW5ES1MzT0JCVXVqVGY2S0pFQlhXQVVVdG9RcjJzMmlkdE5RWlRLZDAxZm11bnlobnh1N3YtbU5RM2tUTDZmVG9nMTZ2VFZrVGo2NG1BNnhnNkhaYjV0NDduaFc3MVlhUzBNb0FZclBMY2JKTE1RT2hsdzBEV0NmUzI3WjFJY1BtUmJWUEE?oc=5",
+   "source": "Baird Maritime",
+   "date": "2026-11-04",
+   "img": ""
+  },
+  {
+   "title": "Korea Southern Power Signs PF Deal for Yeonggwang Yawol Offshore Wind Project; First Use of Doosan's 8-MW Turbines",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVNU1CZ25SS1FCenprOEdTc1R4bjdsNkt1NmtSY0lybkRsTVl5SXNoOXZPVWVLOG9BV1dlSkhIQTVoajQ2eHRKZ0xVQzUyVExLS0FTbnlnT1lIY0hxUm5mbG9wVFY?oc=5",
+   "source": "아시아경제",
+   "date": "2026-11-03",
+   "img": ""
+  },
+  {
+   "title": "Taihan Renames CLV Recently Acquired from DOF",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYlZnbi1HNFQxN1lESGlfeU5OdHBDQi0tYWI0ajlnZGVud0ppcjI0bjVsOVloSk9UaFVMS2h2ZGVpR0lPQk5UaHZRRmdqUEp0VFcxbkdnZW5yNUFOQUFzRGozUmlXLVpJTFJyUHFOYmlhTmJuOTZ3NGtGeXVsN2lQTUdsdnBtWmdubjhSVmRR?oc=5",
+   "source": "Offshore Wind",
+   "date": "2026-11-03",
+   "img": ""
+  },
+  {
+   "title": "Ulsan Seeks China Supply-Chain Ties for 3.5GW Offshore Wind Push",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjNOMUdfZV95VVVRdHNmQUs2bFYwd3NWekJuVTJpRDd5cGllRTFfamtzb0RzTkdZQ1VMQklBY3ViUGM0UUpsZEJibHpYWmdKMHc2eTJXeXRyVDVHcU9uMjZMNmMyYUl3V3ZKNGE4SjBQMm5HSjlKOE9RUzVGZlJldFpzUUJSVnl5V0lXYlc1Tkl3cmlxSkU1aE96Wm04d0lrUFE?oc=5",
+   "source": "Seoul Economic Daily",
+   "date": "2026-11-03",
+   "img": ""
+  },
+  {
    "title": "LS Cable, LS Marine Secure Production and Installation Capacity for 504 MW South Korean Offshore Wind Farm",
    "url": "https://offshorewind.biz/2026/11/02/ls-cable-ls-marine-secure-production-and-installation-capacity-for-504-mw-south-korean-offshore-wind-farm",
    "source": "offshoreWIND.biz",
@@ -27,55 +55,34 @@ window.NEWS={
    "source": "Splash247",
    "date": "2026-11-02",
    "img": ""
-  },
-  {
-   "title": "LS Cable & System lines up Korean offshore wind installation deal",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMjBSWE5XcmoxaXh0MUs3WHVLVFNDS3dHcm1mTGdFZW5nTmtRbjIwUE4yZVBCYmFRUWUwdDNxTGtiUGk5bzJnMENET0N3bmQ2Y0t3Ykt3MDFjYUQ0Zm5PakdULXNENmg2dFVoWDg0ZElCSkNHXzFfYVdFZTRPdDVkM1VjUVRpdFBBWUpveDFmcw?oc=5",
-   "source": "Splash247",
-   "date": "2026-11-02",
-   "img": ""
-  },
-  {
-   "title": "Japan partners with Siemens Energy to develop floating offshore wind projects and strengthen supply chains",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ1BiNE9rWlpJUmtkRGhKaHkzZWZzWjhTUk1WdkRWRVA3Zm93Zm1yRXpUX1VEVDl3ck5Rd2dielNLa09Fb3lTdG50Z3pGcl9qRVlRRUlUcUdNNnZDd2huYWxQRm96ckFqQkQ4T0taa1RzeWhGVkx2N09JWjlmWGpVdG1nZ0hQcmg2cmlXUkRQdkZjbS0zb0JuNklDRXgyeTV6Uy1uNmt1SW44X1VvUzZ0bkg2SlVrLUkxT0VkOHJBUFFEV1ZJSkRORmlTUDNiNHZ0ZGNhdWZuVlJzLU52eVMwalhNdVNpbG1nNWVSRTF3RQ?oc=5",
-   "source": "Prop News Time",
-   "date": "2026-11-02",
-   "img": ""
-  },
-  {
-   "title": "\"Turn Areas Around Offshore Wind Farms into a 'K-Seaweed' Base\"... Jo Inho Calls for Coexistence Measures",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yQkZLdkhyLTRzOWNFTTNWUnREb1lTNlJEeXRaT0xGaEg3dFF2b0JQTHlGN0cxLUJrMkVzZDhTbmx6dTFNdXdNR2daQU93Vjhyc05WZ0lWdUhBUFlud3BEeEdidjNXUEg5Sm5DZA?oc=5",
-   "source": "아시아경제",
-   "date": "2026-11-02",
-   "img": ""
-  },
-  {
-   "title": "LS Cable & System, LS Marine win subsea cable contract for 504-MW Taean offshore wind farm",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XLW0tRmgwdlltSUxGQXdYY1BGUTdoREhUby0taHVIdGgxYUxpaHBiT0dTeDlOdXZhVVFNcS14RFFyQVAwMmVwQmN4amVzTkpkWklr?oc=5",
-   "source": "매일경제",
-   "date": "2026-11-02",
-   "img": ""
   }
  ],
  "competitors": [
   {
-   "title": "Norway Pours $424M Into Floating Offshore Wind Development",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGpra2x6dVlReU05ZUhOcGZHVS1MenlibWVIMi0xM2tzcnVFQ3JiMjVuanpPUDVfOU5kMHlmS1Rva2hMbmxFSmY4bzI4SzM1cnRwcEtnM0ZCZURpM283RGFDS3phUzhqd0hSSUxqU0k1MlpNT1ZNZmI4UllJanh4dDZQSzBWcDJwdkVkTlBIcG1kbU9oVGpqQmpNNGFFNnZG?oc=5",
-   "source": "Offshore Engineer Magazine",
-   "date": "2026-10-30",
+   "title": "Final turbine installed at Ecowende offshore wind farm",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZfc0MtR3VVbFh2QmZDM19KX3JKRkppT3hUMF81WFdaMDNPU05jZmlfTkh2VHBtbVRQYjhlVngxWjlFamxGYUwwR194OElRcnlpZnRfQXVwbmstb2tobkRJTnVHZmRPNE44QU9UR01ZMUNIVVdxdDZORVNvdDBrMVhCNG1PejhwSEhiZzluc0RjazlSTGlncVpjY2cyQjQ?oc=5",
+   "source": "Energy Global",
+   "date": "2026-11-03",
    "img": ""
   },
   {
-   "title": "DEME and Prysmian Start Cable Installation for Dutch Offshore Grid Connections",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTVRRjdDZElSZS1HSFN5T0VPdWpXZ2s3NV9YYVMzU0pXY2lNekVNRWM4M3o5ekQzZkdaa1ZtTEpYczlQLWpZbUNGUHE3djRNanRsU0d6YXdVYnVCbVQ1T2dPWlhHTUY2bHNCUFduRnl3RHFRQThiRUxDdkpGZ2JkZDU4a2JjV3pZejdJbTZWUVRNUW8wNTRQdmRVSWF6dmhadGtUZ29CQU0wVDd1b1FrQ3VsT2ZLUQ?oc=5",
+   "title": "Japan's industry ministry, Siemens Energy to partner on floating offshore wind project",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHFpcjMxRXhEUnZkMnNDd2VHVE1OWDNYeWdNeUxiM0d5UFNhQmY1bFBSZ2pLTk9PVVNWSWJ3VHRiZmpTY1VxMzNwOEUzaV9YcDVtU1dtLXpYMDVMUGRGNFVNcXMxT1h5MEhXaUs4cHZCYVNFV0JQcjAxZnFvRUhOS3ZXYXFNWE1NU1cxVTh6UlJmZzRxM3dfQw?oc=5",
+   "source": "Offshore Wind",
+   "date": "2026-10-29",
+   "img": "https://offshorewind.biz/api/media/file/Japan%20Siemens%20Energy%20MoU-1546x1027.png?prefix=media"
+  },
+  {
+   "title": "Tullow Oil Taps DeepOcean for Subsea Riser Job off Ghana",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZExaRmJQaGpCUXRrc0xNcW1TVDZiT1R2dEJ1dXhZdXp6NlJtVFpFOHAtODlmbWpmSEphN2x1eUN6dEdoU1lpZ2tzbVVzVlhadDBiM0xfLWgydWFMSm45T3F3ZlFweUtFUURaOVBXWjcyNjZmVU1Ia0pxMGhzSHFZSUVGOXpuSzFKek16MTFOTUN3WXZTelpvR3Jn?oc=5",
    "source": "Offshore Engineer Magazine",
    "date": "2026-10-29",
    "img": ""
   },
   {
-   "title": "PMS Installs Two Offshore Production Platforms at Egypt's Kamose Gas Field",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaGZ5SWpmWDVPLXBQdkR5WXNqQjNYdXVxaktMUExkODVicDVHUUVmNzlqS2VkTjRoMWFLNnhCcUJwN2IxRE0xWWRkWHE0ODNZdGQ4TlhyLW9MZm1VeG1peVBlR2VlMlBIRFJzbUJrRjhXbHlXaTMxMno5WTU2ckg0Qk4zakVzV1ZpUVpVQzJzVTRaMGplQm1DV3puc2pXTllrTlJUNFBLYUFXdFI5eE9JN0lR?oc=5",
-   "source": "Offshore Engineer Magazine",
+   "title": "DEME and Prysmian Start Cable Installation for Dutch Offshore Grid Connections",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUU1TVF2aFg2WmdQd1pMeGJUVlA3MmExN3Y3NXNlemYwODFMRnllU0RQeVJCaktINFotYzc3aUdKb0dON1lUMHg4RThVTlI1WlBHSF8takVPYWlVdDU5UzJ5YlBhZXM2cFBtcC1KN29mckFqaU5Hdm5lelpoTkFnWklHbWxIMk5aR3FyOUNMVTc1Wnc4b29Pc0wwUVhDOG90MHZzdlpjVG5Zd1pZWDB5NEZvdGY2NUNrVGc?oc=5",
+   "source": "Offshore Wind",
    "date": "2026-10-29",
    "img": ""
   },
@@ -94,24 +101,17 @@ window.NEWS={
    "img": ""
   },
   {
+   "title": "PGE and Ørsted Add BGB Group to Baltica 2 Offshore Wind Team",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMnFxbldWWE95dVY2SmtudnA2Rl85eTItSW1TNlItQm1xNHBlRUg0blFUaVVSZlZCb05kUDdEQ2dzWUxPS3E5QnZ3U2drTmluVF8yWDNhc05SUkVpWG42VnlnZEw5dzRrVHVIX2k3QXNpZzR3LW0zb3RDZmo2TVVXQU5laXBibE1kRnNKWGZoQ0FUZV9EdlU1ak1JYlF0X2dkelE?oc=5",
+   "source": "Offshore Wind",
+   "date": "2026-10-27",
+   "img": ""
+  },
+  {
    "title": "Hai Long, East Anglia TWO among offshore wind projects reaching key milestones",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNk9ES0g4NkozRFJpOTFLXzZ2MThVamdwNURQVXZkWHFEMXNxS1BaX1piclpYRE8taTNiVkdlS0doXzh6RlRGTi01aUkyQ2p4dk5JRGhVTlJnSlNtRmdlUWlzODZ2dktaNVgwdm5lVkVaQXlDRUU0dm5DLTRJQlJ1T29qYVR5TUhlY1dfelVnd25UVTV3WHZ1YUVBZlliS2Mtb1hIMTlKVXFQRzlZNzBrV045RGFlZUN6ZXpibHBlakNxem1RN0piX1pNTzFndE1aMTZv?oc=5",
    "source": "Offshore Magazine",
    "date": "2026-10-26",
-   "img": ""
-  },
-  {
-   "title": "IFM Investors to Acquire Majority Stake in UK Port Operator ABP",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDNDbGlDMGIwelM5UXdyMHRDNmxVclRJalpLdjk5WTRQMzJ1dE8xMTFIVmptWDU3T3ZOZFZYRDhLekhDOGY4RmE5QnJOUVhSZEpIQU5HcWd3S0E4VmhzdTJja2djRVl0RFpueUJsYmpMZ2VZdlhpcFY4cTRKZUVkSmdIVktWLXFNb19ONXltaGN6NlZ0c1hENExFUzRXblhm?oc=5",
-   "source": "Offshore Wind",
-   "date": "2026-10-22",
-   "img": ""
-  },
-  {
-   "title": "Former RWE Offshore Wind CEO Joins Esvagt Board",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVnhLTmw3UnVuU0hCWThDOGVpcENLLVozSlBBMF9qM2ZvOHllb1ZIelYxTXROcjVVUGhlMVp2RWgxQTNZQ2c2Y0VXSGVoV0NEN3lyb1ZWUjIzTWxQQ1NkeVJtVGJ6Z1lwWmNyYlEzRVpPODFZWFljenVPUzF2a3J2czZxOVFfamxYc01J?oc=5",
-   "source": "Offshore Wind",
-   "date": "2026-10-21",
    "img": ""
   }
  ],
@@ -121,13 +121,6 @@ window.NEWS={
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaFJpNmdhRllGSXRYSzZMd3RIRFJZRmFhdWU5TGFuSXZ2c1FoR2wxbHpBYTYzVDllNHljVkkzRXRhVGlQMDFaSlRUWnhvUDgtNF9GeFpqSnc2cTg2UHBLYi1COFVKU2gxY3c2VVduSlRwdkRIeC1ibjFsMTZ4N2p0TnJHUnRYcTR5RkVXcUtyUjNNTVR6amZPSHBQNGhGWXVvQ2R0OHlEcEJGNXc5eFJhWGZ5aw?oc=5",
    "source": "MarketBeat",
    "date": "2026-11-02",
-   "img": ""
-  },
-  {
-   "title": "GEOxyz Conducting Seabed Survey at East Anglia Two Offshore Wind Site",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUmllS1FCM0dUTnVSb3diSFFfS1VKODdEWVV2WTRZOGdhV2pSN1g0bm15Q0djeHF3aUM0eWNtNHJNRnBOanNzcG9LSWFEdDc3LWtOM05lQVNUQ0twaF9ya1VxTG9XMU5vTU1FMDNJZTNCR252V1JHbDFCM3dfWEg1cEpwLUE4SndCX210WWctLWFjSzhCOHhITU5VaWlzOV9ZWXN2NnV6TkY?oc=5",
-   "source": "Offshore Wind",
-   "date": "2026-10-22",
    "img": ""
   },
   {
@@ -166,5 +159,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-11-03 03:08 UTC"
+ "updated": "2026-11-04 01:45 UTC"
 };
