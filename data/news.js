@@ -1,70 +1,63 @@
 window.NEWS={
  "industry": [
   {
-   "title": "Mingyang signs agreement for offshore wind in the Philippines",
-   "url": "https://www.windpowermonthly.com/article/1974825/mingyang-signs-agreement-offshore-wind-philippines",
-   "source": "Windpower Monthly",
-   "date": "2026-11-10",
+   "title": "South Korean offshore wind project faces $744M funding delay",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWRwYkFMT1N0WWtxRXA0ZnlJTkg0c3QteF9EZlZMOURTS24yT2MyQTBHbjZobl9CNGxLWGFBMlpFU1BTdWFFUjFYMEVUUks2VVc3RXpxajRldm9qOTFoVzk0WFpzazY3VGhfM0xMQVcwbmxWNzRoNHI4OHNSQ0ljUUlwcDA0aTJkSXNzNmR6TlRMeTVRN0E1d1B3UzgzOU9D0gGmAUFVX3lxTE5oN3BxV2NjakpTeXZCNzdOaTVXSl9YT0podmxQSm5qTm41eG5Qd3k4WHl5bEw0dVVUVVByMWVSSEFEaVBDaVE4RUZIaTREbXpZVG51NkttSW9PdTBOUGlHQlhreWNwUGdjMGxZM245ZVI1RF9zcUpVYTJ2NE9Qai0tQUY5b1RrT3Q2WDh3WnRPcnMwOFhLUlN3dUxNa2Y4cWgteTQ4U3c?oc=5",
+   "source": "upi",
+   "date": "2026-11-11",
    "img": ""
   },
   {
-   "title": "HPR Wins First Taiwan Contract After Self-Funded Offshore Wind Trial",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWm1WV2gxZHJYcURac3FFR0xfNEM4amktN19HVFFKdVhWUTNBbkx0TDZvcDVwcnZwdld2REw4OENZMUlNanlMSGtMdEVyeGNlaFFlZ0hTUG1BUUVFRkxoaUg4TTVFN3U2b2FxbUwxVHhEOHhhVnBaOVoxR3pIUDdNUVZpSUlsR3FOdDhHd2tPa19SMWlyYTRVNjhMWjNTWDdWN09jd1g3enF1SFZMb0w0TzJ5OGM?oc=5",
-   "source": "Ocean News & Technology",
-   "date": "2026-11-10",
+   "title": "Taiwan Green Energy Milestone: Ørsted Finishes Wind Farm Installation via Port of Taichung Base",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOEx1WWVhZTNKa2V5bEN1c3lBVzdNbEVtalpEXzQwRVUzZ1kxdWdyTG55cDdRQUJKa0FId1A4Uzc4ZmZLc2xHSF9wbXU0bDRvdGh0bFZCNklmMzZUbFRRY3ROazk0dEZqWVdpM1pIWUFvUkVzT2hXSzJUVzdpVXBaMG1XRGRObHppZGFJVk9DOHlsbm9JTHQ0N2JoRWZWaHR2R2h4dG9MWXRKbGU3dUw2SVZaTjB4a2tFYTMtaEFCcEdtVlNyQlVSUk1tQ3lLeFFmTkczYXU3ZUc2OURoN3c?oc=5",
+   "source": "Port Strategy",
+   "date": "2026-11-11",
    "img": ""
   },
   {
-   "title": "HPR Secures Taiwan Offshore Wind Deal After High-Current ROV Trials",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkdzZWc5bWd0YnJfTGJGcGZkVUxuYXdiTGh1QURZU1E3RWVkWEVJZTNhS3lnZWxtQnpnTl9GTHJWN3ZLcl9kbjF2Sy0tWVU5dDN0NjVrRGdmN1FCZjh2R3N1VHJkTVBzUUxzZjlPa0N2TkJPdmxhY3RMUWQwY1RYVGkzTmw?oc=5",
-   "source": "Marine Technology News",
-   "date": "2026-11-10",
-   "img": ""
-  },
-  {
-   "title": "UK and Japan sign offshore wind industrial compact",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUJxWTdGUWhEei1aMnNNLUh5b2Q2ZzhreTZaS1MybGlrLTdENTJRS2dDYXZFeWgwN2ZsT2E5WEJRTmJhdFhRQ1dJcHBnVHhERUZjTWluTDRDSEZiV01sSVQ5ODZiRXVZNVYtcVZMWUh0MkgxTWJ5OU1PNmZoOW5RSU1OS3paRXZEVE81S1cwSEdMa0w1NGc?oc=5",
-   "source": "TGS | 4C Offshore",
-   "date": "2026-11-10",
-   "img": ""
-  },
-  {
-   "title": "GB Energy boss welcomes £9bn deal as Japan buys slice of UK’s floating offshore wind",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnRJRlVONnNQOWpRUEdiTjc0clA5a1ZKVkpVMEo2ZU1xamJYaE5mMjE4dTVnRUVVLUluWnBNQ0U5Z3FHZTV2N1M0b29PQm1mcEtWR2lkWkQ4NkI3R2x3WlF1ekp1S2NrZ0xUdHRKSGJmaEFGbmV4VUpEeEY5b1dHb21LaWNiRE5tNUpwMktjRl9QRU14UmpHNHhoRFZLM2MyUGR4NDV2TzAtZ3cxMWFtYXUxUEk?oc=5",
-   "source": "Energy Voice",
-   "date": "2026-11-10",
-   "img": ""
-  },
-  {
-   "title": "Energy security push 'can cut emissions' as wind and solar win both ways: WoodMac",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQWwtc3ZlemFscDVsb3A3aWlmajJBQjhrV2M4STJTejJfZlhQQUxOQnJ2WXJkUlBmNnRFVG13NHB1TUswWFVKZm95dDFNb29EVHM0X2hYRjNDcU1JTGhxdnJFQ0NxXzhyV0N4UkIxbTJKSDE0M2dMemJxMDNnSUVPSnhDUTdIX3VJeUg3aXVEdFowZk4wZWdMRnJSMWd2ZDRlc3c3ZDlLWmJsT3ZBcTkxRVliTEt5cEs2dzVNVmdrT0lSQS1z?oc=5",
+   "title": "RWE and KKR take FID on $16bn UK offshore wind projects",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXotcDlHZUFYZUFRMEc5Q3RMUlp5QUFNOFVrdVBTMzJHZHpHcFhjcW02Vm1feUd5ckJ0VWVCakw0Y2FpcTFHdkFpMVhpVF9WaW00N1VTdmo5VzZVbVBDVm5LOFE4X29qRXFSaW93QkxtVlgyX0Fta0NSbWd6cDN2V09idE1fU201OUNqbl8xb2YydmM3NG10VHlYa1I5eC1TNlVOcXpUTE1oWjdKUXc?oc=5",
    "source": "Recharge News",
-   "date": "2026-11-10",
+   "date": "2026-11-11",
    "img": ""
   },
   {
-   "title": "3rd Annual Philippines Offshore Wind Day 2026",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWVvRHJEc2lWNGhReW1ZMTlKMWNPMEIxZGk0czFNaXpvc0pFX3d1OHVGYnNqNlBXcmRtQzY0b1puY2JLNU9kVGZxSzRYUi1BSS05TU5paHMxbEZralFTelJwbTNXRk9mT1QyTVppMlV3UTBhSUU2ZU9kU2l3Tzd3cA?oc=5",
-   "source": "reNEWS",
-   "date": "2026-11-10",
+   "title": "Australia and Denmark Launch Clean Energy Partnership",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGNYa2RrZVFqN3l1OEN6RWQ4em9tQk9mUVpWQWRYcFdMSFRuNlltVnJUZ3hFTkRDR3Iyd3M5LUpqYzdPSUsyN0kyS2h6SVhJSmVKejRJYlVWbjBHamhuaGNmekhtaFRmcC0za096eGVPSVV1MGt0MW0xLVlRZmJmTWJieGZNTzVLanlOWnV3bC1EbDh5TGpxTkpwc3FLUUJLUzg0Y2VfMFpEM1Rka0tqUHRlelRXcTUyT0c3YVduM3dOTjNOejRtZUhNWEk?oc=5",
+   "source": "Fuel Cells Works",
+   "date": "2026-11-11",
    "img": ""
   },
   {
-   "title": "EU approves EUR-2bn Belgian aid for 735-MW offshore wind project",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjh3NW9mZ05XOVFwSTlLakk5UU9wQnZvcWlGZTVkRmZUbS1UUTNXSDFTMkNOMmdnU2tKRFpFLV9RNklyM2t2dlp1TENRcUdxSVZOMVlwOGd4U2diMVJhNy1HdXhSdFM4OW8xUHUtdVBNdGl2Qlp4VmcyRlJDRTBDVFlYbUJBT1ZTRGpEWDRhVVV1OVJLRXhad2twXzZJMW5ITUtEYldsTQ?oc=5",
-   "source": "Renewables Now",
-   "date": "2026-11-10",
+   "title": "South China’s offshore wind industry powers Asia-Pacific's green future",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUlXUEIwc0Z5TG5XMVJHMERRQ1JHeFZKVmxSbnZEeURlUFVPVlVfcWZGUTllLTZuN0lZSEVaTldRNTNJZUtWcTBIelQ2VEpQQWhBLUpFeEdfT3YwUTJ2WVVNWE03LWlXanNCbjZ0SlFzeUxWdkZmUkE3SE5hYmNyT1EwYkZRbWtQeDlFelpLMGpCalZ4dkNvNTg5STZkMEJUZUdRQ3I0eTJwSkYzWjZ4Tk1MOURpVU9NcXdsXzF3?oc=5",
+   "source": "巴士的報",
+   "date": "2026-11-11",
+   "img": ""
+  },
+  {
+   "title": "“Jointly developing training” ... EWP joins hands with Korea Energy Agency to train offshore wind specialists",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xNk15SG90M05LUHNHRUIweEFiS2lvSTFmc09uTGdaOG40YUE5TmdEbWs4RlZ6OFdIVEtZb0xyT0s1aXdpcTZwMlpoN0tMR2U1Yzcw?oc=5",
+   "source": "매일경제",
+   "date": "2026-11-11",
+   "img": ""
+  },
+  {
+   "title": "Burnham hails record £12bn offshore wind investment off Norfolk ahead of COP31",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYUzZWTnlXZVl6Q1BrS1d0eXVPa3N0R0NRb01rNXM0TUdBTGlWWjBLNktPVE9LNU1SYnFocmhlWXZYTUZUQ0cwOS1MZVgwQlByazRIRw?oc=5",
+   "source": "Daily Voice Of Asia",
+   "date": "2026-11-11",
+   "img": ""
+  },
+  {
+   "title": "Vietnam, RoK see ample room for cooperation in energy, offshore services",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDE2a1cyQTRqRzl3TWdmbGVUdm5FZHR5V2pCRlhWTzRIT0pBVm11LWJFRlBXZFB1RzFGX3hKcXU2UXVDZllzUkF1SHk2aGJnbXBfbkxIZnE5V3JtbXB6UTM0WEJ0c2psSl9RazRQVVBULU9UZy00Znk4RGVGQ2RPM2FCZTl6YWlEUGpNN28wdVgtTmhVTnJWVGFVSExQazJJTFhlQVRzVFZkT3hIbVd3ZQ?oc=5",
+   "source": "Vietnam+ (VietnamPlus)",
+   "date": "2026-11-11",
    "img": ""
   }
  ],
  "competitors": [
-  {
-   "title": "The newest player in offshore wind vessels just got bigger again",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnpFME1XdnMyZzVmakVBM0Ric2pPTXp1VmhSX05MaHVWdFBudzJkS195Rnl2TEJRQW55VmtYVGRiVUM2NVNCdmJyQ05ZdHlPcGM0Zk8zcGVQMDVKazhmaXAybTIyVkt0ZzZpdk5OR1hwQ0U4Y3VfT3dXa1BaQW5QTHdaUnlIb3F6LTJoZWh1ZXJwdkVLbmlZX1RReGJPNS04WlJnWHBlMVhVWm9WdDRXWVh2YUhTa1RWajZV?oc=5",
-   "source": "Recharge News",
-   "date": "2026-11-10",
-   "img": ""
-  },
   {
    "title": "UK-Japan pact targets £9 billion in investment for floating offshore wind",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YM1NkSThNUnRnZklZMkx1aldqWFRVcGg2S0cyZGJIOGdmZS1Oa1FOV1V0dHNJcGp4c190dDN5bklqcWhKZ0J1TmkwdEl3N0NMNjROTklpRnZ6V1gwWTFMeFZHX1VUY0NhVW85b0ZXU2FWVm43WHR1THhDV1d5WEU?oc=5",
@@ -73,10 +66,45 @@ window.NEWS={
    "img": "https://www.offshorewind.biz/api/media/file/Japan%20Siemens%20Energy%20MoU-800x531.png?prefix=media"
   },
   {
-   "title": "Floating And Shipboard Cranes Market To 2035: Offshore Wind Demand Supports Growth - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXB5dHpTLVRvUjAybzZJbHFSVmx4ZS1qMVNDSlJ6R2hfNkxlZnVxZ3ZaZ0w3eTVtVGx6SUJsVGYzWVVnbXRnN3J1UGkxc29UZVlCS293UW1VVTRwQV95ZWFlOVo5Rlc1Zldtc1hFT1lGZGI2RkZ5aUxTWGxUd0RGaDJsVDAyOWJldTZKdC1pUWVuM05KV2tEbmthc2kyamNEdVlRZkZ5X3JETUdmdTlBZEo0YkF4RFZZSk1vcGtTUWpKVjFEaFE?oc=5",
-   "source": "IndexBox",
+   "title": "Aberdeen robotics firm expands into Taiwan with offshore wind contract",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNHl5TGhqanF3RFZrNGRRelJxYWJmd2E0SWU4NW1kcDdET2VWeTJrbElJSEZ0TWh3S1JPdlgwTmhfMncyeVRZNG9MY3NSdy1uaGpEenFDazhnZWltOXpOS2E1cklKcXU4UlJxTWVQVXRZdXVQM0F2ckFuX2pGWDY4TjVlNDBnclhNb2xial9LNWhidG1NcVF6SFRnWHFjb2w0RWJxbUtTb0w4UQ?oc=5",
+   "source": "Aberdeen & Grampian Chamber of Commerce",
+   "date": "2026-11-10",
+   "img": ""
+  },
+  {
+   "title": "Wind turbine vessel glut set to become shortage within four years, report shows",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNnNHem1uQzVnUGxvT05mOHdqYW5EOF9pOGY3NVhjMUJQbkJFN0lnSm9ibHVzTVd6U0tIdlB6OUgxalhsLUVCWmxia2ZFVnhyWWFwQUlTeThIWDVRdHBvaWhlekN0eG54NUVmVXdyRkpqa0dtcTBKOU56cXhnYlpIOXhKMHlOdUU0a1NrZG9HU1JOTHNTX01fM0ZhbldIVER6OFJXUWozQnU1MkxIZGRXaWdjUTNMNnFMRlotMTN6blVuczlhSHozdldOb21LYXYzMzdZSXBB?oc=5",
+   "source": "Upstream Online",
    "date": "2026-11-09",
+   "img": ""
+  },
+  {
+   "title": "Boluda buys Dutch offshore towage specialist",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcnRzcThJSDVWOEhHZFdURjRaN3poMjNzTVZEM2ZUTURMZUE5eXVTME9FX09IS0FHdDVEenNBQ1dpS0JqQzJIZVhrM1lONFcwWGpTN1BGdFp4cERJYVRLNHhPWVpHbzcwaFMwSnNOSlVScm1QQXc?oc=5",
+   "source": "Splash247",
+   "date": "2026-11-09",
+   "img": ""
+  },
+  {
+   "title": "Finland designates four EEZ areas for wind power tenders",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZm5KdmRSRENEZ2NFQVZNSEVseGQ0Tm5RRlprM2F6UVlWV2h2NnZXQXV4VjJCS1FBZ0ttZVhHV0VseUYyOHA2eHZOZmNrbFdpaG51aXdZTHpZWDZZbjlyeFNDWWpjbFZHd1VWU09Dby1pSUJ0R013ZW5NSkN3dWozWjR5emppZw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-06",
+   "img": ""
+  },
+  {
+   "title": "DEME completes foundation installations at Nordlicht I wind farm off Germany",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzhBeHVlNVNfRWJCbnZhaGFBb2s3RHEyalhVWi0xYWxTMHlxdFFKTjhkd1RWbXZjc0JJLVQtVTh1NUM4ZDFoZ1liVExXWWJFWmVQYkRETC1yYUpVdTV5TzViSEJ2LUFkM0IydWw5bXNuUDhqNloxcEhqN0VtMFNkNS01TkV1MnVfODYxNVAySEhjcmw1NFh4b0tPVDlUUi1lMTJmedIBsgFBVV95cUxOZjAzZ2UwYnBiZG8xNWVnM0xPYU55OXdia1doVG1GNWE2T0pYRTBxUnplYzAxTVllSnpjTGVnS2ZEZ2swbUVScDBaZkxMRlRQT0J5WHpXQWFIZkJCVE03ZVpUZzRmQm40eFJEUXl6VjNmeDFORmI3Q0lQSjhzUktZR19rbzE5ZWVodTM3NU5xcGc5dkhjYmJNb3l1RWhOSElyVU9XTmRPaEh6YWJPY3FlWlZ3?oc=5",
+   "source": "Baird Maritime",
+   "date": "2026-11-05",
+   "img": ""
+  },
+  {
+   "title": "HEA Energy Buying Seaway7’s Heavy Transport Vessel Business",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckx3ZXltX1F4enhPWlBpNFB6elJMamhqQi1KMldtM2VCOElvUjZ5MHZzMW1LUm13VDF0S2ZJRjhweWFad2NnTm5aWGlkS2E4VWZsNk1JQ3Y2VXA5VkdkbGdSYUxMODB1a0NZNkt2X3JfREUzaHlCeWRtWjZGcHZsdWVrYThtMVctZlhWSTJrelVjZU9OdXlfRlhiOXl2blE?oc=5",
+   "source": "Offshore Wind",
+   "date": "2026-11-05",
    "img": ""
   },
   {
@@ -85,37 +113,30 @@ window.NEWS={
    "source": "Renewables Now",
    "date": "2026-11-02",
    "img": ""
-  },
-  {
-   "title": "South Korea announces 2.2-GW offshore wind auction, 2nd for 2026",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMk9vUjJFSXhBTmE0NzlaQUZQb3E3SE1lQXdaSTBXc1Z6WUstVXBmejVETGlHVGJXNlVlOU1aMTYzNUQyY2p4a0x4SE9vOFZmV25xdzlUSUEycWc0bDZBRkg0ZUFMVzYtb2RwNFBkY09BSTZuaTJzT3A0YmlsTW9QSk5mN29GQURKdDVVTWR0blVxQy1hLUQ1dmMzTDQ?oc=5",
-   "source": "Offshore Wind",
-   "date": "2026-10-30",
-   "img": "https://www.offshorewind.biz/api/media/file/copenhagen%20offshore%20partners-800x533.webp?prefix=media"
-  },
-  {
-   "title": "Prysmian and DEME begin Lake Veere cable installation for offshore wind projects",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaWtMZWdSLWtJOGRqVFpLTHdhNkJ1d002ZFZEd2U4M1ZvclduY1FLcWZwT3kyVVFlSWs2bWxGaW83WktUeUtfZzE2SHM0d0ZQNWtUd1FWUlZ6LVRwUW9FSVNFalZXdm00WVB5VVZrelRGSk94bDZTV2xNUUdncU1Hdy1kWk1Hc0l2R2t4TEN3dUEteEVheW1vYnlXbHdiQmpCZ1FEVFZDeUJrMTNpc0xsVGlKYlgyR3lXd1Q0M0lR?oc=5",
-   "source": "TGS | 4C Offshore",
-   "date": "2026-10-29",
-   "img": ""
-  },
-  {
-   "title": "Vard Launches New Energy Construction Vessel for Norwegian Owner",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHJQd3g1YllkMUg1QnFlT0VwRE1xeW9sTEJKeWxrMUE1NEFTNW1wMnBRUDNJaTljXzJrZ0JldWpLOHg1MzdZZG1Nd2VBR0VOMmpJb3pCTTlrWTlLNXB0dVFHbGEtRnRGbTJSTXNkSFJCaDJxcF9MMTRCUjRHaXJkX3ZlTHdVcnh0YjQ3SFhmdk5NQlZTNzYzejhBVkU0YV9YZmlORA?oc=5",
-   "source": "Offshore Engineer Magazine",
-   "date": "2026-10-29",
-   "img": ""
-  },
-  {
-   "title": "Boskalis awarded UXO IDC campaign at Gennaker Offshore Wind Farm",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXR1WUswWVFNd09TcWRCMFNlNHEtZWV1WHp2UTltNEcyQXA5bDNCWjhnWEJIclZFUnMwdWR3TmNvY0ZwbGFsTHpGbURva1JFWkE0eHBLNC1FQTdSOU5PdzVXY25nMjZSZGFJRkNYc2ttN1JWM3h0WFlUTFNhUGJldWRVd2dZdHV0dzFta0dISEZ5RUF4ZnZmX25SYzRIQUNXU3FReDFodmU?oc=5",
-   "source": "TGS | 4C Offshore",
-   "date": "2026-10-29",
-   "img": ""
   }
  ],
  "cadeler": [
+  {
+   "title": "Cadeler plc Signs Exclusivity Agreement for U.K. Wind Installation",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpUGJ3NGcyUUVKcVZkcUlFbnJwQ2ZNZGFjRmZmMkxDTnFPZGJCNXZMeUhYNG9VVjlCUmViT0FiU3VvYWNzYkpTTEh0d20yWHF3dDNXVVY0elU?oc=5",
+   "source": "www.tokenpost.com",
+   "date": "2026-11-12",
+   "img": ""
+  },
+  {
+   "title": "Cadeler signs exclusive deal for UK offshore wind installation",
+   "url": "https://www.renews.biz/offshore-wind/cadeler-secures-uk-offshore-wind-installation-deal/",
+   "source": "reNEWS",
+   "date": "2026-11-11",
+   "img": "https://www.renews.biz/wp-content/uploads/2026/07/Credit-Cadeler-300x200.jpg"
+  },
+  {
+   "title": "Cadeler plc (CDLR) stock price, news, quote and history",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CazJZcU1MSWthUnRSUkR3TC0yMy1xclZhdFI5R0JLbDdGajdwVkc2NU1JdE1DejNHZXg5SklldHBwald5YWI5dXhzM0FyRmxjNkE?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "date": "2026-11-11",
+   "img": ""
+  },
   {
    "title": "Andreas Sohmen-Pao's stake in Cadeler back above 30% after UK move",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDZ3akJkcDM4N2dMVmt4anB3MFhkc0Jhb041WjFzSWtLNVI5SXR5M3BoODNmZ2FRbnoyeTQ3SjZ3UFFTR1RGSXB4cW5Na1hVSzYtZnQ4OTN0aG5ZQnZmNVU5SEYwdWp0OGdQa1RlRlgtNVFxY014TWQ0TmdFWVJ0dXVROWVoUkd6YU9NZjdGdDA5MFRwSm50b25TTkw3Y0syV3dsQkhlQ1VFUTdZdzNBelQtWWdKZjQ?oc=5",
@@ -131,13 +152,6 @@ window.NEWS={
    "img": "https://www.offshorewind.biz/api/media/file/Cadeler%20A-class%20installation%20vessel-800x497.jpg?prefix=media"
   },
   {
-   "title": "Cadeler A/S (NYSE:CDLR) Stock Price Down 11.8% - Time to Sell?",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjBxYk1CYk5SbjhIX0h2OUZ1UHl4dExSTTFaZnprT2lBSFA2X1pZU1dYYVFLSFNrMnlNTmFGbjN1cUJncnNLSk02MmR0d0hmNWotd0htYkF6TDJkNGdoX1lPUE5rSURCd2NjdHdtemNfTDljUkpweVhmZWFrc1FYMEZncmFlY1pXSEpCX0twZlVuTXhveGVfMG5wUHA2alVwWGk2SHdzcHBRNDBLMHc?oc=5",
-   "source": "MarketBeat",
-   "date": "2026-11-03",
-   "img": ""
-  },
-  {
    "title": "Cadeler A/S (NYSE:CDLR) Hits New 1-Year High - Still a Buy?",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaFJpNmdhRllGSXRYSzZMd3RIRFJZRmFhdWU5TGFuSXZ2c1FoR2wxbHpBYTYzVDllNHljVkkzRXRhVGlQMDFaSlRUWnhvUDgtNF9GeFpqSnc2cTg2UHBLYi1COFVKU2gxY3c2VVduSlRwdkRIeC1ibjFsMTZ4N2p0TnJHUnRYcTR5RkVXcUtyUjNNTVR6amZPSHBQNGhGWXVvQ2R0OHlEcEJGNXc5eFJhWGZ5aw?oc=5",
    "source": "MarketBeat",
@@ -145,19 +159,19 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Cadeler A/S (NYSE:CDLR) Shares Climb 6.1% - Here's Why",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcmxFOHdTM2dWcl9zLWJRMEYyNmZKM0lNU3pBU1ZtN000ZUo1ZTlEMEJwX1ZJZUl5VDBpMXpkWFhDUkRKeExHRnVSZXdiX0RNZmFWaWNmbmdVN3E1NHF0aHhlU3RtLTJsUTZBUVlkY0Z3TWNNSHZxWjVtakJhbXVRVE42NmlyRlFIbXNYdGdqeWgxWTlsREJiR0tMQ3hrRTdndldYb0tRT2IyZw?oc=5",
+   "title": "Cadeler A/S (NYSE:CDLR) Stock Price Down 11.8% - Time to Sell?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOG1XYXlSbWhlaU9BWExCQnlxdWk0RXp0eDB4QmgwSE0yd3VrMzZ4WUFuVGMzTkljV0hJVHFPWFdDaW5MNDdxX2d0SmMxbndhU2FUbDVqbU9GMzFqdU8tZnExZjZnNGIxLUllZ3ZBelhORHB1ZkVlWnMwbFFDV2dXdWJVbUtVSTN0MVZKdmQwMUFEOUVtTnlFajR4VkdBYVNXd1JRQkswOA?oc=5",
    "source": "MarketBeat",
-   "date": "2026-10-21",
+   "date": "2026-10-30",
    "img": ""
   },
   {
-   "title": "Hampidjan Advant to Equip Cadeler's Wind Ace for East Anglia Two Job",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZk1SZllWSVFyX0dzODd2SUVjNElnQzBRTk1xTjM1S05BNzIzLXJ4VzJFakFPbjR5TWZ2MVFYRFBBT180Wms2cDNob3ZrVXRFdWZoMjBNbTEzVklnYkpuUl8yTGZGeENYYjdiWGpyeE4wZHNxeENvZGVOcnBUeGV6dlRYLXhCTi1ScnJkS0RJM2dnbHlQWWF2LXdicWRHUXYzMjIwMlhB?oc=5",
-   "source": "Offshore Wind",
-   "date": "2026-10-13",
+   "title": "Tokyo Gas receives AiP for floating offshore wind power generation facility",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWVBRlRRc21Xb0dBaUZlbklfTWtsVjUtSDNna3JLYzdzdUxrVnpBQ3cza0VzTmhoanIwMXJRSmFOc3JLYVBaWDVzZGtfU2FMcmQ5azFXRllVemJzTXptYnVpY0EtNTNKUmZlQXU1M0ozQ1FvMnBibkcxbDBpSWZFbXdxdHhTME9tS3l1MjlQVnVNRGxMNllrb00yNjkyM3hIV1dXSjF1Z3hFblFHT1VJcmdtRWhFV0FyRmU0?oc=5",
+   "source": "Energy Global",
+   "date": "2026-10-15",
    "img": ""
   }
  ],
- "updated": "2026-11-11 01:35 UTC"
+ "updated": "2026-11-12 02:36 UTC"
 };
