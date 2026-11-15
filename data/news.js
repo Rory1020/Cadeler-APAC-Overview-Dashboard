@@ -15,24 +15,10 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Taean Wind Power advances domestic supply chain partnerships",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa1FFRjE5aXlJY3VDTU4zNG9nV3puZHVxc25QcU9NQXJhZWJKenRJOURyakpHQzNud20tX0Y3NHM2dThvVWM2Sllncm14QTluRzJnb3RQeVowOEIyQWI1cXdENElnVmt4eFphTFFQTjEzUV91UzA0T2h0V0xiVGpzVW10djFGdUhhVnJQY25aR2hHYk5FUm1FekRZSi1OTHpHbmJsMXIwMWdfdw?oc=5",
-   "source": "Ocean Energy Resources",
-   "date": "2026-11-13",
-   "img": ""
-  },
-  {
    "title": "How extreme weather losses are forcing renewables insurers to rethink approach",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaUVEYlNwSnJRZ3NYcEV2THZPTThYSW5JeVY0cm1EYVg0WWJuQ3Y1aE9RQmtHU0llajlaYm41TXFaRFNTOUhYeUNrSkxqTkJXWWVFYVJiTTJLSzhGb1N6WV9tT3U4Zy1XOGVud3NQN3VUTF9kRjdkanEtQ0txREZEUEFyRDREWTYteFpkM0RuOHpXMGdUY244U240cUo5bFB4VGFPV0lLYjhwaEhWbkxIb3pZbElsd2NJTzlnb0dFVndncnl3ZGh2R3FUSmg?oc=5",
    "source": "Recharge News",
    "date": "2026-11-13",
-   "img": ""
-  },
-  {
-   "title": "PetroGreen and Ming Yang have partnered on offshore wind development in the Philippines",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ1RCZ2dtTXl2TC14bGN6cE8wOUk2U2VURWNxUWlsekVDN2VJUGVQdnA5LXo4SFBLUUp4cUQ1Z2RFN2hVVDlPWnZEOFFLcENTdnJUOWJrdjNlal9Xa1B5eFFCV0RvRzIweVA0eEtJV0ZEM2JmeWtZdm10cFp4MEd1Ukt5TDlVdFhtX2RZNUtqaDVDWi1Wem4zWEZTVkJmeUNsY1NIR2EtY1pYak1NaFBuQkxGcFZBS3NCTlp5UEIxYnRUam0tZmNR?oc=5",
-   "source": "TGS | 4C Offshore",
-   "date": "2026-11-12",
    "img": ""
   },
   {
@@ -55,6 +41,20 @@ window.NEWS={
    "source": "Renewables Now",
    "date": "2026-11-12",
    "img": ""
+  },
+  {
+   "title": "Offshore wind to go from individual initiatives to nationwide plan: Premier-News-Radio Taiwan International",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wSWpackd2Q1ZVQl9tTkg3ODk3M0VzR0pFRjAtUDU3M3Z6WDJMZldZZnVaU3ZxU2txcjNtR2d0WVpNdTN6UzhFZzhwbjdDVU51aXpJR2JRZ2ZvdDQ?oc=5",
+   "source": "Rti 中央廣播電臺",
+   "date": "2026-11-12",
+   "img": ""
+  },
+  {
+   "title": "UK and Japan Sign Offshore Wind Industrial Compact to Deepen Cooperation",
+   "url": "https://www.offshorewind.biz/2026/11/11/uk-and-japan-sign-offshore-wind-industrial-compact-to-deepen-cooperation",
+   "source": "offshoreWIND.biz",
+   "date": "2026-11-11",
+   "img": "https://www.offshorewind.biz/api/media/file/Goto%20floating%20wind%20farm-800x397.webp?prefix=media"
   }
  ],
  "competitors": [
@@ -87,20 +87,6 @@ window.NEWS={
    "img": "https://www.offshorewind.biz/api/media/file/Japan%20Siemens%20Energy%20MoU-800x531.png?prefix=media"
   },
   {
-   "title": "Wind turbine vessel glut set to become shortage within four years, report shows",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNnNHem1uQzVnUGxvT05mOHdqYW5EOF9pOGY3NVhjMUJQbkJFN0lnSm9ibHVzTVd6U0tIdlB6OUgxalhsLUVCWmxia2ZFVnhyWWFwQUlTeThIWDVRdHBvaWhlekN0eG54NUVmVXdyRkpqa0dtcTBKOU56cXhnYlpIOXhKMHlOdUU0a1NrZG9HU1JOTHNTX01fM0ZhbldIVER6OFJXUWozQnU1MkxIZGRXaWdjUTNMNnFMRlotMTN6blVuczlhSHozdldOb21LYXYzMzdZSXBB?oc=5",
-   "source": "Upstream Online",
-   "date": "2026-11-09",
-   "img": ""
-  },
-  {
-   "title": "Vattenfall Signs Final Agreements for 1.8 GW Danish Offshore Wind Projects",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM1V4WG15aWwtQlBDVEFEblA3dGZFOG1NanFFMGlfUGRkekVpaDVybS1OR3lXdHRuelRtcmZMVWxEOXQzSktkT3dJZ2JzSHNCZVNxaWc5SnBhZWdLWTZuNXNyVVVZem0tdGpaRzRDUklQcXAzTkYySFVSdkZhY3NPUGdoMXl0Z2Q5M2YxQmdZSDZUejVtTG1BWnNRS0lVeVZNc19Sdk52bnMydDNH?oc=5",
-   "source": "Offshore Wind",
-   "date": "2026-11-06",
-   "img": ""
-  },
-  {
    "title": "DEME completes foundation installations at Nordlicht I wind farm off Germany",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzhBeHVlNVNfRWJCbnZhaGFBb2s3RHEyalhVWi0xYWxTMHlxdFFKTjhkd1RWbXZjc0JJLVQtVTh1NUM4ZDFoZ1liVExXWWJFWmVQYkRETC1yYUpVdTV5TzViSEJ2LUFkM0IydWw5bXNuUDhqNloxcEhqN0VtMFNkNS01TkV1MnVfODYxNVAySEhjcmw1NFh4b0tPVDlUUi1lMTJmedIBsgFBVV95cUxOZjAzZ2UwYnBiZG8xNWVnM0xPYU55OXdia1doVG1GNWE2T0pYRTBxUnplYzAxTVllSnpjTGVnS2ZEZ2swbUVScDBaZkxMRlRQT0J5WHpXQWFIZkJCVE03ZVpUZzRmQm40eFJEUXl6VjNmeDFORmI3Q0lQSjhzUktZR19rbzE5ZWVodTM3NU5xcGc5dkhjYmJNb3l1RWhOSElyVU9XTmRPaEh6YWJPY3FlWlZ3?oc=5",
    "source": "Baird Maritime",
@@ -112,6 +98,20 @@ window.NEWS={
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFZfc0MtR3VVbFh2QmZDM19KX3JKRkppT3hUMF81WFdaMDNPU05jZmlfTkh2VHBtbVRQYjhlVngxWjlFamxGYUwwR194OElRcnlpZnRfQXVwbmstb2tobkRJTnVHZmRPNE44QU9UR01ZMUNIVVdxdDZORVNvdDBrMVhCNG1PejhwSEhiZzluc0RjazlSTGlncVpjY2cyQjQ?oc=5",
    "source": "Energy Global",
    "date": "2026-11-03",
+   "img": ""
+  },
+  {
+   "title": "Boskalis Secures Second UXO Clearance Contract for 976.5 MW Gennaker Offshore Wind Farm in Germany",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVFwWTZDRVhWWWRqZ2RpWlBURXVNYng4ZEpUeWZ2V2JlQm1LWnJia0VGWlBfQ1Z5T19YbHAteDJKWmFFX0pFNkh1aXNNbU83VlRWYTZ5aWhPZXZUU1ljQXJ4STU3Wm1oQnV0RmpHSkM3Q3dKTVRHNVdIdHo1eE5mRk9hVlVkTFVCSFZ1ZDdVVGZycS15QnZ3UVBjZmxHS0o2OXlyaEdBZ3p2V1hpNC1NYTc5UVdXdXkxZmZNeDdiNA?oc=5",
+   "source": "DredgeWire",
+   "date": "2026-11-02",
+   "img": ""
+  },
+  {
+   "title": "Van Oord and Vestas complete Ecowende installation",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWGl4NHkyMG1SYm5ZYmpjNEs2ZXVrVXZtQlB3Y0xWbTJBNkhhdjY0RjhZaG5YMVlOZjk0TDlHT09ZNDBHVHRnMV9KMkdhOFYxYmZZSmwtZjZNMEtKNVpxZ0dNaEoxbjhZS25MZ3hUYXBEYmdxRE4ycWRDb2h0WUMzT1l0ZFE2RHp0RlFoTFNmSk9LQQ?oc=5",
+   "source": "reNEWS",
+   "date": "2026-11-02",
    "img": ""
   }
  ],
@@ -128,13 +128,6 @@ window.NEWS={
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDZ3akJkcDM4N2dMVmt4anB3MFhkc0Jhb041WjFzSWtLNVI5SXR5M3BoODNmZ2FRbnoyeTQ3SjZ3UFFTR1RGSXB4cW5Na1hVSzYtZnQ4OTN0aG5ZQnZmNVU5SEYwdWp0OGdQa1RlRlgtNVFxY014TWQ0TmdFWVJ0dXVROWVoUkd6YU9NZjdGdDA5MFRwSm50b25TTkw3Y0syV3dsQkhlQ1VFUTdZdzNBelQtWWdKZjQ?oc=5",
    "source": "TradeWinds News",
    "date": "2026-11-09",
-   "img": ""
-  },
-  {
-   "title": "Cadeler A/S (NYSE:CDLR) Stock Price Down 11.8% - Time to Sell?",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ094LUFwR19uQ3dXb1RXbjVXdUh5OVpKN09DWi1IYzU3WktWaExZeVJHazQtWWV5Nk1XSFQwYUQ0NVF4eDh1TjE1WHIyZWt5a2FnUDVjVmY0czM3ODVUYTdxazJlS2w1dnNlaURnNldYa2xRcXdHVjQ4LWVvdEFwVFJLZzMzb3l4VGtCaW5mdU42c2dvYmMwOFBET2xVRU1GMGUxVmFBNXBhOWNqRi04Wi1vY3U?oc=5",
-   "source": "MarketBeat",
-   "date": "2026-11-05",
    "img": ""
   },
   {
@@ -157,7 +150,14 @@ window.NEWS={
    "source": "Renewables Now",
    "date": "2026-11-04",
    "img": ""
+  },
+  {
+   "title": "Cadeler A/S (NYSE:CDLR) Stock Price Down 11.8% - Time to Sell?",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjBxYk1CYk5SbjhIX0h2OUZ1UHl4dExSTTFaZnprT2lBSFA2X1pZU1dYYVFLSFNrMnlNTmFGbjN1cUJncnNLSk02MmR0d0hmNWotd0htYkF6TDJkNGdoX1lPUE5rSURCd2NjdHdtemNfTDljUkpweVhmZWFrc1FYMEZncmFlY1pXSEpCX0twZlVuTXhveGVfMG5wUHA2alVwWGk2SHdzcHBRNDBLMHc?oc=5",
+   "source": "MarketBeat",
+   "date": "2026-11-03",
+   "img": ""
   }
  ],
- "updated": "2026-11-14 01:54 UTC"
+ "updated": "2026-11-15 01:25 UTC"
 };
