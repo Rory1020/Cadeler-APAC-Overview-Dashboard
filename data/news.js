@@ -1,16 +1,37 @@
 window.NEWS={
  "industry": [
   {
-   "title": "Japan looks to offshore wind to boost energy security, but hurdles remain - news",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUi0wZmh6WlREbjBTU0lYcXY0OFpkX2phNElyVGd6aEE3RjljTElfNGYwQUVLRzkzanAtR0pDMnJpSjBoVUVsNEdmU0piM1puVnl5QU1ONjdIbENfcnpBWEZVOFR4bElrVENDYk9FcUpzSVJBMzJfeW5Ja3RtQU83SHZxUVJ1X2hWdlB4REo0VW03VzhFQkxOSkgzb2wxVFZJMk0yUXBfUnF5ejczOXA1UNIBsAFBVV95cUxPUi0wZmh6WlREbjBTU0lYcXY0OFpkX2phNElyVGd6aEE3RjljTElfNGYwQUVLRzkzanAtR0pDMnJpSjBoVUVsNEdmU0piM1puVnl5QU1ONjdIbENfcnpBWEZVOFR4bElrVENDYk9FcUpzSVJBMzJfeW5Ja3RtQU83SHZxUVJ1X2hWdlB4REo0VW03VzhFQkxOSkgzb2wxVFZJMk0yUXBfUnF5ejczOXA1UA?oc=5",
-   "source": "news - Mongabay",
-   "date": "2026-11-20",
+   "title": "B.Grimm Power Starts 364.8 MW Offshore Wind Operations In South Korea, Advances 340 MW Project",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN0RGZ0VGT1V0WUtacERTYmkwT2lUYllUNUpIc29fQ1NiODlqaXRpM3M0VzV4OFNvbi1QcEpLQXFwck93cC1jXzhnakVraHJVZm5FZXJoREFPYlN1alJ4bHctT2dYbzgwbVJ3MmZZalUyMXRsdWc2WlpVNEV4ODVUZFJJTG5NUnRqWmFfYWdUYjZMQ1V0WnBOZjVvcEVmZ2c5Wnp6Rk15VXM3aDZFZjlEV18wMldBOEVMM1lmd2NiQkhWaDVndGctcVBR?oc=5",
+   "source": "SolarQuarter",
+   "date": "2026-11-21",
    "img": ""
   },
   {
-   "title": "Korean industrial heavyweights chase Seoul's 45-GW offshore wind target",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ac1BZa1lDaEZBU19rdURlb3dHSmJOeW5CdHB0MEJVNGdsTE83dzY2QmtPM25ManViNTZNclRiRUpnZVVFeWxzdmt1WE8xTGh0Qnc3UkFLYU1GZWYxQVZJQ2N5cHc2R05G?oc=5",
-   "source": "KED Global",
+   "title": "PH to boost offshore wind",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOXJsOUdmS2h5cEpNUHZhM3ZEYnNjV1kzek9SVURzUmJuQkJfMzg2azZJa3FGVFZNLVl4WU9Bd25NSTNMTHVWc0EwWHVWX0xrbVI5X2U0QVJJZWt1dDVJQkUwR3pPN2ZyMWNxZ29QaDBGeG4tdVZhT3dTYkxCSkRYaWN6dzFKMkd0TEl4azM0QdIBlAFBVV95cUxOZUFHQVpseXZJQnZIeHVHZWctSWlrcEdNM3ZiN04waEowLW1nRWJyN0NTZVBkR2MyZHRrNFRSRUVOZjNFbUk1ZkdhcmRNbTM4bnVOY2VCWUZJQkFMY012V0hnQkxnNElqc0RkNGx1Ri1lTHFiTVJvMmNxTDRLdFAteVFDcV9fZGU3eTlRaHhWb0RJNzNW?oc=5",
+   "source": "The Manila Times",
+   "date": "2026-11-21",
+   "img": ""
+  },
+  {
+   "title": "PH taps offshore wind potential to cut reliance on imported fuel",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSEQ5aTBialFpcWt1MTQ1dW5hbUF6akhzd2g1M21KdUpURUgyVTVCbGxxODlGcXRhT2lGRjJnMjlBZ0ZMdV8tdndicmo2U2FyRWtTdVJmVzUwVVVwV0E0QU95S0J3eFk2d3VHQ0ZDeWc3akVVNXJiUlE4YXlGampyYmJkRjB3emVHdlNERjhralhtdE1YMWZMbmw3QThQMDNnbUgxSWpEZVVqOXFPanZNN3JMMkZUYWd5cDdSOdIBvAFBVV95cUxNSEQ5aTBialFpcWt1MTQ1dW5hbUF6akhzd2g1M21KdUpURUgyVTVCbGxxODlGcXRhT2lGRjJnMjlBZ0ZMdV8tdndicmo2U2FyRWtTdVJmVzUwVVVwV0E0QU95S0J3eFk2d3VHQ0ZDeWc3akVVNXJiUlE4YXlGampyYmJkRjB3emVHdlNERjhralhtdE1YMWZMbmw3QThQMDNnbUgxSWpEZVVqOXFPanZNN3JMMkZUYWd5cDdSOQ?oc=5",
+   "source": "The Manila Times",
+   "date": "2026-11-21",
+   "img": ""
+  },
+  {
+   "title": "PBBM meets Chinese energy firm on offshore wind investments",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdi05Q1Y1V1Vva3pUdGg0ZkVrX214RHJodzlUMzZqZ2lNYmFkV3hTZHBiTE01dmF2azl6ZXVDV3RMaTlBQkhibnB5NDVwTjBSTkV4enZ5Tnh6a0psYl8za1hwUTBYTkpRckJKd2NueW55QlppZEU1MzdEb05xeUVKLU1MeTNkelFTNzQ3bjhIeGdzV1BWRXc?oc=5",
+   "source": "The Voice Newsweekly",
+   "date": "2026-11-21",
+   "img": ""
+  },
+  {
+   "title": "Japan looks to offshore wind to boost energy security, but hurdles remain - news",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUi0wZmh6WlREbjBTU0lYcXY0OFpkX2phNElyVGd6aEE3RjljTElfNGYwQUVLRzkzanAtR0pDMnJpSjBoVUVsNEdmU0piM1puVnl5QU1ONjdIbENfcnpBWEZVOFR4bElrVENDYk9FcUpzSVJBMzJfeW5Ja3RtQU83SHZxUVJ1X2hWdlB4REo0VW03VzhFQkxOSkgzb2wxVFZJMk0yUXBfUnF5ejczOXA1UNIBsAFBVV95cUxPUi0wZmh6WlREbjBTU0lYcXY0OFpkX2phNElyVGd6aEE3RjljTElfNGYwQUVLRzkzanAtR0pDMnJpSjBoVUVsNEdmU0piM1puVnl5QU1ONjdIbENfcnpBWEZVOFR4bElrVENDYk9FcUpzSVJBMzJfeW5Ja3RtQU83SHZxUVJ1X2hWdlB4REo0VW03VzhFQkxOSkgzb2wxVFZJMk0yUXBfUnF5ejczOXA1UA?oc=5",
+   "source": "news - Mongabay",
    "date": "2026-11-20",
    "img": ""
   },
@@ -22,37 +43,16 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Purus takes delivery of hybrid CSOV for offshore wind support work",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1ViY1BmUkNPWGpvUl81MWFvVDNodFRvR0swX01sSE5YX0s3ODBabW8xMDJZYTJNSkdRblltY0FTYk5TTGRvTmsxUXpURzdqcDZrazBiX0R5Yk5jLUxmRW1nRjFna00xMzJvRjA2NHBPTUdQSmJSN3B0dlFzaGY3NFBJZGZzRUtNeWo0eHZIN2o2UnBPYVk0MXFUTGN0TG11YUJoMtIBsgFBVV95cUxQaFZsSTZvNU5ObXcwRW42R0NTQ3NydTJMQTJvcVJXSi1lNkVXbS1FUk9XSVpQUUl2R0dSR292VTdRWlZpWUVvNGZxOGwyeDBzQUpzN2g5VXBQeFJuem1zeFFSNzI2ME1PYUhNY1ZLTVlqVE1vRnFUR3BYSi04MVBkVFNjaEJvZUZrWWN6dDUzd2lnU0UwMTVLcHk3OURfSlA4SGpYR3BYZ3NyV2NXZjB5ZXVn?oc=5",
-   "source": "Baird Maritime",
+   "title": "South Korea, Norway Business Communities Reunite After 10 Years, Expanding Cooperation Beyond Shipbuilding to Defense and Offshore Wind",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uWFhJNUsyemlrdnBaQy1kbklFV0h3UjYyOUY4NTV6NFlQQi16a0hrTm9IcFNCZXo4dHFFNGxDOHRkUzhFYmxKMDNkLUQweHBSWjZydTR3TlJqUWJ1YmVPRGxpdTl4QUNFeEhOOWZKc21GZUl6TGc?oc=5",
+   "source": "finance.biggo.com",
    "date": "2026-11-20",
    "img": ""
   },
   {
-   "title": "Doosan Enerbility Offshore Wind Turbines Secure Global Standard Insurance Terms",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhQi1RZ1JSM25TZ3N6dkpvc2l3clo1MVF6RHZPMk4xTVBJTW1JTE9HWUItTzUxNzZhazlvdW1DQ05TcWtsNXZFaG83Q2RLWnNuM0VzNEl5NkNtQl9sMWNEZ2tmS3dacDdz?oc=5",
-   "source": "아시아경제",
-   "date": "2026-11-20",
-   "img": ""
-  },
-  {
-   "title": "\"Zero offshore wind uptake in Australia\" predicts BloombergNEF",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU1BSUpnb0xTMkFiM1h2ZDRSREFheFh4dkVwUWtzX25iWG1JU0VpMHpfOXl6a3ZacDJHQzl6Y29kWEhpa2E1eHFCa3VRdE9SYnI1c1lBNkZCOUNfSnEyOEc4QnJzU0Vjb0d6OEJseEdmM0pLS2Y4RjBZVzlubUxyRWl0VGY0X24wSU1VbUlPcE5kU0Zwb3c0eTRQaXEzaC1iaS1mX0NFN2RfOHhka3lZ?oc=5",
-   "source": "Energy News Bulletin",
-   "date": "2026-11-20",
-   "img": ""
-  },
-  {
-   "title": "PetroGreen, Ming Yang partner for 2 GW offshore wind project in Philippines",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkotdlE1UHZWc2R4a0JOUnYzLUdiMU5rSllmY3NDZkFFbm1uZTdqX29uRlNwY1BQQUJ1SDFvcXJwZF9kRG1Dd0VXR0tIUV8wWFJWZ2ZibUJqcFhDVzNvTm8xRC1EdElvZUVtNFc4Rjh2TGU3bXlHUk0zTHVSXzB5T01Xc29QcTRLUUJxUmtqWGVqdjNyellQcnd1bUVmZ2pTRG5mQTJ0UGVFeUh5OFhBNHJGRQ?oc=5",
-   "source": "Powerline Magazine",
-   "date": "2026-11-20",
-   "img": ""
-  },
-  {
-   "title": "From K2 tanks to offshore wind... South Korea and Norway expand cooperation : Politics : JKN",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkYk1TNGswTm1BSzZJT19YT29uRFo2TkJlU1hYZGVWUlpnZjhYYW9zeHJ5VWVXVFh5b2JIUy1KOGJHbkRvdzRWcmdxQmZjbFQyTFJWb2drMnVVUzZPclh6UzhB?oc=5",
-   "source": "재경일보",
+   "title": "LOOK: President Ferdinand “Bongbong” Marcos Jr. met with Ming Yang Smart Energy Group Chairman Zhang Chuanwei and company executives during the sidelines of the 33rd APEC Economic Leaders’ Meeting in Shenzhen, China. The leaders discussed",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSWF2WmkzQjJhS3FWeUtZSEJmcV9zZFdXZHRraERmTngxMk81QXhtT0J4SHp5YzVzeU9EdjFwUUlNUDRUZVQyNkNQdE5fWV9EZ3V2VElkYW5oUnYwNHZoYWFBMWVGM3pBYWZNdGEwTEtMSUcwUzNWZ05hYWxVZWZ2S21NRUxWUlN5RUZBNnJ3RXJJQTdSUktyQ3RSbWMzbVpaa0RabmZRZnpub21lT19QUUJFQWltZXJVcFJXNFFOZHdWUjBWbXZGeVdUeGUxbW5xQ1kw?oc=5",
+   "source": "Facebook",
    "date": "2026-11-20",
    "img": ""
   }
@@ -101,17 +101,17 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "CIP awards offshore substation EPC contract for Fengmiao II",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVpGZmQ5QXQ0QkZQdGpwU3hFNzlCRlBONXZ3bHp1a3pFaUc3ZlB3TWx3MXRfTXN4dlU0LXBQN3RKbEhyTVA4TkVnTUhwbG1KRVNYRVhuczdZZHNwZmZzSzJSdDV3RThLVWNHN1p1VHdqOWhyNUUxVFZ5M2NxeVh4X2RJczRkRjlKM214Rklqemo3Vk5Pa09LN3ZqZlRMV2tkX2NiTHV4UUQ?oc=5",
-   "source": "Ocean Energy Resources",
-   "date": "2026-11-17",
-   "img": ""
+   "title": "First Monopiles, Turbine Towers Delivered for 315 MW Japanese Offshore Wind Farm Ahead of 2027 Construction",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaG1MLUs5WGJZNGhlQjUtdkNjSWFiZ1p3TXVYbm0xRGtEaWxRMVlDZ3oxNnc0Y2k5WW1USlZZSXFfRk5iaThlbEdOb1h4N0ZaTFVTTDQ4cHhyR0c0SERXZDkzS09pZEFFZGM0dmNfWXdNc3k0bXV4OHdyV25Nc3FUcE1OVS1mWG10Z3BQenNnNlJoQl90WlMtUEZ1Q2xOdC15YkFJa3pUYjREcjdoRzk4SEF4ZlRfTjJsRzRERkJOSmJybkZqcTNFVm9ZelBYQWw3bWR4YXlhZnotUmEzS19v?oc=5",
+   "source": "Offshore Wind",
+   "date": "2026-11-16",
+   "img": "https://www.offshorewind.biz/api/media/file/Oga-Katagami-Akita%20towers%20_%20Jera%20Nex%20BP-800x533.jpg?prefix=media"
   },
   {
-   "title": "The Hai Long offshore wind farm celebrates construction milestone",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzFvdzF5SjQ2Rjc2ak5OWVZST21CeEsxS0gxZC1GSDNIOEZZVnVDbTk0MG9CakpkY2ZEeWVMVWtpU1VJbmhoOFR6aU9UMG5JWGtyTjROSmdqWm5qY09NRkR5NE9XRXdJVzdoeEQ0aklJMEpHZ2FvTWZZVkozZ1ZfQ1JTTGU?oc=5",
-   "source": "reNEWS",
-   "date": "2026-11-17",
+   "title": "Semco Maritime and PTSC M&C Net Offshore Substation Contract for CIP’s Second Fengmiao Project",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS2JBaXBiNV9ZYm1HRG82SGRTOFhfYXdhS1JfazN0X3VTYmN1LXRGYkJhYjFEWG0xVVAzM0lLc3hFTkIzSVZHTzBwWG13Z21NTFNYLW5PeU9QWHNJZUY3NVlMYzN1bF9nNFdaX0liTWM4bnVJUHVOekFqR3hibjY2X1p2RjAyZG1EMEdaM0h4VFJYTTdVQkh3eWVZNjVhS2pHcGtrR3dzU1MyOEk5WDJiTVV0Vjh5TFplX1pQdWt3eHdPVmd2VDZ5V01TRXJSVzI1?oc=5",
+   "source": "Offshore Wind",
+   "date": "2026-11-16",
    "img": ""
   }
  ],
@@ -173,5 +173,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-11-21 02:54 UTC"
+ "updated": "2026-11-22 01:46 UTC"
 };
