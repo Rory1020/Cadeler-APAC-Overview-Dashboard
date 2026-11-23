@@ -1,6 +1,13 @@
 window.NEWS={
  "industry": [
   {
+   "title": "Chinese firm building windmills at sea",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tYnJXMnJvdEoxcWJTVGpMZElVaTNMX25GTUd3SXNxbl80b041Q2V0ejdya1BjQ2hyZ0o5NXA0eWd5QV9jelg2dzlTTTQwMDU3Q3pYY0hJN1JjMzVMa21sOHBGZXFYUHJVbkJhUHQzbUhRdnpUd3lmc2FTNGU?oc=5",
+   "source": "Daily Tribune",
+   "date": "2026-11-22",
+   "img": ""
+  },
+  {
    "title": "B.Grimm Power Starts 364.8 MW Offshore Wind Operations In South Korea, Advances 340 MW Project",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN0RGZ0VGT1V0WUtacERTYmkwT2lUYllUNUpIc29fQ1NiODlqaXRpM3M0VzV4OFNvbi1QcEpLQXFwck93cC1jXzhnakVraHJVZm5FZXJoREFPYlN1alJ4bHctT2dYbzgwbVJ3MmZZalUyMXRsdWc2WlpVNEV4ODVUZFJJTG5NUnRqWmFfYWdUYjZMQ1V0WnBOZjVvcEVmZ2c5Wnp6Rk15VXM3aDZFZjlEV18wMldBOEVMM1lmd2NiQkhWaDVndGctcVBR?oc=5",
    "source": "SolarQuarter",
@@ -16,7 +23,7 @@ window.NEWS={
   },
   {
    "title": "PH taps offshore wind potential to cut reliance on imported fuel",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSEQ5aTBialFpcWt1MTQ1dW5hbUF6akhzd2g1M21KdUpURUgyVTVCbGxxODlGcXRhT2lGRjJnMjlBZ0ZMdV8tdndicmo2U2FyRWtTdVJmVzUwVVVwV0E0QU95S0J3eFk2d3VHQ0ZDeWc3akVVNXJiUlE4YXlGampyYmJkRjB3emVHdlNERjhralhtdE1YMWZMbmw3QThQMDNnbUgxSWpEZVVqOXFPanZNN3JMMkZUYWd5cDdSOdIBvAFBVV95cUxNSEQ5aTBialFpcWt1MTQ1dW5hbUF6akhzd2g1M21KdUpURUgyVTVCbGxxODlGcXRhT2lGRjJnMjlBZ0ZMdV8tdndicmo2U2FyRWtTdVJmVzUwVVVwV0E0QU95S0J3eFk2d3VHQ0ZDeWc3akVVNXJiUlE4YXlGampyYmJkRjB3emVHdlNERjhralhtdE1YMWZMbmw3QThQMDNnbUgxSWpEZVVqOXFPanZNN3JMMkZUYWd5cDdSOQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2dxd3NCUlRvQktJMENQLURPTDNzMW5QY3BXMWR0YlpraEpxV2c4VUxZQnMteWJtQWZtQ1NrN3U0SHl2cW1FRDNlQ1J0MS15ZmlHT3VpWk9SbzZJdEdHelNfX19mbXp6a3diSHF1cklSOHpIUVd2eGt6ZW9pazlOSC1KeWRyWVdPTTlYeDdEYWIwdkRpaGh5WFhhTVpSajB4TGVoQkJZdmh5dEg1bVJoYm85R0s5cWPSAbwBQVVfeXFMTUhEOWkwYmpRaXFrdTE0NXVuYW1BempIc3doNTNtSnVKVEVIMlU1QmxscTg5RnF0YU9pRkYyZzI5QWdGTHVfLXZ3YnJqNlNhckVrU3VSZlc1MFVVcFdBNEFPeUtCd3hZNnd1R0NGQ3lnN2pFVTVyYlJROGF5RmpqcmJiZEYwd3plR3ZTREY4a2pYbXRNWDFmTG5sN0E4UDAzZ21IMUlqRGVVajlxT2p2TTdyTDJGVGFneXA3Ujk?oc=5",
    "source": "The Manila Times",
    "date": "2026-11-21",
    "img": ""
@@ -36,23 +43,16 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Floating wind is building ‘A lot of momentum’ toward commercialization - news",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUhVbzFubXFwWVRZaG9uVWtxQW1ScXZVODRMeC1sQzF5OVJCS1k5QTlEN09MdVNETVhZRXZlelNaVDdpVzBDRGxmVnhYWWVPSUZSaTc0eEQ1YnluaEJjYXc5ek92dWxKZ0kwZkgyQjRSbUt0SWp5VHZSWjZFX1JhQXVMaldYeHFxNVpVY3lZMk5rOTliUmt3NEhmTkx6MXF0STdDZGxn0gGrAUFVX3lxTE9VSUd6TjE3Q05ERVZWUXZ3LUY5YjFHbVJIZFhzdHBIdk1DV2NFb0FldnZtZHFnaW12TW5GZGZ1U3BSLW5zY0xsUTIycmI4bWRkWGFhNHZTZU5Lcnd5NmIwQ2xPd0NXVWdNcmQ1d1RjTTFMdXdGN1MtUVdFMVJqUDh5OWJIYnNTZFMyR0t5eDVfSkxjblNpMURKaDRqb1B4cEMyaVhLYUNjVk1VMA?oc=5",
-   "source": "news - Mongabay",
+   "title": "Japan's KEPCO Joins 390MW Polish Offshore Wind Project",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORFB2bWVWVW1sVFVaOXlJVUs0OEFJTm1fdllLLS1TUi16NVltS2NMa194Tkd3bnNseUF0WXhLWWxLZDZacXdRVkdjN1BjLUJodkpQbFdVbms0TDZkR0JVdzNuZVhZV0c2RXh1bTRTaG85QzhDbVBOOUctNVlxWkg5ZVIzTWtMeGE2YkxUNGx1VjdkdTd0OGpV?oc=5",
+   "source": "Offshore Engineer Magazine",
    "date": "2026-11-20",
    "img": ""
   },
   {
-   "title": "South Korea, Norway Business Communities Reunite After 10 Years, Expanding Cooperation Beyond Shipbuilding to Defense and Offshore Wind",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uWFhJNUsyemlrdnBaQy1kbklFV0h3UjYyOUY4NTV6NFlQQi16a0hrTm9IcFNCZXo4dHFFNGxDOHRkUzhFYmxKMDNkLUQweHBSWjZydTR3TlJqUWJ1YmVPRGxpdTl4QUNFeEhOOWZKc21GZUl6TGc?oc=5",
-   "source": "finance.biggo.com",
-   "date": "2026-11-20",
-   "img": ""
-  },
-  {
-   "title": "LOOK: President Ferdinand “Bongbong” Marcos Jr. met with Ming Yang Smart Energy Group Chairman Zhang Chuanwei and company executives during the sidelines of the 33rd APEC Economic Leaders’ Meeting in Shenzhen, China. The leaders discussed",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSWF2WmkzQjJhS3FWeUtZSEJmcV9zZFdXZHRraERmTngxMk81QXhtT0J4SHp5YzVzeU9EdjFwUUlNUDRUZVQyNkNQdE5fWV9EZ3V2VElkYW5oUnYwNHZoYWFBMWVGM3pBYWZNdGEwTEtMSUcwUzNWZ05hYWxVZWZ2S21NRUxWUlN5RUZBNnJ3RXJJQTdSUktyQ3RSbWMzbVpaa0RabmZRZnpub21lT19QUUJFQWltZXJVcFJXNFFOZHdWUjBWbXZGeVdUeGUxbW5xQ1kw?oc=5",
-   "source": "Facebook",
+   "title": "Korean industrial heavyweights chase Seoul's 45-GW offshore wind target",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ac1BZa1lDaEZBU19rdURlb3dHSmJOeW5CdHB0MEJVNGdsTE83dzY2QmtPM25ManViNTZNclRiRUpnZVVFeWxzdmt1WE8xTGh0Qnc3UkFLYU1GZWYxQVZJQ2N5cHc2R05G?oc=5",
+   "source": "KED Global",
    "date": "2026-11-20",
    "img": ""
   }
@@ -66,13 +66,6 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "DEME’s CDWE Completes Offshore Installation Works for 1 GW Hai Long Offshore Wind Project in Taiwan",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHRJdndBVEVBbVBkblRUUUFab0s4QUtnMHRBQnZUU21lYXVEUFYzSHBmUlVTN0kzV1BOUC1MNUlQSm5kci1HMEkwemNDT0k5NUlDWDNyc255cGFMS3AzNnJWT1BkT29ycnJxRzJTUHhPeXdPTFVja2hERmVRZllFaHBIUTdlaGItUWd1TzE0TXJycXg3MHJ1OHdMVlVvZ3h1WTN6MmI4RGRHc1o2Z2tLOTRUQjNBM1dQVENLWWszaw?oc=5",
-   "source": "DredgeWire",
-   "date": "2026-11-18",
-   "img": ""
-  },
-  {
    "title": "Hai Long Offshore Wind's 73 Turbines All Grid-Connected: 1GW Capacity Leads Asia, Full Commercial Operation Set for 2027",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rWXBMVnh0TVZmY1BlMEl6dng5S2d2V01OOG00ZVRBY1JjOGgyNGZWbGZPUkZyR29kcVFMVFNXVUpCRG5wQmRVdjU4a2tUSUhGUEJPRFpUMlNseHZMMXVseHJmVjNybE9OSEZ2V2VoQnREanZsN1E?oc=5",
    "source": "BigGo Finance",
@@ -80,7 +73,7 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Opening ceremony for Hai Long offshore wind project",
+   "title": "The Hai Long offshore wind farm celebrates construction milestone",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzhKUWF2RmlIb3Y3RWdZdUF4clFRNUhFb0VIcVFxNzRYXzVUTEtpcEVfWUJMYkxfYzRUQm04SjN1XzAtTHktU1RzVTFYMUg1ZFdTc05reDZ0dy1PM0FKcW9ESUc1UEd5OUpRN0xYYnNieE5zNjVyMVFtc3N3VWJqS1BTQVFJWk9SM3c5S3FXWXZJQ1NCSDhjZlpPTnBrUQ?oc=5",
    "source": "Ocean Energy Resources",
    "date": "2026-11-17",
@@ -108,7 +101,14 @@ window.NEWS={
    "img": "https://www.offshorewind.biz/api/media/file/Oga-Katagami-Akita%20towers%20_%20Jera%20Nex%20BP-800x533.jpg?prefix=media"
   },
   {
-   "title": "Semco Maritime and PTSC M&C Net Offshore Substation Contract for CIP’s Second Fengmiao Project",
+   "title": "Aberdeen Subsea Robotics Firm Secures First Offshore Wind Contract in Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd0Y4dWVYNXVCOC1ySWExQWMtSE11N3Z1aER5eW5Sd2NvQk9Dc0xnVUY4clRab0hlTXJBbTU3MHptbDNadWx5eTM2RmNkbm1XVmJMUFdXVWFyOWlLYjFldmZoTTNxakNLMkZYS2xZd251ajFiWlg2X0xYMHJ3dGplTVN4Z0RuT1VZa0VNQ192RHpLRFE5cXgxQlZlOWxOMGluVWN3aGxPMk9NODF2WEJSUlczYzdMZjA?oc=5",
+   "source": "Offshore Wind",
+   "date": "2026-11-16",
+   "img": "https://www.offshorewind.biz/api/media/file/HPR%20ROV%20KIT-800x533.webp?prefix=media"
+  },
+  {
+   "title": "PTSC M&C and SEMCO Maritime signed an EPC contract for the offshore substation of the Fengmiao 2 wind power project.",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS2JBaXBiNV9ZYm1HRG82SGRTOFhfYXdhS1JfazN0X3VTYmN1LXRGYkJhYjFEWG0xVVAzM0lLc3hFTkIzSVZHTzBwWG13Z21NTFNYLW5PeU9QWHNJZUY3NVlMYzN1bF9nNFdaX0liTWM4bnVJUHVOekFqR3hibjY2X1p2RjAyZG1EMEdaM0h4VFJYTTdVQkh3eWVZNjVhS2pHcGtrR3dzU1MyOEk5WDJiTVV0Vjh5TFplX1pQdWt3eHdPVmd2VDZ5V01TRXJSVzI1?oc=5",
    "source": "Offshore Wind",
    "date": "2026-11-16",
@@ -124,10 +124,10 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Cadeler plc (CDLR) stock price, news, quote and history",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53S2V6WjBZSnYwemhTeXdkdlNKdUVNa1p0TXEzc1hleDZ5UHhEdHFtRi1UZ090djNGbHR6NWZOalZIZjl3eldHTk1jRDkxR3ZrN2c?oc=5",
-   "source": "Yahoo Finance UK",
-   "date": "2026-11-17",
+   "title": "How offshore wind farm developers can boost returns without bigger turbines",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0JqNmNWdGcxekpaWVJzS3dhSGZHNmdXNEpsakRkMzJhMVE2UEZSNlpvLUVRdjhKdEczZnRfbTJULVZnSGxINTBJaHZnQWlWbEE4TEM1VVAtanZRbklPakdrZmZoTXMwdU1WU1NfWXR2cnZCTExOU1VvLWlsbTFINjVEWmpqMXdZTkY3c2tNQkU5RWpVTzVCRDNITERESi1pRldILVN1aElmMWxOaTItSmFZSFJ4V3Fmal9ubVk4Rm5fNFlfdUE?oc=5",
+   "source": "Recharge News",
+   "date": "2026-11-18",
    "img": ""
   },
   {
@@ -145,6 +145,13 @@ window.NEWS={
    "img": "https://www.offshorewind.biz/api/media/file/A-class%20vessel%20Wind%20Ace_Cadeler-800x600.webp?prefix=media"
   },
   {
+   "title": "Cadeler announce €501 million acquisition of Menck",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3RkRFNXTFg3dG9tcXRoQVI4Vm9Gc2JCaTVSWkpTNTkzZ3VCN2p4ZlJFRktqRzZ0M1ZPa3BZbE4tRGxYNXMwdXJGOVB2SXVMaFd3Rlp1NFFkYVN1TUFKU1BwY2RoWUFhRlB6dlpNNGpYTGI2VjN4QURSWFlkSFBTYjJybFR6QnlUdFh0Q2cxQ254YnhjTDlR?oc=5",
+   "source": "TGS 4C Offshore",
+   "date": "2026-11-08",
+   "img": ""
+  },
+  {
    "title": "Dogger Bank Wind Farm signs Cadeler contract for second turbine installation vessel",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSzFCMllnV3g2dVYyYnRINXI2a0I3RnRrNVdwbXgtTXltS0NxZk93TGFVSUJiWXJrYWVWLUsyZVlIVHRiVmtYcjEtN1NubmNnLXJnLVprUnlOLUlUVGc4V3lMWUZUQ3VFczUtN3BWMzAtYWo1LWFrbkVGNjg0ZFNOelR2VVcxdjNUUXF5MWFCWVpfTW13d2hWVWRXd2dMS2NwNlRXNEltS2RYQzdyYjNzVjR1Qnd2QnBidWNQMUF1RFkxRDlFTUE?oc=5",
    "source": "Energy Global",
@@ -159,13 +166,6 @@ window.NEWS={
    "img": ""
   },
   {
-   "title": "Cadeler selects Fugro for post-installation seabed surveys at East Anglia TWO",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUk1LWUNkSnFnT1JpMVl3SUFVRjNqUEktczVWOHFveERsRHRiR1lkcmRSVmNBY0pXLWVjbTk4QzFTa1Utakk3U1dFQVUwN2FxOV9YZnJ2bE9tWVNxUFowTHFGLVR5OE1hYVNZREhwVzloWmFOcUptVzJUWVZUck1kakFBbm1aSzMwWWdQbUluU1RubXlkM04xWGhnLUlTaFY1OG9nNlZpeDNGMm9Bd3JlNEp4LTZWbVRGcmV3MXVR?oc=5",
-   "source": "Energy Global",
-   "date": "2026-11-04",
-   "img": ""
-  },
-  {
    "title": "Cadeler to handle turbines at 1.2-GW Dogger Bank C in UK",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXFKWHRjd3RwVkVpYjlnMUFYRF9ua3YxOGlhellHcVA0TEEyMnhxUUZvUGhBOWZ3TDhhb2ZtQXRENTZLT0dkVDVTT0J5dWxZWDdDNzNIUHkxSlV1RWJTdlc0Y1Fab0VMSHRlcU5uQjRtMzloZmxZZm00VGpMam8yajFDNnI2WEE3M2xZMkVYZXR0cUNMbnRVOTlrSUI?oc=5",
    "source": "Renewables Now",
@@ -173,5 +173,5 @@ window.NEWS={
    "img": ""
   }
  ],
- "updated": "2026-11-22 01:46 UTC"
+ "updated": "2026-11-23 02:04 UTC"
 };
